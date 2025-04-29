@@ -51,16 +51,53 @@ def load_questions(file_path):
     return subjects
 
 # === Bot Handlers ===
-def start(update: Update, context: CallbackContext):
-    subjects = list(context.bot_data['questions'].keys())
-    print(f"DEBUG: Subjects loaded: {subjects}") 
-    keyboard = [[InlineKeyboardButton(subj, callback_data=f"subj|{subj}")]
-                for subj in subjects]
-    keyboard.append([InlineKeyboardButton("Random 40 Questions", callback_data="random")])
-    reply_markup = InlineKeyboardMarkup(keyboard)
+from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
+from telegram.ext import CallbackContext
+# Assuming SELECTING_SUBJECT is defined elsewhere
 
-    update.message.reply_text("Choose a subject:", reply_markup=reply_markup)
-    return SELECTING_SUBJECT
+# === Your other code (imports, constants, load_questions, etc.) ===
+
+def start(update: Update, context: CallbackContext):
+    # --- OLD CODE ---
+    # subjects = list(context.bot_data['questions'].keys())
+    # print(f"DEBUG: Subjects loaded: {subjects}") # Keep this if debugging the dynamic version
+    # keyboard = [[InlineKeyboardButton(subj, callback_data=f"subj|{subj}")]
+    #             for subj in subjects]
+    # keyboard.append([InlineKeyboardButton("Random 40 Questions", callback_data="random")])
+    # reply_markup = InlineKeyboardMarkup(keyboard)
+    # --- END OLD CODE ---
+
+    # +++ NEW HARDCODED CODE +++
+    # Define your subjects manually here
+    known_subjects = ["Math", "English"] # Add other subjects from your file exactly as named
+
+    keyboard = []
+    for subj in known_subjects:
+        # Create a button for each known subject
+        keyboard.append([InlineKeyboardButton(text=subj, callback_data=f"subj|{subj}")])
+
+    # Add the random button separately
+    keyboard.append([InlineKeyboardButton(text="Random 40 Questions", callback_data="random")])
+
+    # Create the Reply Markup
+    reply_markup = InlineKeyboardMarkup(keyboard)
+    # +++ END NEW HARDCODED CODE +++
+
+
+    # Send the message (this line remains the same)
+    # If the error happened here, it was due to the content of reply_markup
+    try:
+        update.message.reply_text("Choose a subject:", reply_markup=reply_markup)
+        return SELECTING_SUBJECT
+    except Exception as e:
+        print(f"ERROR sending start message: {e}") # Add error logging here
+        # Handle the error appropriately, maybe send a text message without keyboard
+        update.message.reply_text("Sorry, there was an error setting up the subjects.")
+        # Decide what state to return or if to end conversation
+        return ConversationHandler.END # Or appropriate fallback state
+
+
+# === Rest of your bot code ===
 
 def start_quiz(update: Update, context: CallbackContext):
     query = update.callback_query
