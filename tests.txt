@@ -1,0 +1,283 @@
+Subject: Math
+
+What is 5 + 3?
+A) 7
+B) 8
+C) 9
+D) 10
+Answer: B
+
+What is 9 - 4?
+A) 6
+B) 3
+C) 5
+D) 7
+Answer: C
+
+What is 6 * 3?
+A) 18
+B) 12
+C) 9
+D) 21
+Answer: A
+
+What is 20 / 4?
+A) 4
+B) 5
+C) 6
+D) 8
+Answer: B
+
+What is the square of 5?
+A) 15
+B) 20
+C) 25
+D) 30
+Answer: C
+
+What is 2 + 2 * 2?
+A) 6
+B) 8
+C) 4
+D) 2
+Answer: A
+
+What is the square root of 81?
+A) 8
+B) 9
+C) 7
+D) 6
+Answer: B
+
+What is 7 * 7?
+A) 49
+B) 56
+C) 64
+D) 42
+Answer: A
+
+What is 100 / 10?
+A) 5
+B) 15
+C) 10
+D) 20
+Answer: C
+
+What is 10^2?
+A) 10
+B) 100
+C) 1000
+D) 20
+Answer: B
+
+What is 12 + 15?
+A) 25
+B) 27
+C) 30
+D) 28
+Answer: B
+
+What is 40 - 18?
+A) 20
+B) 21
+C) 22
+D) 23
+Answer: C
+
+What is 3 * 9?
+A) 27
+B) 18
+C) 24
+D) 30
+Answer: A
+
+What is 16 / 2?
+A) 7
+B) 8
+C) 6
+D) 10
+Answer: B
+
+What is 2^4?
+A) 8
+B) 10
+C) 16
+D) 12
+Answer: C
+
+What is 25 + 25?
+A) 40
+B) 45
+C) 50
+D) 55
+Answer: C
+
+What is 49 - 9?
+A) 39
+B) 40
+C) 41
+D) 42
+Answer: D
+
+What is 5 * 6?
+A) 30
+B) 25
+C) 35
+D) 40
+Answer: A
+
+What is 18 + 3?
+A) 21
+B) 20
+C) 22
+D) 19
+Answer: A
+
+What is 90 / 10?
+A) 8
+B) 9
+C) 10
+D) 11
+Answer: B
+
+Subject: English
+
+Choose the correct form: She ___ to school every day.
+A) go
+B) going
+C) goes
+D) gone
+Answer: C
+
+Choose the correct article: I saw ___ elephant.
+A) a
+B) an
+C) the
+D) one
+Answer: B
+
+Choose the right word: They ___ playing football.
+A) is
+B) are
+C) am
+D) be
+Answer: B
+
+Choose the past form: He ___ to the store yesterday.
+A) go
+B) went
+C) goes
+D) going
+Answer: B
+
+Choose the correct sentence:
+A) I am going to school.
+B) I going to school.
+C) I is going school.
+D) I am go school.
+Answer: A
+
+Choose the synonym of "happy":
+A) sad
+B) joyful
+C) angry
+D) slow
+Answer: B
+
+What is the opposite of "cold"?
+A) warm
+B) ice
+C) snow
+D) cool
+Answer: A
+
+Choose the correct word: She has ___ apple.
+A) an
+B) a
+C) the
+D) one
+Answer: A
+
+Complete the sentence: He ___ a book.
+A) reads
+B) readed
+C) reading
+D) is
+Answer: A
+
+Choose the plural form of "child":
+A) childs
+B) children
+C) childrens
+D) childes
+Answer: B
+
+Which is a verb?
+A) happy
+B) quickly
+C) run
+D) red
+Answer: C
+
+Choose the correct form: I ___ dinner now.
+A) have
+B) having
+C) am having
+D) has
+Answer: C
+
+Complete the sentence: They ___ friends.
+A) is
+B) are
+C) be
+D) being
+Answer: B
+
+Choose the correct question: ___ you like pizza?
+A) Do
+B) Does
+C) Did
+D) Done
+Answer: A
+
+Select the adjective:
+A) fast
+B) run
+C) jump
+D) shout
+Answer: A
+
+Choose the opposite of "open":
+A) lock
+B) shut
+C) close
+D) narrow
+Answer: C
+
+Pick the correct sentence:
+A) He are my friend.
+B) He is my friend.
+C) He am my friend.
+D) He be my friend.
+Answer: B
+
+Choose the correct preposition: The book is ___ the table.
+A) on
+B) at
+C) in
+D) by
+Answer: A
+
+Choose the correct verb form: She ___ swimming now.
+A) is
+B) are
+C) be
+D) am
+Answer: A
+
+Which one is a noun?
+A) jump
+B) cat
+C) blue
+D) quickly
+Answer: B
