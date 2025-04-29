@@ -53,6 +53,7 @@ def load_questions(file_path):
 # === Bot Handlers ===
 def start(update: Update, context: CallbackContext):
     subjects = list(context.bot_data['questions'].keys())
+    print(f"DEBUG: Subjects loaded: {subjects}") 
     keyboard = [[InlineKeyboardButton(subj, callback_data=f"subj|{subj}")]
                 for subj in subjects]
     keyboard.append([InlineKeyboardButton("Random 40 Questions", callback_data="random")])
