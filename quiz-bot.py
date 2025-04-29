@@ -3,7 +3,7 @@ import random
 import os
 import asyncio
 import json
-from threading import Thread
+# Removed Thread import as Flask runs in main thread for webhook mode now
 from flask import Flask, request, Response
 
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
@@ -30,14 +30,10 @@ if not TOKEN:
     print("CRITICAL: Bot token not found. Set TELEGRAM_BOT_TOKEN in your .env file or environment variables.")
     exit()
 
-# Webhook setup - Get URL from environment variable provided by hosting (e.g., Render)
-# Render automatically sets PORT env var. For local testing, you might need to set WEBHOOK_URL manually.
-PORT = int(os.environ.get('PORT', 8443)) # Default port if not set by Render
-WEBHOOK_MODE = os.environ.get('WEBHOOK_MODE', 'False').lower() == 'true' # Set to True in Render env vars
-# You MUST set WEBHOOK_URL in Render environment variables to your public app URL
-# e.g., https://your-app-name.onrender.com
-WEBHOOK_URL_BASE = os.environ.get("WEBHOOK_URL")
-WEBHOOK_PATH = "webhook" # The path Telegram will send updates to
+PORT = int(os.environ.get('PORT', 8443))
+WEBHOOK_MODE = os.environ.get('WEBHOOK_MODE', 'False').lower() == 'true'
+WEBHOOK_URL_BASE = os.environ.get("WEBHOOK_URL") # e.g., https://your-app-name.onrender.com
+WEBHOOK_PATH = "webhook" # Consistent path
 
 if WEBHOOK_MODE and not WEBHOOK_URL_BASE:
     print("CRITICAL: WEBHOOK_MODE is True, but WEBHOOK_URL environment variable is not set.")
@@ -45,7 +41,7 @@ if WEBHOOK_MODE and not WEBHOOK_URL_BASE:
 
 WEBHOOK_FULL_URL = f"{WEBHOOK_URL_BASE}/{WEBHOOK_PATH}" if WEBHOOK_URL_BASE else None
 
-QUIZ_FILE = 'tests.txt' # Make sure this file is in the same directory
+QUIZ_FILE = 'tests.txt'
 QUESTIONS_PER_BATCH = 10
 
 # === STATES ===
@@ -59,7 +55,7 @@ logging.getLogger("httpx").setLevel(logging.WARNING)
 logger = logging.getLogger(__name__)
 
 # === Utils ===
-# load_questions function remains the same as in the previous v20 version
+# load_questions function remains the same
 def load_questions(file_path):
     """Loads questions from a text file into a dictionary by subject."""
     subjects = {}
@@ -73,55 +69,41 @@ def load_questions(file_path):
     current_subject = None
     for block in content.strip().split('\n\n'):
         lines = block.strip().split('\n')
-
-        # Check for subject line first
         if lines[0].startswith("Subject:"):
             try:
                 current_subject = lines[0].split(":", 1)[1].strip()
-                if current_subject: # Ensure subject name is not empty
-                     subjects[current_subject] = [] # Initialize subject list
+                if current_subject:
+                     subjects[current_subject] = []
                      logger.info(f"Found subject: {current_subject}")
                 else:
                     logger.warning(f"Found empty subject name in block: {block}")
-                    current_subject = None # Reset if subject name is empty
+                    current_subject = None
             except IndexError:
                  logger.warning(f"Malformed Subject line: {lines[0]}")
                  current_subject = None
-            continue # Move to the next block after processing subject line
-
-        # Process question block only if we have a valid current subject
+            continue
         if current_subject is None:
              logger.warning(f"Skipping block due to missing subject context: {block}")
              continue
-
         if len(lines) < 6:
             logger.warning(f"Skipping malformed block for subject '{current_subject}': {block}")
             continue
-
-        # Ensure the subject key exists (it should due to the check above)
         if current_subject not in subjects:
              logger.error(f"Internal logic error: Subject '{current_subject}' not initialized.")
-             continue # Should not happen
-
+             continue
         try:
             q = lines[0]
             options = lines[1:5]
             answer_line = lines[5]
-            # Ensure options look like "A) Text"
             if not all(len(opt) > 2 and opt[1] == ')' for opt in options):
                  logger.warning(f"Malformed options in block for subject '{current_subject}': {options}")
                  continue
-            # Ensure answer line looks like "Answer: X"
             if not answer_line.startswith("Answer:"):
                  logger.warning(f"Malformed answer line for subject '{current_subject}': {answer_line}")
                  continue
-
             correct = answer_line.split(":", 1)[1].strip()
-
             subjects[current_subject].append({
-                'question': q,
-                'options': options, # Store options like "A) Option Text"
-                'correct': correct # Store correct answer letter like "A"
+                'question': q, 'options': options, 'correct': correct
             })
         except IndexError:
             logger.warning(f"Skipping block due to parsing error for subject '{current_subject}': {block}")
@@ -135,9 +117,7 @@ def load_questions(file_path):
 
 # === Bot Handlers (Async v20 Style) ===
 # start, start_quiz, send_next_question_batch, handle_answer, handle_next, cancel
-# These functions remain IDENTICAL to the previous v20 polling version.
-# They are already async and use context.user_data.
-
+# These functions remain IDENTICAL to the previous v20 webhook version.
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     """Sends a message with inline buttons to choose a quiz subject."""
     known_subjects = ["Math", "English"]
@@ -184,7 +164,7 @@ async def start_quiz(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
              logger.error(f"User {user_id} requested random questions, but no subjects loaded.")
              await query.edit_message_text("Sorry, no questions available.")
              return ConversationHandler.END
-        target_per_subject = max(1, 40 // len(all_loaded_questions))
+        target_per_subject = max(1, 40 // len(all_loaded_questions)) if len(all_loaded_questions) > 0 else 10
         for subj_questions in all_loaded_questions.values():
              count = min(target_per_subject, len(subj_questions))
              if count > 0:
@@ -321,9 +301,23 @@ async def handle_next(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int
 
 async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     """Cancels the conversation."""
-    user = update.message.from_user
-    logger.info("User %s canceled the conversation.", user.first_name)
-    await update.message.reply_text("Quiz canceled. Use /start to begin again.")
+    user = update.effective_user # Use effective_user for potential channel posts etc.
+    if user:
+        logger.info("User %s canceled the conversation.", user.first_name)
+    else:
+         logger.info("Conversation canceled (user info not available).")
+
+    if update.message:
+        await update.message.reply_text("Quiz canceled. Use /start to begin again.")
+    elif update.callback_query:
+         # Need to send a new message if cancelling from a button press
+         await context.bot.send_message(chat_id=update.effective_chat.id, text="Quiz canceled. Use /start to begin again.")
+         try:
+            # Attempt to remove the message the button was attached to
+            await update.callback_query.edit_message_reply_markup(reply_markup=None)
+         except BadRequest:
+             pass # Ignore if message is too old or already removed
+
     context.user_data.clear()
     return ConversationHandler.END
 
@@ -343,7 +337,7 @@ flask_app = Flask(__name__)
 @flask_app.route("/")
 def index():
     """Basic route for health checks (e.g., UptimeRobot)."""
-    logger.info("Health check endpoint '/' accessed.")
+    # logger.info("Health check endpoint '/' accessed.") # Reduce log noise
     return "Quiz Bot is alive!"
 
 @flask_app.route(f"/{WEBHOOK_PATH}", methods=["POST"])
@@ -352,10 +346,8 @@ async def telegram_webhook():
     if request.is_json:
         update_data = request.get_json()
         update = Update.de_json(update_data, application.bot)
-        logger.debug(f"Webhook received update: {update.update_id}")
-        # Put update into the queue and process it
-        # This ensures updates are handled by the PTB application context
-        async with application: # Ensure contextvars are set correctly
+        # logger.debug(f"Webhook received update: {update.update_id}") # Reduce log noise
+        async with application:
              await application.process_update(update)
         return Response("OK", status=200)
     else:
@@ -366,8 +358,7 @@ async def telegram_webhook():
 # Load questions once at startup
 loaded_questions = load_questions(QUIZ_FILE)
 if not loaded_questions:
-    logger.critical(f"CRITICAL: No questions loaded from {QUIZ_FILE}. Bot might not function correctly.")
-    # Decide if you want the bot to exit or run without questions
+    logger.critical(f"CRITICAL: No questions loaded from {QUIZ_FILE}.")
 
 # Build the PTB Application
 application = ApplicationBuilder().token(TOKEN).build()
@@ -390,6 +381,7 @@ conv_handler = ConversationHandler(
         ],
     },
     fallbacks=[CommandHandler("cancel", cancel)],
+    # Removed PTBUserWarning trigger by not setting per_message=False explicitly
 )
 
 # Add handlers to the application
@@ -401,7 +393,6 @@ async def setup_webhook():
     """Sets the webhook URL with Telegram."""
     logger.info(f"Setting webhook to: {WEBHOOK_FULL_URL}")
     try:
-        # Need to run this within the application context for bot instance
         async with application:
             await application.bot.set_webhook(url=WEBHOOK_FULL_URL, allowed_updates=Update.ALL_TYPES)
         logger.info("Webhook set successfully.")
@@ -410,43 +401,43 @@ async def setup_webhook():
         logger.error(f"Failed to set webhook: {e}")
         return False
 
-async def main_async():
-    """Initializes the application and sets webhook if needed."""
-    async with application: # Initialize application context
-        if WEBHOOK_MODE and WEBHOOK_FULL_URL:
-            if not await setup_webhook():
-                logger.critical("Webhook setup failed. Exiting.")
-                return # Exit if webhook setup fails
-        else:
-             logger.info("Running in Polling mode (WEBHOOK_MODE is not True or WEBHOOK_URL not set).")
-             # If not using webhook, start polling (useful for local testing)
-             # Note: This part won't run if Flask is started below
-             # await application.initialize() # Not needed if run_polling is called
-             # await application.updater.start_polling(allowed_updates=Update.ALL_TYPES)
-             # await application.start() # Not needed for polling
-
-        # Keep the main async function alive if needed,
-        # but Flask will handle the main loop in webhook mode.
-        # If running polling, this would be where run_polling goes.
-        logger.info("PTB Application initialized.")
-        # For webhook mode, we don't block here with run_polling.
-        # Flask will handle incoming requests.
+async def main_async_setup():
+    """Only performs async setup steps like setting the webhook."""
+    if WEBHOOK_MODE and WEBHOOK_FULL_URL:
+        logger.info("Attempting async webhook setup...")
+        await setup_webhook()
+    else:
+        logger.info("No async setup needed for polling mode.")
 
 
 if __name__ == "__main__":
     # Initialize the PTB application context and potentially set webhook
-    # Running this in the main thread before starting Flask
-    asyncio.run(main_async())
-
     if WEBHOOK_MODE:
-        logger.info(f"Starting Flask server on port {PORT} for webhook...")
+        # Run the async setup using asyncio.run() before starting Flask
+        try:
+            logger.info("Running async setup for webhook...")
+            asyncio.run(main_async_setup())
+            logger.info("Async setup finished.")
+        except Exception as e:
+            logger.error(f"Error during async setup: {e}", exc_info=True)
+            logger.critical("Exiting due to async setup failure.")
+            exit() # Exit if setup fails
+
+        logger.info(f"Starting Flask server on host 0.0.0.0 port {PORT} for webhook...")
         # Run Flask app (blocking call)
-        # Use a production-ready server like waitress or gunicorn in production
-        # For simplicity here, using Flask's development server
-        # Note: Flask's dev server is not recommended for production
-        flask_app.run(host="0.0.0.0", port=PORT)
+        # Use waitress or gunicorn in production instead of flask_app.run
+        # Example using waitress (install with pip install waitress):
+        # from waitress import serve
+        # serve(flask_app, host='0.0.0.0', port=PORT)
+        flask_app.run(host="0.0.0.0", port=PORT) # Use Flask's dev server for simplicity here
     else:
-        # If not in webhook mode, start polling (blocking call)
+        # If not in webhook mode, just start polling directly.
+        # run_polling handles the asyncio loop internally.
         logger.info("Starting bot polling...")
-        application.run_polling(allowed_updates=Update.ALL_TYPES)
+        try:
+            application.run_polling(allowed_updates=Update.ALL_TYPES)
+        except KeyboardInterrupt:
+            logger.info("Polling stopped manually.")
+        except Exception as e:
+            logger.error(f"Error during polling: {e}", exc_info=True)
 
