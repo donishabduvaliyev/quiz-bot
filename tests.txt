@@ -2,25 +2,25 @@ Subject: osimlik-moyi
 
 
 Texnologik sxemaga to'g'ri keltirilgan tavsifni toping?
-A) Mahsulot ishlab chiqarishda jaryonlarning ketma-ket bilan amalga oshirilishi va mashina uskunalarini ko'rsatgan xolatidagi tasviri
-B) Bu biror bir xom-ashyoga ishloy berish
+A) Bu biror bir xom-ashyoga ishloy berish
+B) Mahsulot ishlab chiqarishda jaryonlarning ketma-ket bilan amalga oshirilishi va mashina uskunalarini ko'rsatgan xolatidagi tasviri
 C) Yarim tayyor mahsulot ishlab chiqarish yoki tayyor mahsulot ishlab chiqarishda ishlatiladigan xom ashyolar miqdorı ya ularning kimyoviy tarkibi
 D) Tizimlar bo'yicha tayyor mahsulot ishlab chiqarish
-ANSWER: A
+ANSWER: B
 
 Texnologik jarayonga to'g'ri keltirilgan tavsifni aniqlang.
-A) Ishlov berilayotgan xom ashyo bir joyda, bir vaqt oralig'ida ko'rsatilayotgan ta'siri
+A) Texnologiyada mahsulotni miqdorini o'zgarishini (mahsulotni chiqitga chiqishi, yo'qolishini) ko'rsatish
 B) Texnologiyada ifodalangan nomlar va sistemalar
-C) Texnologiyada mahsulotni miqdorini o'zgarishini (mahsulotni chiqitga chiqishi, yo'qolishini) ko'rsatish
+C) Ishlov berilayotgan xom ashyo bir joyda, bir vaqt oralig'ida ko'rsatilayotgan ta'siri
 D) Xom ashyodan mahsulot chiqishini nazorat qilish
-ANSWER: A
+ANSWER: C
 
 Texnologik liniyaning unumdorligi nima?
-A) Bir soatda, bir smenada yoki bir sutkada ishlab chiqarilgan mahsulot miqdori
+A) Korxonani umumiy ishlab chiqarish rejasi
 B) Xozirgi vaqtda moyli o'simlik xom ashyolaridan moy olishning ikki xil usullarining afzalliklari
 C) Tayyor mahsulotni sonlardagi ifodasi
-D) Korxonani umumiy ishlab chiqarish rejasi
-ANSWER: A
+D) Bir soatda, bir smenada yoki bir sutkada ishlab chiqarilgan mahsulot miqdori
+ANSWER: D
 
 Texnologik rejimga to'g'ri keltirilgan tavsifni toping.
 A) Texnologik Jarayon holatini son qiymatlari (harorat, namlik, bosim va boshqalar) orqali ifodalash
@@ -37,11 +37,11 @@ D) 6m
 ANSWER: A
 
 Texnologik Jarayonni strukturaviy sxemasiga to'g'ri keltirilgan tavsifni toping.
-A) Biror bir texnologik jarayonni yoki mahsulot ishlab chiqarishdagi texnologik jarayonlar nomini ketma-ketlikda ifodasi
-B) Moy ishlab chiqarish jarayonlari majmuasi, korxonalarning ishlash muddati, tartibi va mahsulotni chiqitga chiqishi, yo'qolishini ko'rsatish
+A) Moy ishlab chiqarish jarayonlari majmuasi, korxonalarning ishlash muddati, tartibi va mahsulotni chiqitga chiqishi, yo'qolishini ko'rsatish
+B) Biror bir texnologik jarayonni yoki mahsulot ishlab chiqarishdagi texnologik jarayonlar nomini ketma-ketlikda ifodasi
 C) Mahsulot ishlab chiqarishdagi texnologik jarayonlarni umumiy nomlanishi
 D) Texnologik tizim tavsifi
-ANSWER: A
+ANSWER: B
 
 Xom ashyo balansiga to'g'ri keltirilgan tavsifni toping.
 A) Ishlab chiqarishda sarflangan xarajatlarning umumiy fizi
@@ -51,25 +51,25 @@ D) Mahsulot ishlab chiqarishda texnologik jarayonlar vaqtida mahsulot miqdorini 
 ANSWER: A
 
 Hozirgi vaqtda moyli o'simlik xom ashyolaridan moy qaysi usullar bilan olinadi?
-A) Presslash usuli va ekstraksiya usuli
+A) Sanoat tarmoqlarda juvoz bilan
 B) Yuqori haroratda qizdirish va past bosimda govurish yordamida
-C) Sanoat tarmoqlarda juvoz bilan
+C) Presslash usuli va ekstraksiya usuli
 D) Sovuq presslash va issiq ekstraktsiya
-ANSWER: A
+ANSWER: C
 
 Moyli xom ashyolardan moy olishda nechta asosiy texnologik sxemalar guruhi mavjud?
-A) Presslash, ekstraksiya, press-ekstraksiya  
-B) Moy ishlab chiqarish texnologiyasida diffuziya va issiqlik diffuziyasi jarayonlari  
+A) Moy ishlab chiqarish texnologiyasida diffuziya va issiqlik diffuziyasi jarayonlari  
+B) Presslash, ekstraksiya, press-ekstraksiya  
 C) Texnologiyada issiqlik diffuziyasi  
 D) Shnekli pressda moy olish  
-ANSWER: A
+ANSWER: B
 
 Moy olish uchun qaysi xom ashyolardan foydalanish to'g'ri keltirilgan Answerni toping?
-A) Kungaboqar, soya, masxar, kunjut, paxta chigiti, yeryong'oq va boshqa  
+A) Don, dukkakli o'simliklar, gorchisa, yovvoyi masxar, beda va kunjut urug'i  
 B) Jo'xon, gorox, xantal va boshqa baliq mahsulotlari  
 C) Kunjut, paxta chigiti, yeryong'oq, tarvuz va qovoq urug'i  
-D) Don, dukkakli o'simliklar, gorchisa, yovvoyi masxar, beda va kunjut urug'i  
-ANSWER: A
+D) Kungaboqar, soya, masxar, kunjut, paxta chigiti, yeryong'oq va boshqa  
+ANSWER: D
 
 O'rta tolali chigitning tuklilik darajasi ikki marta tozalanganda foizni tashkil etadi?
 A) 8%  
@@ -79,25 +79,25 @@ D) 1,2%
 ANSWER: A
 
 O'rta tolali chigitning tuklilik darajasi bir marta tozalanganda necha foizni tashkil etadi?
-A) Bir marta tozalangan chigitda -11,0% gacha bo'ladi  
+A) Bir marta tozalangan chigitda 21,0% gacha bo'ladi  
 B) Bir marta tozalangan chigitda -3, 1,0% gacha bo'ladi  
-C) Bir marta tozalangan chigitda 21,0% gacha bo'ladi  
+C) Bir marta tozalangan chigitda -11,0% gacha bo'ladi  
 D) Bir marta tozalangan chigitda -10,0% gacha bo'ladi  
-ANSWER: A
+ANSWER: C
 
 O'rta tolali chigitning namligi qanday bo'ladi?
-A) 8,0%dan oshmasligi kerak  
-B) 2,5%dan oshmasligi kerak  
+A) 2,5%dan oshmasligi kerak  
+B) 8,0%dan oshmasligi kerak  
 C) 16%dan oshmasligi kerak  
 D) 6,5%dan oshmasligi kerak  
-ANSWER: A
+ANSWER: B
 
 O'rta tolali chigitda begona aralash moddalar va moyli aralashmalar qanday miqdorda bo'ladi?
-A) Begona aralash moddalar va moyli aralashmalar 1,7% dan  
+A) Begona aralash moddalar va moyli aralashmalar 1,9% dan  
 B) Begona aralash moddalar va moyli aralashmalar 0,9% dan  
-C) Begona aralash moddalar va moyli aralashmalar 1,9% dan  
+C) Begona aralash moddalar va moyli aralashmalar 1,7% dan  
 D) Begona aralash moddalar va moyli aralashmalar 1,0% dan  
-ANSWER: A
+ANSWER: C
 
 Mag'izi chala pishgan chigit bilan och mag'izli chigit qanday navga kiradi?
 A) Ikkinchi navga kiradi  
@@ -107,81 +107,81 @@ D) Uchinchi navga kiradi
 ANSWER: A
 
 Mag'izi chala pishgan chigit bilan och mag'izli chigitning rangi qanday bo'ladi?
-A) Ko'ndalangiga kesib ko‘rganda chigit mag'izi no‘xot rangli bo‘lib, chigitning turlariga qarab boshqa tusda tovlanadi.  
+A) Ko‘ndalangiga kesib ko‘rganda chigit mag'izi rangli bo‘lib, chigitning turlariga qarab boshqa tusda lovlanadi.  
 B) Ko‘ndalangiga kesib ko‘rganda chigit mag'izi to‘q sariq va jigar rangli bo‘lib, chigitning turlariga qarab boshqa tusda tovlanadi.  
 C) Ko‘ndalangiga kesib ko‘rganda chigit mag'izi to‘q sariq rangli bo‘lib, uning turiga qarab boshqa tusda tovlanadi.  
-D) Ko‘ndalangiga kesib ko‘rganda chigit mag'izi rangli bo‘lib, chigitning turlariga qarab boshqa tusda lovlanadi.  
-ANSWER: A
+D) Ko'ndalangiga kesib ko‘rganda chigit mag'izi no‘xot rangli bo‘lib, chigitning turlariga qarab boshqa tusda tovlanadi.  
+ANSWER: D
 
 Ikkinchi navga kiruvchi mag'izi chala pishgan chigit bilan och mag'izli chigit tarkibida aralashmalar va namligi qanday bo'ladi?
-A) Begona aralash moddalar va moyli aralashmalar miqdori 3,5% dan, chigitning namligi 11,0% dan oshmasligi kerak.  
-B) Pishgan chigit bilan och mag'izli chigit va aralashma 2,7% dan oshmasligi kerak.  
+A) Pishgan chigit bilan och mag'izli chigit va aralashma 2,7% dan oshmasligi kerak.  
+B) Begona aralash moddalar va moyli aralashmalar miqdori 3,5% dan, chigitning namligi 11,0% dan oshmasligi kerak.  
 C) Toshli aralashmalar miqdori 3% dan, chigitning namligi 3% dan oshmasligi kerak.  
 D) Xas-chopli, toshli va turli xil mexanik aralashmalar miqdori 9% dan, chigitning namligi esa 21,0% dan oshmasligi kerak.  
-ANSWER: A
+ANSWER: B
 
 Moyli urug' obi-havoning noqulay kelishi natijasida to'liq pishib yetilmagan bo'lsa nima qilinadi?
-A) Yetiltiriladi  
-B) Quritiladi  
+A) Quritiladi  
+B) Yetiltiriladi  
 C) Qovuriladi  
 D) Chorvachilikda omuxta yem sifatida ishlatiladi  
-ANSWER: A
+ANSWER: B
 
 Moyli urug' obi-havoning noqulay kelishi natijasida buzilish turlari qaysi Answerda to'g'ri berilgan?
-A) Barcha Answer to'g'ri  
+A) Mikroblar ta'sirida  
 B) Fermentlar ta'sirida  
-C) Mikroblar ta'sirida  
+C) Barcha Answer to'g'ri  
 D) Hashorotlar ta'sirida  
-ANSWER: A
+ANSWER: C
 
 Moyli xom ashyo tarkibidagi fermentlar ta'sirida ro'y beradigan buzilish natijasida qanday jarayon kuzatiladi?
-A) Urug' tarkibidagi organik moddalar parchalanadi (nafas olish, yog'larning parchalanishi kuchayadi)  
+A) Urug' tarkibidagi organik moddalar parchalanmaydi  
 B) Nafas olish, yog'larning parchalanishi pasayadi va yog' miqdori to'la saqlanadi, oqsillar va aminokislotalar ko‘payadi  
 C) Nafas olish, yog'larning parchalanishi pasayadi  
-D) Urug' tarkibidagi organik moddalar parchalanmaydi  
-ANSWER: A
+D) Urug' tarkibidagi organik moddalar parchalanadi (nafas olish, yog'larning parchalanishi kuchayadi)  
+ANSWER: D
 
 Tashqi muhitdan kirgan tirik mikroorganizmlar (bakteriya, mog‘or zamburug‘lar), zararkunanda xashoratlarning ta'sirida ro‘y beradigan buzilish...
-A) O'z-o'zidan qiziydi  
-B) Yog' chiqmaydi  
+A) Yog' chiqmaydi  
+B) O'z-o'zidan qiziydi  
 C) Nafas olish tezlashadi  
 D) Parchalanish  
-ANSWER: A
+ANSWER: B
 
 Moyli xom ashyoda moy shakllanib bo'lganidan so'ng qanday jarayon boradi?
-A) Quruq bo‘lsa, unda tinim davri boshlanadi  
+A) Xo‘l bo‘lsa, unda tinim davri tugaydi  
 B) Xo‘l bo‘lsa rivojlanish davri boshlanib oksidlanadi  
-C) Xo‘l bo‘lsa, unda tinim davri tugaydi  
+C) Quruq bo‘lsa, unda tinim davri boshlanadi  
 D) Rivojlanish davri boshlanadi  
-ANSWER: A
+ANSWER: C
 
 Kritik namlik nima?
-A) Yetarli shart-sharoit bo‘lganda tinim xujayralarda erkin suyuq hosil bo‘lib, unda nafas olishi jadallashgan  
+A) Urug‘ning krioskopik namligi bo‘lib, sovuq haroratda kuzatiladi  
 B) Urug‘ ichidagi namlik bo‘lib, nafas olishi jadallashgan vaqtdagi namligi va presslash uchun forpressga kiritaladigan kerakli miqdordan ortiq namlik  
 C) Urug‘ ichidagi namlik  
-D) Urug‘ning krioskopik namligi bo‘lib, sovuq haroratda kuzatiladi  
-ANSWER: A
+D) Yetarli shart-sharoit bo‘lganda tinim xujayralarda erkin suyuq hosil bo‘lib, unda nafas olishi jadallashgan  
+ANSWER: D
 
 Moyli urug‘larning kritik namligi qancha bo‘lishi kerak?
-A) Kungaboqar urug‘ida 9%, paxta chigitida 12,0%, soya urug‘ida 12,5%  
-B) Kungaboqar urug‘ida 15%, paxta chigitida 16,0%, soya urug‘ida 17,5%  
+A) Kungaboqar urug‘ida 15%, paxta chigitida 16,0%, soya urug‘ida 17,5%  
+B) Kungaboqar urug‘ida 9%, paxta chigitida 12,0%, soya urug‘ida 12,5%  
 C) Kungaboqar urug‘ida 4%, paxta chigitida 10,0%, soya urug‘ida 11,5%  
 D) Kungaboqar urug‘ida 8%, paxta chigitida 5,0%, soya urug‘ida 10,5%  
-ANSWER: A
+ANSWER: B
 
 Kritik namlik bilan urug'ning moyligi o'rtasidagi bog'liqlik qanday aniqlanadi?  
-A) V - 14,5 (100 - M)/100  
-B) V - S/M * 100  
+A) V - S/M * 100  
+B) V - 14,5 (100 - M)/100  
 C) y = (100 - M) / D * 100000  
 D) V - S M/100  
-ANSWER: A
+ANSWER: B
 
 Moyli urug'larning o'z-o'zidan qizishi qanday ro'y beradi?  
-A) Ferment va mikroorganizmlar faoliyati, namlik va atrof-muhitning harorati, namligi va gaz tarkibi ta’sirida ro‘y beradi  
-B) Yuqori harorat, namlik, bosim, havoning nisbiy namligi, saqlash joylaridagi ventilyatsiyaning kamchiligi va gaz tarkibi ta’sirida ro‘y beradi  
+A) Yuqori harorat, namlik, bosim, havoning nisbiy namligi, saqlash joylaridagi ventilyatsiyaning kamchiligi va gaz tarkibi ta’sirida ro‘y beradi  
+B) Ferment va mikroorganizmlar faoliyati, namlik va atrof-muhitning harorati, namligi va gaz tarkibi ta’sirida ro‘y beradi  
 C) Urug' harorati, namligi va gaz ta’sirida ro‘y beradi  
 D) Mikrob fermenti va namlik ta’sirida  
-ANSWER: A
+ANSWER: B
 
 Moyli urug‘larning kritik namligi necha % bo‘ladi?  
 A) 14,5% gacha bo‘ladi  
