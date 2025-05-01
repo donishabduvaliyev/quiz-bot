@@ -1,6 +1,5 @@
 Subject: osimlik-moyi
- 
- 
+  
  Texnologik sxemaga to'g'ri keltirilgan tavsifni toping?
  A) Mahsulot ishlab chiqarishda jaryonlarning ketma-ket bilan amalga oshirilishi va mashina uskunalarini ko'rsatgan xolatidagi tasviri
  B) Bu biror bir xom-ashyoga ishloy berish
@@ -701,9 +700,7 @@ Subject: osimlik-moyi
  D) 2-5%
  ANSWER: A
 
-
-
- Subject: yogni-qayta-ishlash
+Subject: yogni-moy
 
 Jahon miqyosida miqdor jihatidan birinchi o’rinda turadigan o’simlik moyini tanlang?
 A) soya moyi
