@@ -1,704 +1,1400 @@
 Subject: osimlik-moyi
+ 
+ 
+ Texnologik sxemaga to'g'ri keltirilgan tavsifni toping?
+ A) Mahsulot ishlab chiqarishda jaryonlarning ketma-ket bilan amalga oshirilishi va mashina uskunalarini ko'rsatgan xolatidagi tasviri
+ B) Bu biror bir xom-ashyoga ishloy berish
+ C) Yarim tayyor mahsulot ishlab chiqarish yoki tayyor mahsulot ishlab chiqarishda ishlatiladigan xom ashyolar miqdorı ya ularning kimyoviy tarkibi
+ D) Tizimlar bo'yicha tayyor mahsulot ishlab chiqarish
+ ANSWER: A
+ 
+ Texnologik jarayonga to'g'ri keltirilgan tavsifni aniqlang.
+ A) Ishlov berilayotgan xom ashyo bir joyda, bir vaqt oralig'ida ko'rsatilayotgan ta'siri
+ B) Texnologiyada ifodalangan nomlar va sistemalar
+ C) Texnologiyada mahsulotni miqdorini o'zgarishini (mahsulotni chiqitga chiqishi, yo'qolishini) ko'rsatish
+ D) Xom ashyodan mahsulot chiqishini nazorat qilish
+ ANSWER: A
+ 
+ Texnologik liniyaning unumdorligi nima?
+ A) Bir soatda, bir smenada yoki bir sutkada ishlab chiqarilgan mahsulot miqdori
+ B) Xozirgi vaqtda moyli o'simlik xom ashyolaridan moy olishning ikki xil usullarining afzalliklari
+ C) Tayyor mahsulotni sonlardagi ifodasi
+ D) Korxonani umumiy ishlab chiqarish rejasi
+ ANSWER: A
+ 
+ Texnologik rejimga to'g'ri keltirilgan tavsifni toping.
+ A) Texnologik Jarayon holatini son qiymatlari (harorat, namlik, bosim va boshqalar) orqali ifodalash
+ B) Texnologiyada mahsulotni miqdorini o'zgarishini (mahsulotni chiqitga chiqishi, yo'qolishini) ko'rsatish
+ C) Jami korxonalarning ishlash muddati va tartibi
+ D) Moyli o'simlik xom ashyolaridan moy olishning prinsipial tartibini qiymati
+ ANSWER: A
+ 
+ Kanakunjut (keleshivina) urug'ining namligi 6% gacha bo'lganda omborxonaga to'kilib, urug‘ning qalinligi necha metrgacha bo'lgan qalinlikda saqlanishi mumkin?
+ A) 5m
+ B) 4m
+ C) 2m
+ D) 6m
+ ANSWER: A
+ 
+ Texnologik Jarayonni strukturaviy sxemasiga to'g'ri keltirilgan tavsifni toping.
+ A) Biror bir texnologik jarayonni yoki mahsulot ishlab chiqarishdagi texnologik jarayonlar nomini ketma-ketlikda ifodasi
+ B) Moy ishlab chiqarish jarayonlari majmuasi, korxonalarning ishlash muddati, tartibi va mahsulotni chiqitga chiqishi, yo'qolishini ko'rsatish
+ C) Mahsulot ishlab chiqarishdagi texnologik jarayonlarni umumiy nomlanishi
+ D) Texnologik tizim tavsifi
+ ANSWER: A
+ 
+ Xom ashyo balansiga to'g'ri keltirilgan tavsifni toping.
+ A) Ishlab chiqarishda sarflangan xarajatlarning umumiy fizi
+ B) Mahsulot ishlab chiqarishdagi texnologik jarayonlari nomini ketma-ketlik bilan yozib chiqish
+ C) Xom ashyo miqdor o'zgarishlarini ifodalash
+ D) Mahsulot ishlab chiqarishda texnologik jarayonlar vaqtida mahsulot miqdorini o'zgarishini (mahsulotni chiqitga chiqishi, yo'qolishini) ko'rsatish
+ ANSWER: A
+ 
+ Hozirgi vaqtda moyli o'simlik xom ashyolaridan moy qaysi usullar bilan olinadi?
+ A) Presslash usuli va ekstraksiya usuli
+ B) Yuqori haroratda qizdirish va past bosimda govurish yordamida
+ C) Sanoat tarmoqlarda juvoz bilan
+ D) Sovuq presslash va issiq ekstraktsiya
+ ANSWER: A
+ 
+ Moyli xom ashyolardan moy olishda nechta asosiy texnologik sxemalar guruhi mavjud?
+ A) Presslash, ekstraksiya, press-ekstraksiya  
+ B) Moy ishlab chiqarish texnologiyasida diffuziya va issiqlik diffuziyasi jarayonlari  
+ C) Texnologiyada issiqlik diffuziyasi  
+ D) Shnekli pressda moy olish  
+ ANSWER: A
+ 
+ Moy olish uchun qaysi xom ashyolardan foydalanish to'g'ri keltirilgan Answerni toping?
+ A) Kungaboqar, soya, masxar, kunjut, paxta chigiti, yeryong'oq va boshqa  
+ B) Jo'xon, gorox, xantal va boshqa baliq mahsulotlari  
+ C) Kunjut, paxta chigiti, yeryong'oq, tarvuz va qovoq urug'i  
+ D) Don, dukkakli o'simliklar, gorchisa, yovvoyi masxar, beda va kunjut urug'i  
+ ANSWER: A
+ 
+ O'rta tolali chigitning tuklilik darajasi ikki marta tozalanganda foizni tashkil etadi?
+ A) 8%  
+ B) 25%  
+ C) 6%  
+ D) 1,2%  
+ ANSWER: A
+ 
+ O'rta tolali chigitning tuklilik darajasi bir marta tozalanganda necha foizni tashkil etadi?
+ A) Bir marta tozalangan chigitda -11,0% gacha bo'ladi  
+ B) Bir marta tozalangan chigitda -3, 1,0% gacha bo'ladi  
+ C) Bir marta tozalangan chigitda 21,0% gacha bo'ladi  
+ D) Bir marta tozalangan chigitda -10,0% gacha bo'ladi  
+ ANSWER: A
+ 
+ O'rta tolali chigitning namligi qanday bo'ladi?
+ A) 8,0%dan oshmasligi kerak  
+ B) 2,5%dan oshmasligi kerak  
+ C) 16%dan oshmasligi kerak  
+ D) 6,5%dan oshmasligi kerak  
+ ANSWER: A
+ 
+ O'rta tolali chigitda begona aralash moddalar va moyli aralashmalar qanday miqdorda bo'ladi?
+ A) Begona aralash moddalar va moyli aralashmalar 1,7% dan  
+ B) Begona aralash moddalar va moyli aralashmalar 0,9% dan  
+ C) Begona aralash moddalar va moyli aralashmalar 1,9% dan  
+ D) Begona aralash moddalar va moyli aralashmalar 1,0% dan  
+ ANSWER: A
+ 
+ Mag'izi chala pishgan chigit bilan och mag'izli chigit qanday navga kiradi?
+ A) Ikkinchi navga kiradi  
+ B) Birinchi navga kiradi  
+ C) To'rtinchi navga kiradi  
+ D) Uchinchi navga kiradi  
+ ANSWER: A
+ 
+ Mag'izi chala pishgan chigit bilan och mag'izli chigitning rangi qanday bo'ladi?
+ A) Ko'ndalangiga kesib ko‘rganda chigit mag'izi no‘xot rangli bo‘lib, chigitning turlariga qarab boshqa tusda tovlanadi.  
+ B) Ko‘ndalangiga kesib ko‘rganda chigit mag'izi to‘q sariq va jigar rangli bo‘lib, chigitning turlariga qarab boshqa tusda tovlanadi.  
+ C) Ko‘ndalangiga kesib ko‘rganda chigit mag'izi to‘q sariq rangli bo‘lib, uning turiga qarab boshqa tusda tovlanadi.  
+ D) Ko‘ndalangiga kesib ko‘rganda chigit mag'izi rangli bo‘lib, chigitning turlariga qarab boshqa tusda lovlanadi.  
+ ANSWER: A
+ 
+ Ikkinchi navga kiruvchi mag'izi chala pishgan chigit bilan och mag'izli chigit tarkibida aralashmalar va namligi qanday bo'ladi?
+ A) Begona aralash moddalar va moyli aralashmalar miqdori 3,5% dan, chigitning namligi 11,0% dan oshmasligi kerak.  
+ B) Pishgan chigit bilan och mag'izli chigit va aralashma 2,7% dan oshmasligi kerak.  
+ C) Toshli aralashmalar miqdori 3% dan, chigitning namligi 3% dan oshmasligi kerak.  
+ D) Xas-chopli, toshli va turli xil mexanik aralashmalar miqdori 9% dan, chigitning namligi esa 21,0% dan oshmasligi kerak.  
+ ANSWER: A
+ 
+ Moyli urug' obi-havoning noqulay kelishi natijasida to'liq pishib yetilmagan bo'lsa nima qilinadi?
+ A) Yetiltiriladi  
+ B) Quritiladi  
+ C) Qovuriladi  
+ D) Chorvachilikda omuxta yem sifatida ishlatiladi  
+ ANSWER: A
+ 
+ Moyli urug' obi-havoning noqulay kelishi natijasida buzilish turlari qaysi Answerda to'g'ri berilgan?
+ A) Barcha Answer to'g'ri  
+ B) Fermentlar ta'sirida  
+ C) Mikroblar ta'sirida  
+ D) Hashorotlar ta'sirida  
+ ANSWER: A
+ 
+ Moyli xom ashyo tarkibidagi fermentlar ta'sirida ro'y beradigan buzilish natijasida qanday jarayon kuzatiladi?
+ A) Urug' tarkibidagi organik moddalar parchalanadi (nafas olish, yog'larning parchalanishi kuchayadi)  
+ B) Nafas olish, yog'larning parchalanishi pasayadi va yog' miqdori to'la saqlanadi, oqsillar va aminokislotalar ko‘payadi  
+ C) Nafas olish, yog'larning parchalanishi pasayadi  
+ D) Urug' tarkibidagi organik moddalar parchalanmaydi  
+ ANSWER: A
+ 
+ Tashqi muhitdan kirgan tirik mikroorganizmlar (bakteriya, mog‘or zamburug‘lar), zararkunanda xashoratlarning ta'sirida ro‘y beradigan buzilish...
+ A) O'z-o'zidan qiziydi  
+ B) Yog' chiqmaydi  
+ C) Nafas olish tezlashadi  
+ D) Parchalanish  
+ ANSWER: A
+ 
+ Moyli xom ashyoda moy shakllanib bo'lganidan so'ng qanday jarayon boradi?
+ A) Quruq bo‘lsa, unda tinim davri boshlanadi  
+ B) Xo‘l bo‘lsa rivojlanish davri boshlanib oksidlanadi  
+ C) Xo‘l bo‘lsa, unda tinim davri tugaydi  
+ D) Rivojlanish davri boshlanadi  
+ ANSWER: A
+ 
+ Kritik namlik nima?
+ A) Yetarli shart-sharoit bo‘lganda tinim xujayralarda erkin suyuq hosil bo‘lib, unda nafas olishi jadallashgan  
+ B) Urug‘ ichidagi namlik bo‘lib, nafas olishi jadallashgan vaqtdagi namligi va presslash uchun forpressga kiritaladigan kerakli miqdordan ortiq namlik  
+ C) Urug‘ ichidagi namlik  
+ D) Urug‘ning krioskopik namligi bo‘lib, sovuq haroratda kuzatiladi  
+ ANSWER: A
+ 
+ Moyli urug‘larning kritik namligi qancha bo‘lishi kerak?
+ A) Kungaboqar urug‘ida 9%, paxta chigitida 12,0%, soya urug‘ida 12,5%  
+ B) Kungaboqar urug‘ida 15%, paxta chigitida 16,0%, soya urug‘ida 17,5%  
+ C) Kungaboqar urug‘ida 4%, paxta chigitida 10,0%, soya urug‘ida 11,5%  
+ D) Kungaboqar urug‘ida 8%, paxta chigitida 5,0%, soya urug‘ida 10,5%  
+ ANSWER: A
+ 
+ Kritik namlik bilan urug'ning moyligi o'rtasidagi bog'liqlik qanday aniqlanadi?  
+ A) V - 14,5 (100 - M)/100  
+ B) V - S/M * 100  
+ C) y = (100 - M) / D * 100000  
+ D) V - S M/100  
+ ANSWER: A
+ 
+ Moyli urug'larning o'z-o'zidan qizishi qanday ro'y beradi?  
+ A) Ferment va mikroorganizmlar faoliyati, namlik va atrof-muhitning harorati, namligi va gaz tarkibi ta’sirida ro‘y beradi  
+ B) Yuqori harorat, namlik, bosim, havoning nisbiy namligi, saqlash joylaridagi ventilyatsiyaning kamchiligi va gaz tarkibi ta’sirida ro‘y beradi  
+ C) Urug' harorati, namligi va gaz ta’sirida ro‘y beradi  
+ D) Mikrob fermenti va namlik ta’sirida  
+ ANSWER: A
+ 
+ Moyli urug‘larning kritik namligi necha % bo‘ladi?  
+ A) 14,5% gacha bo‘ladi  
+ B) 19,5% gacha bo‘ladi  
+ C) 10% gacha bo‘ladi  
+ D) 12% gacha bo‘ladi  
+ ANSWER: A
+ 
+ Urug' massasining harorati urug' mikroflora va zararkunandalari uchun qanday ta'sir qiladi?  
+ A) Mikroflora va zararkunandalarning hayot faoliyatini aktivligiga ta'sir etuvchi muhim omillardan biridir  
+ B) Yuqori harorat, namlik, bosim, havoning nisbiy namligi, saqlash joylaridagi ventilyatsiyaning kamchiligi va gaz tarkibi  
+ C) Mikroflora va zararkunandalarning hayot faoliyatini kuchaytiradi  
+ D) Mikroflora va zararkunandalarning hayot faoliyatiga ta'sir etmaydi  
+ ANSWER: A
+ 
+ Haroratning ma'lum bir miqdorgachasi ko'tarilishi, urug' tarkibidagi komponentlarga qanday ta'sir qiladi?  
+ A) Urug' tarkibidagi barcha komponentlarning nafas olishini tezlashtiradi  
+ B) Urug' tarkibidagi hamma komponentlarga ta'sir etmaydi  
+ C) Urug' tarkibidagi hamma komponentlarni inaktivatsiyaga uchratib, bijg‘ishni keltirib chiqaradi  
+ D) Urug' tarkibidagi hamma komponentlarning nafas olishini so‘ndiradi  
+ ANSWER: A
+ 
+ Urug' tarkibidagi oqsillarning denaturatsiyalanishi va fermentlarning inaktivatsiyasi qachon kuzatiladi?  
+ A) Harorat 50–55°C ga yetganda  
+ B) Harorat 30–45°C ga yetganda  
+ C) Harorat 65–70°C ga yetganda  
+ D) Nafas olish sekinlashadi va to‘xtaydi, urug‘ o‘ladi lekin yog‘ ko‘p chiqadi  
+ ANSWER: A
+ 
+ Oqsillar denaturatsiyalanishi va fermentlarning inaktivatsiyasi natijasida qanday jarayon amalga oshadi?  
+ A) Nafas olish sekinlashadi va to‘xtaydi, urug‘ nobud bo‘ladi  
+ B) Nafas olish to‘xtaydi va moy chiqishi ko‘payadi  
+ C) Nafas olish sekinlashadi va to‘xtaydi, urug‘ o‘ladi, yog‘ chiqishi oshadi  
+ D) Nafas olish tezlashadi va to‘xtaydi, urug‘ rivojlanadi  
+ ANSWER: A
+ 
+ Moyli urug‘ni yetiltirish deb nimaga aytiladi?  
+ A) Moyli urug‘larni texnologik xususiyatlarini yaxshilash tadbirlariga  
+ B) Avval quritib, keyin yanchib, mexanik kuch ta’sir ettirib moyini siqib olish, tozalash jarayonlariga  
+ C) Moyli urug‘ni yetiltirish davri — dalada ko‘proq ushlab turishdir  
+ D) Moyli urug‘ni yetiltirish uchun moy miqdorini to‘ldirishdir  
+ ANSWER: A
+ 
+ Moyli urug'ni yetiltirish qancha muddat davom etadi?
+ A) 1,5-2 oy
+ B) 7-9 oy
+ C) 0,5-1 oy
+ D) 1 oy
+ Answer: A
+ 
+ Moyli urug‘lar tarkibida ko‘p uchraydigan mikroorganizmlarga nimalar kiradi?
+ A) Zamburug‘lar, bakteriyalar va aktinomisetlar
+ B) Suv o‘tlar, moxlar
+ C) Fotosintez qiluvchi zamburug‘lar
+ D) Qalpoqli zamburug‘lar, virus va mikotoksinlar
+ Answer: A
+ 
+ Urug‘ tarkibida 25 % yog‘ bo‘lganligi uchun qaysi urug‘ tez buziladi?
+ A) Loviya
+ B) Chigit
+ C) Kungaboqar
+ D) Soya
+ Answer: A
+ 
+ Uzoq muddatda maksimal balandlikka uyum holda saqlanadigan moyli xom ashyolarning namligi qanday bo‘lishi kerak?
+ A) Kungaboqar 6-7%, chigit 6-8%, soya 12%
+ B) Kungaboqar 8-10%, chigit 1-2%, soya 6%
+ C) Kungaboqar 4-5%, chigit 6-8%, soya 15%
+ D) Kungaboqar 5-8%, chigit 6-8%, soya 9%
+ Answer: A
+ 
+ Xujayra devori nimadan tashkil topgan?
+ A) Sellyuloza
+ B) Protoplazma
+ C) Okuol
+ D) Oqsil
+ Answer: A
+ 
+ Chiqindilar qanday texnologik uskunalarni ishdan chiqaradi?
+ A) Mexanik
+ B) Organik
+ C) Chang
+ D) Yog‘li chiqindilar
+ Answer: A
+ 
+ Yog‘li urug‘larning sorbsion (singdirish) qobiliyati deb nimaga aytiladi?
+ A) Bug‘ va gazlarni singdirish xususiyati
+ B) Qattiq moddalar va gazlarni singdirish xususiyati
+ C) Erituvchi, silikagel va gazlarni singdirish xususiyati
+ D) Qattiq moddalar va gazlarni chiqarib yuborish xususiyati
+ Answer: A
+ 
+ Urug‘lardagi o‘ziga xos desorbsiyasi nima?
+ A) Singdirilgan suvning bug‘lanib ketishi
+ B) Qattiq moddalar va gazlarni singdirish
+ C) Gazlarni chiqarib yuborish
+ D) Hidli moddalarni qabul qilish
+ Answer: A
+ 
+ Ichki diffuziya nima?
+ A) Bug‘ urug‘ sathidan o‘tib mag‘izga singadi
+ B) Yuqori bo‘lmagan gaz orqali xo‘llanish
+ C) Yuqori bosimda suv bilan xo‘llanish
+ D) Bug‘ orqali suv bilan xo‘llanish
+ Answer: A
+ 
+ Rushanka nima?
+ A) Urug‘ po‘chog‘i sindirilganda hosil bo‘lgan massa
+ B) Urug‘larning barcha komponentlari aralashmasi
+ C) Yog‘ olish uchun mo‘ljallangan massa
+ D) Yog‘sizlangan ezilgan massa
+ Answer: A
+ 
+ Moyli urug‘lar namligini optimalash nima?
+ A) Konditsiyalash
+ B) Quritish
+ C) Dekompensatsiyalash
+ D) Konsentrlash
+ Answer: A
+ 
+ Urug‘larni namlik bo‘yicha konditsiyalash qaysi bosqichlarda amalga oshiriladi?
+ A) Quritish, namlash va suvni tekis taqsimlash uchun saqlash
+ B) Namlab saqlash
+ C) Namlash, quritish, bug‘latish, saqlash
+ D) Namlash va bug‘latish
+ Answer: A
+ 
+ Urug‘larni po‘chog‘idan ajratish qaysi bosqichlarda amalga oshiriladi?
+ A) 1-bosqich: chaqiladi, 2-bosqich: ajratiladi
+ B) 1–2 bosqich: ajratiladi, 3: tozalanadi
+ C) 1: chaqiladi, 2: ajratiladi, 3: tozalanadi
+ D) 1: qovuriladi, 2: chaqiladi
+ Answer: A
+ 
+ Rushanka tarkibi nimalardan iborat?
+ A) Mag‘iz, qobiq, po‘choq, moy changi, chaqilmagan urug‘
+ B) Moy changi va chaqilmagan urug‘
+ C) Chigit bo‘laklari, xashak, mineral moddalar
+ D) Moy changi, chaqilmagan urug‘
+ Answer: A
+ 
+ Sanoatda moyli urug‘larni maydalashning qaysi usullari qo‘llaniladi?
+ A) Ishqalanish, urish, kesish, siqish
+ B) Ishqalanish, urish, ezish, un singari maydalash
+ C) Kesish, siqish va elash
+ D) Ishqalash va yupqalashtirish
+ Answer: A
+ 
+ Paxta chigitining asosiy tarkibi nimalardan iborat?
+ A) 57–61% mag‘iz, 39–43% shulxa
+ B) 75–78% mag‘iz, 22–25% shulxa
+ C) 17–31% mag‘iz, 69–83% shulxa
+ D) 27–41% mag‘iz, 20–33% shulxa
+ Answer: A
+ 
+ Sanoatda rakushkani ajratish qaysi usullari qo'llaniladi?
+ A)Shakl, O'Icham, aerodinamik va elektrofizik> xususiyatlar, zichlik, ishqalanish koeffistentiga ko' ra ajratiladi
+ B)Asosan rushanka shakli hisobga olinadi va ajratiladi hamda namligi juda yuqori bo'lganligi sababli cho`ktirib
+ C)Texnologik xususiyatlariga qarab ajratish
+ D)Sanoat elaklari va to'rlar yordamida
+ Answer: A
+ 
+ Moyli xom ashyolardan ohirigacha moy olish qaysi usullar bilan amalga oshiriladi?
+ A) Presslash va ekstraksiyalash
+ B) Forpress va ekstraktorlar yordamida
+ C) Erituvchilar yordamida
+ D) Faqat presslab
+ Answer: A
+ 
+ Kungaboqar, paxta chigiti va shularga o‘xshash xom ashyolardan dastlabki bosqichda, ya’ni pressda necha foiz moy olinadi?
+ A) 70–85%
+ B) 25–30%
+ C) 35–45%
+ D) 90–95%
+ Answer: A
+ 
+ Bir qism moyi olingan kunjarani moysizlantirish uchun qanday usullardan foydalaniladi?
+ A) Ikkilamchi presslash yoki ekstraksiyalash
+ B) Qovurib presslash hamda gidrotermik ishlov orqali
+ C) Forpresslash va qizdirish
+ D) Qayta-qayta presslash
+ Answer: A
+ 
+ Ikki marta presslash usulida moy olishda birinchi va ikkinchi bosqichda kunjaraning qoldiq moyliligi necha foizni tashkil qiladi?
+ A) 1-bosqichda 12–18%, 2-bosqichdan keyin 4.5–6%
+ B) 1-bosqichda 10–11%, 2-bosqichdan keyin 10.5–16%
+ C) 1-bosqichda 17–19%, 2-bosqichdan keyin 4.5–5%
+ D) 1-bosqichda 9–13%, 2-bosqichdan keyin 1.5–3%
+ Answer: A
+ 
+ Ohirigacha pressda moy olishda harorat va namlik qanday bo‘lishi kerak?
+ A) Harorat 110–125°C bo‘lganda, namlik 4%
+ B) Harorat 70–80°C bo‘lganda, namlik 3%
+ C) Harorat 130–145°C bo‘lganda, namlik 9%
+ D) Harorat 90–100°C bo‘lganda, namlik 3%
+ Answer: A
+ 
+ Chigit mag‘zini qovurishdan maqsad nima?
+ A) Moyni maksimal ajratish va gossipolni passiv holatga o‘tkazish
+ B) Xidsizlantirish va ozuqaviy qiymatini yaxshilash
+ C) Gossipolni passiv holatga o‘tkazish
+ D) Xidsizlantirib ozuqaviy qiymatini yaxshilash
+ Answer: A
+ 
+ Qovurish vaqtida qanday jarayonlar faollashadi?
+ A) Namlik va harorat fermentlar tizimini faollashtiradi, oksidlanish kuchayadi
+ B) Yanchilmadan yog‘ chiqishi faollashadi
+ C) Fermentlar tizimi so‘ndiriladi
+ D) Gidrolitik va oksidlanish jarayonlari to‘xtaydi
+ Answer: A
+ 
+ Fermentlar tizimi qanday sharoitlarda inaktivatsiyaga uchraydi?
+ A) 80–85°C haroratda, 30–40 daqiqa davomida
+ B) 40–45°C haroratda, 50–60 daqiqa davomida
+ C) 60–65°C haroratda, 10–20 daqiqa davomida
+ D) 100–120°C haroratda, 5–10 daqiqa davomida
+ Answer: A
+ 
+ Lipaza, fosfolipaza fermentlarining aktivligi susayganda nima sodir bo‘ladi?
+ A) Gliserin va fosfatidlarning parchalanishi kuzatilmaydi
+ B) Fosfoyog‘lar saqlanib qoladi
+ C) Glitserindan tozalanadi
+ D) Fosfatidlar cho‘kadi
+ Answer: A
+ 
+ O‘zgarmagan gossipol nima?
+ A) Zaharli, rang beruvchi, qizdirilganda rangi o‘zgarib zich soapstok hosil qiladi
+ B) Zaharsiz, rang beruvchi
+ C) Qizg‘ish rang beruvchi
+ D) Yog‘ rangini belgilovchi toksik modda
+ Answer: A
+ 
+ Yanchilmaga issiqlik ishlovi berishdan maqsad nima?
+ A) Fizik va kimyoviy o‘zgarishlarni yuzaga keltirish
+ B) Dezodoratsiya qilish
+ C) Fermentlarni inaktivatsiya qilish va quritish
+ D) Nativ holatini saqlab qolish
+ Answer: A
+ 
+ Bog‘langan gossipol qachon hosil bo‘ladi?
+ A) 11–13% namlikda, 90–100°C haroratda
+ B) 20–23% namlikda, 190–200°C haroratda
+ C) 7–8% namlikda, 60–70°C haroratda
+ D) 1–3% namlikda, 40–50°C haroratda
+ Answer: A
+ 
+ O‘zgarmagan gossipolga organik erituvchilar qanday ta’sir ko‘rsatadi?
+ A) Gossipolni yaxshi eritadi
+ B) Ta’sir qilmaydi
+ C) Neytral bo‘lib qoladi
+ D) Faqat qizdirilganda eriydi
+ Answer: A
+ 
+ Sheluxa tarkibida necha foiz yog‘ bo‘ladi?
+ A) 0)51%
+ B) 0)30%
+ C) 0)70%
+ D) 0)25%
+ Answer: A
+ 
+ Yanchilma qanday usullarda namlanadi?
+ A) Issiq yoki iliq suv bilan, bug‘ bilan
+ B) Sovuq va issiq suv bilan
+ C) Bug‘ yordamida yoki past haroratli ishlov bilan
+ D) Qizdirilgan bug‘ bilan
+ Answer: A
+ 
+ Qovurishning birinchi davrida talqon bug‘ bilan namlab isitilganda nima yuz beradi?
+ A) Suv moyni siqib chiqaradi, aleyron donachalari yiriklashadi
+ B) Moy chiqmaydi, aleyron maydalanadi
+ C) Aleyron donachalari yiriklashadi
+ D) Yog‘ donachalari yiriklashadi
+ Answer: A
+ 
+ Yanchilmani namlab isitishda qaysi jihozlar ishlatiladi?
+ A) Shnekli inaktivatorlar yoki namlab-isituvchi shnekli qurilmalar
+ B) Barabanli qurilmalar, distillyator, shnekli press, forpress va ekstraktorlar
+ C) Ekstraktor va distillyator
+ D) Isituvchi shnekli qurilmalar
+ Answer: A
+ 
+ Mag'iz sheluxadan qanday mashinada ajratiladi?
+ A) Separator
+ B) Guller
+ C) Shelmashina
+ D) Shnek
+ Answer: A
+ 
+ Presslash jarayonida siqilish ta’sirida moy olishning harakatlantiruvchi kuchi nima?
+ A) Bosim
+ B) Qarshilik kuchi
+ C) Namlik
+ D) Harorat
+ Answer: A
+ 
+ Pressda hosil qilinadigan bosim qanday boshqariladi va uning miqdori qancha?
+ A) Pressdan chiquvchi kunjara miqdorini boshqaruvchi mexanizm orqali; maksimal bosim 25–30 MPa
+ B) Maxsus qurilma yordamida; maksimal bosim 20–25 MPa
+ C) Vintli mexanizm bilan; maksimal bosim 15–20 MPa
+ D) O‘simlik moyi oqimini boshqaruvchi mexanizm orqali; maksimal bosim 45–50 MPa
+ Answer: A
+ 
+ Moyli xom ashyolardan ohirigacha moy olish qaysi usullar bilan amalga oshiriladi?
+ A) Presslash va ekstraksiyalash
+ B) Forpress va ekstraktorlar yordamida
+ C) Erituvchilar yordamida
+ D) Faqat presslab
+ Answer: A
+ 
+ Standart bo‘yicha pressdan chiqqan qora moyning ko‘rsatkichi qanday bo‘lishi kerak?
+ A) Loyqaligi 0,3%, namligi 0,5% dan oshmasligi kerak
+ B) Loyqaligi 0,1%, namligi 0,3% dan oshmasligi kerak
+ C) Loyqaligi 1,1%, namligi 0,2% dan oshmasligi kerak
+ D) Loyqaligi 0,2%, namligi 1,6% dan oshmasligi kerak
+ Answer: A
+ 
+ Mag'izni quruq qovurish usulini qo‘llash qaysi urug‘larda maqsadga muvofiq emas?
+ A) Chigit
+ B) Kungaboqar
+ C) Raps
+ D) Indov
+ Answer: A
+ 
+ Bir tonna yanchilmani qovurish uchun necha kg bug‘ sarflanadi?
+ A) 25 kg
+ B) 35 kg
+ C) 18 kg
+ D) 15 kg
+ Answer: A
+ 
+ Yuqori haroratda fosfatidlar uglevodlar bilan reaksiyaga kirishib nima hosil qiladi?
+ A) Melanofosfatid — qora rangli birikmalar
+ B) Monofosfat — tiniq rangli murakkab birikmalar
+ C) Degidrofosfat birikmalari
+ D) Oksikislotalar va mumlar
+ Answer: A
+ 
+ Yaxshi pishib yetilgan urug‘ tarkibidagi moyda erkin moy kislotalari miqdori necha foiz bo‘ladi?
+ A) 0)3–1)0%
+ B) 0)1–0)2%
+ C) 3–4%
+ D) 0)2–0)25%
+ Answer: A
+ 
+ O‘simlik moylari tarkibida qanday pigmentlar uchraydi?
+ A) Karotin, ksantofil va xlorofill
+ B) Qora, ko‘k va olov rangli
+ C) Qizil va sariq rangli
+ D) Binafsha, jigar rangli va antosianlar
+ Answer: A
+ 
+ Paxta moyi tarkibidagi zaharli pigment qanday nomlanadi?
+ A) Gossipol moddasi
+ B) Karotin hosilasi
+ C) Xlorofil hosilasi
+ D) Protopektin hosilasi
+ Answer: A
+ 
+ Moydagi qattiq zarrachalarni qanday ajratiladi?
+ A) Sentrifuga va separatorlarda
+ B) Oddiy to‘rlar bilan
+ C) Elaklar va magnit tutqichlar yordamida
+ D) Faqat separatorlar bilan
+ Answer: A
+ 
+ Ekstraksiyalash jarayonida ohirgi mahsulot nima?
+ A) Moy va moysizlantirilgan shrot
+ B) Yog‘li kunjara, sheluxa va yanchilma
+ C) Sheluxa
+ D) Rushanka
+ Answer: A
+ 
+ Suyuqliklarning molekulalararo o‘zaro ta’sir kuchini ifodalovchi ko‘rsatkich nima?
+ A) Solishtirma sig‘im
+ B) Qarshilik
+ C) Solishtirma o‘tkazuvchanlik
+ D) O‘tkazuvchanlik
+ Answer: A
+ 
+ Nima uchun moylar ko‘pgina organik erituvchilarda yaxshi eriydi?
+ A) Dielektrik o‘tkazuvchanligi moylarnikiga yaqin bo‘lganligi uchun
+ B) Erituvchilar engil birika olganligi uchun
+ C) Vodorod bog‘lari hosil qilish qobiliyatiga ega bo‘lgani uchun
+ D) Yog‘larning zichligi va solishtirma og‘irligi yuqori bo‘lgani uchun
+ Answer: A
+ 
+ Kungaboqar yanchilmasi necha darajagacha qizdiriladi?
+ A) 85°C
+ B) 100°C
+ C) 65°C
+ D) 55°C
+ Answer: A
+ 
+ Alifatik uglevodorodlarga nimalar kiradi?
+ A)Benzin, geksan erituvchi, propan va butan
+ B)Organik va noorganik moddalar bentonit va tuzlar
+ C) Organik erituvchilar va ishqor
+ D)Spirtlar
+ Answer: A
+ 
+ Nima uchun benzin bug'lari polda va burchaklarda to‘planadi?
+ A) Xavodan 2,7 marotaba og‘ir
+ B) Xavodan 1,5 marotaba og‘ir
+ C) Xavodan 3,7 marotaba og‘ir
+ D) Xavodan 0,3 marotaba og‘ir
+ ANSWER: A
+ 
+ Erituvchilar eng muhim fizik va kimyoviy xususiyatlariga nimalar kiradi?
+ A) Polyarligi, qovushqoqligi, qaynash harorati
+ B) Polyarligi, zichligi, kislotaligi, yuqori eritish qobiliyati
+ C) Past haroratda qaynashi
+ D) Solishtirma massasi
+ ANSWER: A
+ 
+ Pressdan chiqqan qora yog‘ tarkibida namlik necha foiz bo‘ladi?
+ A) 0,5%
+ B) 6,0%
+ C) 0,4%
+ D) 0,3%
+ ANSWER: A
+ 
+ Yog‘ bilan erituvchining aralashib ketgan eritmasi qanday nomlanadi?
+ A) Mistsella
+ B) Shrot
+ C) Mezga
+ D) Rushanka
+ ANSWER: A
+ 
+ Bog‘langan gossipolning qanday xususiyati bor?
+ A) Yog‘da, benzinda va etilli efirda erimaydi
+ B) Yog‘da, benzinda va etilli efirda eriydi
+ C) Benzinda va etilli efirda erimaydi va kompleks hosil qiladi
+ D) Organik erituvchilarda erimaydi
+ ANSWER: A
+ 
+ Jarayonni turli xil aralashma va gazlarni past qaynovchi komponentlar bilan boyitib qisman kondensatsiyalash qaysi jarayon?
+ A) Deflegmatsiya
+ B) Konditsiyalash
+ C) Distillyatsiya
+ D) Ekstraksiya
+ ANSWER: A
+ 
+ Regeneratsiya deb qanday jarayonga aytiladi?
+ A) Erituvchini qaytadan yig‘ib olish
+ B) Erituvchini qayta ishlash
+ C) Aralashmadan erituvchini ajratib olish
+ D) Suv bug‘idan tozalash
+ ANSWER: A
+ 
+ Kungaboqarning yuqori darajada moy to‘plovchi navlarida yog‘ miqdori necha foiz bo‘ladi?
+ A) 70% gacha
+ B) 60% gacha
+ C) 65% gacha
+ D) 80% gacha
+ ANSWER: A
+ 
+ Jami ishlab chiqiladigan moyning necha foizi soyaga to‘g‘ri keladi?
+ A) 54%
+ B) 63%
+ C) 31%
+ D) 27%
+ ANSWER: A
+ 
+ Yog‘lar necha haroratda qizdirilsa erkin yog‘ kislotalari hosil bo‘ladi?
+ A) 250-300°C
+ B) 150-200°C
+ C) 350-370°C
+ D) 200-250°C
+ ANSWER: A
+ 
+ Viskozimetrda yog‘ning qaysi ko‘rsatgichi aniqlanadi?
+ A) Qovushqoqligi
+ B) Zichligi
+ C) Sovunlanish soni
+ D) Massasi
+ ANSWER: A
+ 
+ Yog‘ning zichligi qaysi asbobda o‘lchanadi?
+ A) Piknometr, areometr
+ B) Galvanometr, termometr
+ C) Refraktometr
+ D) Viskozimetr
+ ANSWER: A
+ 
+ Yog‘larning kislota soni nimani bildiradi?
+ A) 1 gr yog‘ tarkibidagi bog‘langan yog‘ kislotalarining mg KOH bilan ifodalangan miqdori
+ B) 1 gr yog‘ tarkibidagi bog‘langan yog‘ kislotalarining mg H₂PO₄ bilan ifodalangan miqdori
+ C) 1 gr yog‘ tarkibidagi to‘yinmagan yog‘ kislotalarining mg dagi miqdori
+ D) 1 gr yog‘ tarkibidagi to‘yingan yog‘ kislotalarining mg dagi miqdori
+ ANSWER: A
+ 
+ Distillyatsiya jarayoni necha bosqichda boradi?
+ A) 3 bosqichda
+ B) 2 bosqichda
+ C) 4 bosqichda
+ D) 1 bosqichda
+ ANSWER: A
+ 
+ Ekstraktordan chiqayotgan shrot tarkibida necha foizgacha benzin bo‘ladi?
+ A) 25-40%
+ B) 15-20%
+ C) 5-10%
+ D) 35-50%
+ ANSWER: A
+ 
+ Ekstraktorda material oxirgi bosqichda nima bilan aralashtiriladi?
+ A) Mitsella
+ B) Toza erituvchi
+ C) Shrot
+ D) Yog‘
+ ANSWER: A
+ 
+ Kunjara tarkibida yog‘ miqdori necha foizni tashkil etadi?
+ A) 4-9%
+ B) 1-3%
+ C) 4-12%
+ D) 2-5%
+ ANSWER: A
 
 
-Texnologik sxemaga to'g'ri keltirilgan tavsifni toping?
-A) Bu biror bir xom-ashyoga ishloy berish
-B) Mahsulot ishlab chiqarishda jaryonlarning ketma-ket bilan amalga oshirilishi va mashina uskunalarini ko'rsatgan xolatidagi tasviri
-C) Yarim tayyor mahsulot ishlab chiqarish yoki tayyor mahsulot ishlab chiqarishda ishlatiladigan xom ashyolar miqdorı ya ularning kimyoviy tarkibi
-D) Tizimlar bo'yicha tayyor mahsulot ishlab chiqarish
-ANSWER: B
 
-Texnologik jarayonga to'g'ri keltirilgan tavsifni aniqlang.
-A) Texnologiyada mahsulotni miqdorini o'zgarishini (mahsulotni chiqitga chiqishi, yo'qolishini) ko'rsatish
-B) Texnologiyada ifodalangan nomlar va sistemalar
-C) Ishlov berilayotgan xom ashyo bir joyda, bir vaqt oralig'ida ko'rsatilayotgan ta'siri
-D) Xom ashyodan mahsulot chiqishini nazorat qilish
-ANSWER: C
+ Subject: O'simlik-moyi-texnologiyasi
 
-Texnologik liniyaning unumdorligi nima?
-A) Korxonani umumiy ishlab chiqarish rejasi
-B) Xozirgi vaqtda moyli o'simlik xom ashyolaridan moy olishning ikki xil usullarining afzalliklari
-C) Tayyor mahsulotni sonlardagi ifodasi
-D) Bir soatda, bir smenada yoki bir sutkada ishlab chiqarilgan mahsulot miqdori
+Jahon miqyosida miqdor jihatidan birinchi o’rinda turadigan o’simlik moyini tanlang?
+A) soya moyi
+B) paxta moyi
+C) zaytun moyi
+D) kungaboqar moyi
+ANSWER: A
+
+Paxta moyining yod soni nechaga teng bo’ladi?
+A) 100-110
+B) 100-120
+C) 95-100
+D) 70-80
+ANSWER: A
+
+C18H34O2 tarkibiga ega bo’lgan yog’ kislotasining nechta qo’sh bog’i mavjud bo’ladi?
+A) Bitta qo’shbog’
+B) Ikkita qo’shbog’
+C) To’rtta qo’shbog’
+D) Uchta qo’shbog’
+ANSWER: A
+
+Quyidagi to’yinmagan yog’ kislotalarining qaysi biri trans-olein izomeri tuzilishiga ega?
+A) CH3(CH2)10CH=CH(CH2)6COOH
+B) CH3(CH2)7CH=CH(CH2)6COOH
+C) CH3(CH2)9CH=CH(CH2)10COOH
+D) CH3(CH2)7CH=COOH(CH2)7CH
 ANSWER: D
 
-Texnologik rejimga to'g'ri keltirilgan tavsifni toping.
-A) Texnologik Jarayon holatini son qiymatlari (harorat, namlik, bosim va boshqalar) orqali ifodalash
-B) Texnologiyada mahsulotni miqdorini o'zgarishini (mahsulotni chiqitga chiqishi, yo'qolishini) ko'rsatish
-C) Jami korxonalarning ishlash muddati va tartibi
-D) Moyli o'simlik xom ashyolaridan moy olishning prinsipial tartibini qiymati
-ANSWER: A
-
-Kanakunjut (keleshivina) urug'ining namligi 6% gacha bo'lganda omborxonaga to'kilib, urug‘ning qalinligi necha metrgacha bo'lgan qalinlikda saqlanishi mumkin?
-A) 5m
-B) 4m
-C) 2m
-D) 6m
-ANSWER: A
-
-Texnologik Jarayonni strukturaviy sxemasiga to'g'ri keltirilgan tavsifni toping.
-A) Moy ishlab chiqarish jarayonlari majmuasi, korxonalarning ishlash muddati, tartibi va mahsulotni chiqitga chiqishi, yo'qolishini ko'rsatish
-B) Biror bir texnologik jarayonni yoki mahsulot ishlab chiqarishdagi texnologik jarayonlar nomini ketma-ketlikda ifodasi
-C) Mahsulot ishlab chiqarishdagi texnologik jarayonlarni umumiy nomlanishi
-D) Texnologik tizim tavsifi
+Trigliseridlardan qaysi yo’l bilan salomas olinadi?
+A) gidroliz
+B) gidrogenizatsiya
+C) alkogoliz
+D) sovunlanish reaksiyasi orqali
 ANSWER: B
 
-Xom ashyo balansiga to'g'ri keltirilgan tavsifni toping.
-A) Ishlab chiqarishda sarflangan xarajatlarning umumiy fizi
-B) Mahsulot ishlab chiqarishdagi texnologik jarayonlari nomini ketma-ketlik bilan yozib chiqish
-C) Xom ashyo miqdor o'zgarishlarini ifodalash
-D) Mahsulot ishlab chiqarishda texnologik jarayonlar vaqtida mahsulot miqdorini o'zgarishini (mahsulotni chiqitga chiqishi, yo'qolishini) ko'rsatish
-ANSWER: A
+Mumsimon moddalar yog’ moddalarining qaysi sinfiga kiradi?
+A) Yuqori molekulali yog’ kislotalari
+B) Yuqori molekulali yog’ kislotalari va yuqori molekulali spirtning murakkab efiri
+C) Yuqori molekulali spirtlar
+D) Yuqori molekulali yog’ kislotalar va quyi molekulali spirtlarning murakkab efirlari
+ANSWER: B
 
-Hozirgi vaqtda moyli o'simlik xom ashyolaridan moy qaysi usullar bilan olinadi?
-A) Sanoat tarmoqlarda juvoz bilan
-B) Yuqori haroratda qizdirish va past bosimda govurish yordamida
-C) Presslash usuli va ekstraksiya usuli
-D) Sovuq presslash va issiq ekstraktsiya
+Trigliseridlarni qaysi yo’l bilan suyuq holatdan quyuq holatga o’tkazish mumkin?
+A) gidroliz
+B) asedoliz
+C) gidrogenizasiya
+D) alkogoliz
 ANSWER: C
 
-Moyli xom ashyolardan moy olishda nechta asosiy texnologik sxemalar guruhi mavjud?
-A) Moy ishlab chiqarish texnologiyasida diffuziya va issiqlik diffuziyasi jarayonlari  
-B) Presslash, ekstraksiya, press-ekstraksiya  
-C) Texnologiyada issiqlik diffuziyasi  
-D) Shnekli pressda moy olish  
-ANSWER: B
-
-Moy olish uchun qaysi xom ashyolardan foydalanish to'g'ri keltirilgan Answerni toping?
-A) Don, dukkakli o'simliklar, gorchisa, yovvoyi masxar, beda va kunjut urug'i  
-B) Jo'xon, gorox, xantal va boshqa baliq mahsulotlari  
-C) Kunjut, paxta chigiti, yeryong'oq, tarvuz va qovoq urug'i  
-D) Kungaboqar, soya, masxar, kunjut, paxta chigiti, yeryong'oq va boshqa  
+Gidrogenlashda yog’ kislotalarining tarkibini o’zgarishi qaysi javobda to’g’ri ko’rsatilgan?
+A) L-Le-P-C
+B) Ol-L-C
+C) Ol-L-Le-C
+D) Le-L-Ol-C
 ANSWER: D
 
-O'rta tolali chigitning tuklilik darajasi ikki marta tozalanganda foizni tashkil etadi?
-A) 8%  
-B) 25%  
-C) 6%  
-D) 1,2%  
+Sanoatda gidrogenlash necha oC temperaturada olib boriladi?
+A) 180-220 C
+B) 220-240 C
+C) 170-190 C
+D) 160-180 C
 ANSWER: A
 
-O'rta tolali chigitning tuklilik darajasi bir marta tozalanganda necha foizni tashkil etadi?
-A) Bir marta tozalangan chigitda 21,0% gacha bo'ladi  
-B) Bir marta tozalangan chigitda -3, 1,0% gacha bo'ladi  
-C) Bir marta tozalangan chigitda -11,0% gacha bo'ladi  
-D) Bir marta tozalangan chigitda -10,0% gacha bo'ladi  
+Distillyasion kubda yog’ kislotalari necha 0C gacha qizdiriladi?
+A) 250-280 C
+B) 150-160 C
+C) 230-240 C
+D) 200-210 C
 ANSWER: C
 
-O'rta tolali chigitning namligi qanday bo'ladi?
-A) 2,5%dan oshmasligi kerak  
-B) 8,0%dan oshmasligi kerak  
-C) 16%dan oshmasligi kerak  
-D) 6,5%dan oshmasligi kerak  
-ANSWER: B
-
-O'rta tolali chigitda begona aralash moddalar va moyli aralashmalar qanday miqdorda bo'ladi?
-A) Begona aralash moddalar va moyli aralashmalar 1,9% dan  
-B) Begona aralash moddalar va moyli aralashmalar 0,9% dan  
-C) Begona aralash moddalar va moyli aralashmalar 1,7% dan  
-D) Begona aralash moddalar va moyli aralashmalar 1,0% dan  
-ANSWER: C
-
-Mag'izi chala pishgan chigit bilan och mag'izli chigit qanday navga kiradi?
-A) Ikkinchi navga kiradi  
-B) Birinchi navga kiradi  
-C) To'rtinchi navga kiradi  
-D) Uchinchi navga kiradi  
+Filtrlash tezligini oshirish uchun nima qilinadi?
+A) Bosim oshirib, qovushqoqlikni kamaytirish kerak.
+B) Bosim oshirib, siqilish kamaytiradi.
+C) Bosim oshiriladi.
+D) Bosim kamaytirilib, qovushqoqlik oshiriladi va bilvosita ta`sir ko`rsatadi.
 ANSWER: A
 
-Mag'izi chala pishgan chigit bilan och mag'izli chigitning rangi qanday bo'ladi?
-A) Ko‘ndalangiga kesib ko‘rganda chigit mag'izi rangli bo‘lib, chigitning turlariga qarab boshqa tusda lovlanadi.  
-B) Ko‘ndalangiga kesib ko‘rganda chigit mag'izi to‘q sariq va jigar rangli bo‘lib, chigitning turlariga qarab boshqa tusda tovlanadi.  
-C) Ko‘ndalangiga kesib ko‘rganda chigit mag'izi to‘q sariq rangli bo‘lib, uning turiga qarab boshqa tusda tovlanadi.  
-D) Ko'ndalangiga kesib ko‘rganda chigit mag'izi no‘xot rangli bo‘lib, chigitning turlariga qarab boshqa tusda tovlanadi.  
+Paxta moyi tarkibidagi zaharli moddani nomi qaysi javobda to’g’ri ko’rsatilgan?
+A) Gossipol
+B) Tokoferol
+C) Karotin
+D) Sterin
+ANSWER: A
+
+Sanoatda gidrogenlash necha oC temperaturada olib boriladi?
+A) 160-180 C
+B) 220-240 C
+C) 170-190 C
+D) 180-220 C
 ANSWER: D
 
-Ikkinchi navga kiruvchi mag'izi chala pishgan chigit bilan och mag'izli chigit tarkibida aralashmalar va namligi qanday bo'ladi?
-A) Pishgan chigit bilan och mag'izli chigit va aralashma 2,7% dan oshmasligi kerak.  
-B) Begona aralash moddalar va moyli aralashmalar miqdori 3,5% dan, chigitning namligi 11,0% dan oshmasligi kerak.  
-C) Toshli aralashmalar miqdori 3% dan, chigitning namligi 3% dan oshmasligi kerak.  
-D) Xas-chopli, toshli va turli xil mexanik aralashmalar miqdori 9% dan, chigitning namligi esa 21,0% dan oshmasligi kerak.  
+Distillyasion kubda yog’ kislotalari necha oC gacha qizdiriladi?
+A) 150-160 C
+B) 230-240 C
+C) 250-280 C
+D) 200-210 C
 ANSWER: B
 
-Moyli urug' obi-havoning noqulay kelishi natijasida to'liq pishib yetilmagan bo'lsa nima qilinadi?
-A) Quritiladi  
-B) Yetiltiriladi  
-C) Qovuriladi  
-D) Chorvachilikda omuxta yem sifatida ishlatiladi  
-ANSWER: B
-
-Moyli urug' obi-havoning noqulay kelishi natijasida buzilish turlari qaysi Answerda to'g'ri berilgan?
-A) Mikroblar ta'sirida  
-B) Fermentlar ta'sirida  
-C) Barcha Answer to'g'ri  
-D) Hashorotlar ta'sirida  
-ANSWER: C
-
-Moyli xom ashyo tarkibidagi fermentlar ta'sirida ro'y beradigan buzilish natijasida qanday jarayon kuzatiladi?
-A) Urug' tarkibidagi organik moddalar parchalanmaydi  
-B) Nafas olish, yog'larning parchalanishi pasayadi va yog' miqdori to'la saqlanadi, oqsillar va aminokislotalar ko‘payadi  
-C) Nafas olish, yog'larning parchalanishi pasayadi  
-D) Urug' tarkibidagi organik moddalar parchalanadi (nafas olish, yog'larning parchalanishi kuchayadi)  
+Sovun o’zi nima?
+A) Yuqori molekulali yog’
+B) Naften kislo-talarining tuzlari
+C) Yuqori molekulali kislota va uch atomli spirt o`zoro birikishida xosil bo`lgan birikmalar
+D) Yuqori molekulali yog’ va naften kislotalarining tuzlari
 ANSWER: D
 
-Tashqi muhitdan kirgan tirik mikroorganizmlar (bakteriya, mog‘or zamburug‘lar), zararkunanda xashoratlarning ta'sirida ro‘y beradigan buzilish...
-A) Yog' chiqmaydi  
-B) O'z-o'zidan qiziydi  
-C) Nafas olish tezlashadi  
-D) Parchalanish  
-ANSWER: B
-
-Moyli xom ashyoda moy shakllanib bo'lganidan so'ng qanday jarayon boradi?
-A) Xo‘l bo‘lsa, unda tinim davri tugaydi  
-B) Xo‘l bo‘lsa rivojlanish davri boshlanib oksidlanadi  
-C) Quruq bo‘lsa, unda tinim davri boshlanadi  
-D) Rivojlanish davri boshlanadi  
-ANSWER: C
-
-Kritik namlik nima?
-A) Urug‘ning krioskopik namligi bo‘lib, sovuq haroratda kuzatiladi  
-B) Urug‘ ichidagi namlik bo‘lib, nafas olishi jadallashgan vaqtdagi namligi va presslash uchun forpressga kiritaladigan kerakli miqdordan ortiq namlik  
-C) Urug‘ ichidagi namlik  
-D) Yetarli shart-sharoit bo‘lganda tinim xujayralarda erkin suyuq hosil bo‘lib, unda nafas olishi jadallashgan  
+Yog’lardan yog’ kislotalari qaysi usul bilan olinadi?
+A) Katalizator yo’li bilan olinadi
+B) Elektroliz yo’li bilan olinib, olingan yog’ kislotalari distilyasiya qilinadi
+C) Elektroliz yo’li bi-lan olinadi
+D) Gidroliz yo’li bilan olinib, olingan yog’ kislotalari distilyatsiya qilinadi
 ANSWER: D
 
-Moyli urug‘larning kritik namligi qancha bo‘lishi kerak?
-A) Kungaboqar urug‘ida 15%, paxta chigitida 16,0%, soya urug‘ida 17,5%  
-B) Kungaboqar urug‘ida 9%, paxta chigitida 12,0%, soya urug‘ida 12,5%  
-C) Kungaboqar urug‘ida 4%, paxta chigitida 10,0%, soya urug‘ida 11,5%  
-D) Kungaboqar urug‘ida 8%, paxta chigitida 5,0%, soya urug‘ida 10,5%  
+Gidroliz jarayonini ohirgi mahsulotlari qaysi javobda to’g’ri ko’rsatilgan?
+A) Gliserin, sovun
+B) Gliserin, yog’ kislota
+C) Gliserin, suv
+D) Gliserin, soapstok, salomas
 ANSWER: B
 
-Kritik namlik bilan urug'ning moyligi o'rtasidagi bog'liqlik qanday aniqlanadi?  
-A) V - S/M * 100  
-B) V - 14,5 (100 - M)/100  
-C) y = (100 - M) / D * 100000  
-D) V - S M/100  
+Elektrolit ta’sirida sovunning kaogulyasiyasi qanday nomlanadi?
+A) Sovun deyiladi.
+B) Degidratasiya deyiladi
+C) Tuzlab ajratish deyiladi
+D) Ishqorlab ajratish deyiladi.
+ANSWER: C
+
+Bakteriyalarni to’la yo’qotish uchun qaysi usul qo’llaniladi?
+A) Qisqa pasterizatsiya
+B) Sterilizatsiyalash
+C) Uzoq pasterizatsiya
+D) Pasterizatsiyalash
 ANSWER: B
 
-Moyli urug'larning o'z-o'zidan qizishi qanday ro'y beradi?  
-A) Yuqori harorat, namlik, bosim, havoning nisbiy namligi, saqlash joylaridagi ventilyatsiyaning kamchiligi va gaz tarkibi ta’sirida ro‘y beradi  
-B) Ferment va mikroorganizmlar faoliyati, namlik va atrof-muhitning harorati, namligi va gaz tarkibi ta’sirida ro‘y beradi  
-C) Urug' harorati, namligi va gaz ta’sirida ro‘y beradi  
-D) Mikrob fermenti va namlik ta’sirida  
+Margarin ishlab chiqarish uchun ishlatiladigan sutning kislota soni va sutdagi quruq qoldiq miqdori qaysi javobda to’g’ri berilgan?
+A) 24 T, 8%
+B) 23 T, 10%
+C) 25 T, 6%
+D) 18 T, 10%
+ANSWER: A
+
+Moylarni gidroliz qilish deganda nima tushiniladi?
+A) Moyning tarkibidagi gossipolni suv bilan parchalash jarayoni va suvni tozalash tushiniladi.
+B) Gliseridlarni suv bilan reaksiyaga kiritib gliserin va yog’ kislotalariga parchalash.
+C) Moy tarkibidagi hamroh moddalarni yo’qotish.
+D) Moyni kuchli bosimli suv bilan yuvish jarayoni tushiniladi.
 ANSWER: B
 
-Moyli urug‘larning kritik namligi necha % bo‘ladi?  
-A) 14,5% gacha bo‘ladi  
-B) 19,5% gacha bo‘ladi  
-C) 10% gacha bo‘ladi  
-D) 12% gacha bo‘ladi  
+Moylarni to’liq rafinatsiya qilish ketma-ketligini ko’rsating.
+A) Gidratlash, ishqorli rafinatsiya, oqlash, dezodorasiya.
+B) Gidratlash, oqlash, filtrlash.
+C) Ishqorli rafinatsiya, filtrlash,  oqlash va dezodoratsiya.
+D) Gidratasiya, ishqorli rafinatsiya, filtrlash, oqlash.
 ANSWER: A
 
-Urug' massasining harorati urug' mikroflora va zararkunandalari uchun qanday ta'sir qiladi?  
-A) Mikroflora va zararkunandalarning hayot faoliyatini aktivligiga ta'sir etuvchi muhim omillardan biridir  
-B) Yuqori harorat, namlik, bosim, havoning nisbiy namligi, saqlash joylaridagi ventilyatsiyaning kamchiligi va gaz tarkibi  
-C) Mikroflora va zararkunandalarning hayot faoliyatini kuchaytiradi  
-D) Mikroflora va zararkunandalarning hayot faoliyatiga ta'sir etmaydi  
+Fizik-kimyoviy jarayonlarga qaysi rafinatsiya usullari kiradi?
+A) Neytrallash, tindirish, yuvish quritish
+B) Tindirish, sentrafu-galash, filtrlash
+C) Gidratasiya, sovutish, neytrallash, yuvish, quritish
+D) Oqlash, dezodora-siyalash, distil-lyasiyali rafinatsiya
+ANSWER: C
+
+Oziq-ovqat uchun ishlatiladigan yog’ning kislota soni necha mg KOH dan oshmasligi kerak?
+A) 0,2-0,3 mg KOH
+B) 0,5-0,8 mg KOH
+C) 0,05-0,08 mg KOH
+D) 0,1-0,2 mg KOH
 ANSWER: A
 
-Haroratning ma'lum bir miqdorgachasi ko'tarilishi, urug' tarkibidagi komponentlarga qanday ta'sir qiladi?  
-A) Urug' tarkibidagi barcha komponentlarning nafas olishini tezlashtiradi  
-B) Urug' tarkibidagi hamma komponentlarga ta'sir etmaydi  
-C) Urug' tarkibidagi hamma komponentlarni inaktivatsiyaga uchratib, bijg‘ishni keltirib chiqaradi  
-D) Urug' tarkibidagi hamma komponentlarning nafas olishini so‘ndiradi  
+Reaktor-turbulizatorning vazifasi to’g’ri ko’rsatilgan javobni aniqlang.
+A) Moyni suv bilan yuvish va uni tozalash
+B) Moydan soapstokni ajratish
+C) Moyni parchalash
+D) Moyni ishqor bilan aralashtirish
+ANSWER: D
+
+Yog’larni gidrogenlash qanday uskunalariga foydalaniladi?
+A) Avtoklav, salomas uchun bak
+B) Elektrolizyor, tindirgich
+C) Filtrpress
+D) Neytralizator,dezodorator,tindirgich
 ANSWER: A
 
-Urug' tarkibidagi oqsillarning denaturatsiyalanishi va fermentlarning inaktivatsiyasi qachon kuzatiladi?  
-A) Harorat 50–55°C ga yetganda  
-B) Harorat 30–45°C ga yetganda  
-C) Harorat 65–70°C ga yetganda  
-D) Nafas olish sekinlashadi va to‘xtaydi, urug‘ o‘ladi lekin yog‘ ko‘p chiqadi  
+Gidrogenlash jarayonida gazlift qanday vazifani bajaradi?
+A) Moyni vodorod bilan to’yinganligini ko’rsatadi
+B) H2 bilan ta’minlash va avtoklavdan vakuum yordamida ortiqcha H2 yig`ib olish
+C) Salomasni bir avtoklavdan ikkinchisiga o’tishi uchun xizmat qiladi
+D) Meshalka o’rnida ishlatiladi
+ANSWER: C
+
+Gidrogenlash jarayonida asosan qanday katalizatorlar qo’llaniladi?
+A) Rux-titan
+B) Mis-nikel
+C) Rux-mis
+D) Rux-palladiy
+ANSWER: B
+
+Vodorod ishlab chiqarishni 3 xil usuli mavjud. Shu usullar ko’rsatilgan javobni aniqlang.
+A) Suyuqlik va gazlarni elektroliz qilish usuli suv-bug’ usuli desorbsiya qilish usuli
+B) Temir-suv bug’i usuli desorbsiya qilish usuli suyuqlik va uning gazlarni elektroliz qilish usuli
+C) Tabiyi gazlarni konversiya qilish usuli temir-suv bug’i usuli suvni elektroliz qilish usuli
+D) Tabiyi gazlarni konversiya qilish usuli suv-bug’ usuli suvni elektroliz qilish usuli
+ANSWER: C
+
+Hozirgi vaqtda eng toza vodorod qanday usul bilan olinadi?
+A) Temir-suv bug’i usuli bilan
+B) Suv-bug’ usul bilan
+C) Suvni elektroliz qilish usuli bilan
+D) Tabiyi gazlarni konversiya qilish usuli bilan
+ANSWER: C
+
+Gazgolderlar nima uchun xizmat qiladi?
+A) Gazlarni siqib uning hajmini kamaytirish uchun xizmat qiladi
+B) Gazlarni ishlab chi-qarish uchun xizmat qiladi
+C) Gazlarni chiqarish va uning chiqishini bir xilda bo’lishi uchun xizmat qiladi
+D) Gazlarni saqlash va uning sifatini bir xilda ushlush uchun xizmat qiladi
+ANSWER: D
+
+Qurigan katalizatorning namligi necha % bo’ladi?
+A) 2*3
+B) 6*7
+C) 0,2*0,3
+D) 10
+ANSWER: B
+
+Yog’ kislotalari nima uchun distillyatsiya qilinadi?
+A) Tarkibidagi xidni yo’qotish uchun.
+B) Sovunlanmaydigan oksikislotalardan va boshqa aralashmalardan tozalash uchun.
+C) Ta’mini yaxshilab, tarkibidagi to’yinmagan kislotalarni vadarod bilan to’yintirish uchun.
+D) Har xil aralashmalarni cho’ktirish uchun.
+ANSWER: B
+
+Distillyasion kubning tuzulishi to’gri ko’rsatilgan javobni aniqlang.
+A) Kubsimon idish bo’lib, izolyatsiyalanmagan, qopqog’i yo’q, tagi sferik.
+B) Silindrik idish bo’lib, izolyasiyalangan.
+C) Silindrsimon uskuna bo’lib, sferik qopqoq va tekis tagdan, qismi pastki 9 ta sektordan iborat.
+D) Silindrik idish, elliptik qopqoq va pastki qismi 3 ta simmetrik joylashgan tashqi kameradan iborat
+ANSWER: C
+
+O’simlik moyi ishlab chiqarishda hosil bo’ladigan ohirgi chiqindi nima deb ataladi?
+A) Salomas
+B) Mitsella
+C) Soapstok
+D) Gudron
+ANSWER: D
+
+Vakuum quritish uskunasida nima uchun vakuum hosil qilinadi?
+A) Quritish haroratini pasaytirish uchun.
+B) Moy tez parchalanish uchun.
+C) Moyni rangi pasayishi va xidini kamaytirish uchun.
+D) Kislota sonini oshirish uchun.
 ANSWER: A
 
-Oqsillar denaturatsiyalanishi va fermentlarning inaktivatsiyasi natijasida qanday jarayon amalga oshadi?  
-A) Nafas olish sekinlashadi va to‘xtaydi, urug‘ nobud bo‘ladi  
-B) Nafas olish to‘xtaydi va moy chiqishi ko‘payadi  
-C) Nafas olish sekinlashadi va to‘xtaydi, urug‘ o‘ladi, yog‘ chiqishi oshadi  
-D) Nafas olish tezlashadi va to‘xtaydi, urug‘ rivojlanadi  
+Uzluksiz distillyasiyada vakuum nechi bosqichda hosil qilinadi?
+A) 1 bosqichli bug’ ejektorli vakuum nasosi yordamida hosil qilinadi.
+B) 3 bosqichli bug’ ejektorli vakuum nasosi yordamida hosil qilinadi.
+C) 4 bosqichli bug’ ejektorli vakuum nasosi yordamida hosil qilinadi.
+D) 2 bosqichli bug’ ejektorli vakuum nasosi yordamida hosil qilinadi.
+ANSWER: B
+
+Yog’ kislotalarini distilyatsiyasi jarayonida distillyasion kubga qancha % miqdorda o’tkir bug’ berib turiladi?
+A) 4*5%
+B) 3*4%
+C) 7*9%
+D) 6*7%
+ANSWER: D
+
+Stearin kislotasini normal atm. bosimidagi qaynash harorati necha oC tashkil qiladi?
+A) 384 C
+B) 370 C
+C) 270 C
+D) 320 C
+ANSWER: B
+
+Sovun tarkibida uglerod atom soni nechadan kam bo’lsa yog’ kislotalarining tuzlari yuvish qobiliyatiga ega emas?
+A) 10 dan kam bo’lsa
+B) 12 dan kam bo’lsa
+C) 4 dan kam bo’lsa
+D) 8 dan kam bo’lsa
 ANSWER: A
 
-Moyli urug‘ni yetiltirish deb nimaga aytiladi?  
-A) Moyli urug‘larni texnologik xususiyatlarini yaxshilash tadbirlariga  
-B) Avval quritib, keyin yanchib, mexanik kuch ta’sir ettirib moyini siqib olish, tozalash jarayonlariga  
-C) Moyli urug‘ni yetiltirish davri — dalada ko‘proq ushlab turishdir  
-D) Moyli urug‘ni yetiltirish uchun moy miqdorini to‘ldirishdir  
+Sovun qaysi erituvchilarda erimaydi?
+A) Suv, benzin, aseton.
+B) Aseton, benzin, kislota.
+C) Spirt, suv, aseton, dietilefir.
+D) Dietilefir, aseton, benzin.
+ANSWER: D
+
+Paxta moyini antronil kislotasi bilan qayta ishlash uchun moydagi nativ gossipolning miqdori qancha bo’lishi kerak?
+A) 0,5%dan yuqori
+B) 0,1-0,8%
+C) 0,8%dan yuqori
+D) 0,2-0,5%
 ANSWER: A
 
-Moyli urug'ni yetiltirish qancha muddat davom etadi?
-A) 1,5-2 oy
-B) 7-9 oy
-C) 0,5-1 oy
-D) 1 oy
-Answer: A
-
-Moyli urug‘lar tarkibida ko‘p uchraydigan mikroorganizmlarga nimalar kiradi?
-A) Zamburug‘lar, bakteriyalar va aktinomisetlar
-B) Suv o‘tlar, moxlar
-C) Fotosintez qiluvchi zamburug‘lar
-D) Qalpoqli zamburug‘lar, virus va mikotoksinlar
-Answer: A
-
-Urug‘ tarkibida 25 % yog‘ bo‘lganligi uchun qaysi urug‘ tez buziladi?
-A) Loviya
-B) Chigit
-C) Kungaboqar
-D) Soya
-Answer: A
-
-Uzoq muddatda maksimal balandlikka uyum holda saqlanadigan moyli xom ashyolarning namligi qanday bo‘lishi kerak?
-A) Kungaboqar 6-7%, chigit 6-8%, soya 12%
-B) Kungaboqar 8-10%, chigit 1-2%, soya 6%
-C) Kungaboqar 4-5%, chigit 6-8%, soya 15%
-D) Kungaboqar 5-8%, chigit 6-8%, soya 9%
-Answer: A
-
-Xujayra devori nimadan tashkil topgan?
-A) Sellyuloza
-B) Protoplazma
-C) Okuol
-D) Oqsil
-Answer: A
-
-Chiqindilar qanday texnologik uskunalarni ishdan chiqaradi?
-A) Mexanik
-B) Organik
-C) Chang
-D) Yog‘li chiqindilar
-Answer: A
-
-Yog‘li urug‘larning sorbsion (singdirish) qobiliyati deb nimaga aytiladi?
-A) Bug‘ va gazlarni singdirish xususiyati
-B) Qattiq moddalar va gazlarni singdirish xususiyati
-C) Erituvchi, silikagel va gazlarni singdirish xususiyati
-D) Qattiq moddalar va gazlarni chiqarib yuborish xususiyati
-Answer: A
-
-Urug‘lardagi o‘ziga xos desorbsiyasi nima?
-A) Singdirilgan suvning bug‘lanib ketishi
-B) Qattiq moddalar va gazlarni singdirish
-C) Gazlarni chiqarib yuborish
-D) Hidli moddalarni qabul qilish
-Answer: A
-
-Ichki diffuziya nima?
-A) Bug‘ urug‘ sathidan o‘tib mag‘izga singadi
-B) Yuqori bo‘lmagan gaz orqali xo‘llanish
-C) Yuqori bosimda suv bilan xo‘llanish
-D) Bug‘ orqali suv bilan xo‘llanish
-Answer: A
-
-Rushanka nima?
-A) Urug‘ po‘chog‘i sindirilganda hosil bo‘lgan massa
-B) Urug‘larning barcha komponentlari aralashmasi
-C) Yog‘ olish uchun mo‘ljallangan massa
-D) Yog‘sizlangan ezilgan massa
-Answer: A
-
-Moyli urug‘lar namligini optimalash nima?
-A) Konditsiyalash
-B) Quritish
-C) Dekompensatsiyalash
-D) Konsentrlash
-Answer: A
-
-Urug‘larni namlik bo‘yicha konditsiyalash qaysi bosqichlarda amalga oshiriladi?
-A) Quritish, namlash va suvni tekis taqsimlash uchun saqlash
-B) Namlab saqlash
-C) Namlash, quritish, bug‘latish, saqlash
-D) Namlash va bug‘latish
-Answer: A
-
-Urug‘larni po‘chog‘idan ajratish qaysi bosqichlarda amalga oshiriladi?
-A) 1-bosqich: chaqiladi, 2-bosqich: ajratiladi
-B) 1–2 bosqich: ajratiladi, 3: tozalanadi
-C) 1: chaqiladi, 2: ajratiladi, 3: tozalanadi
-D) 1: qovuriladi, 2: chaqiladi
-Answer: A
-
-Rushanka tarkibi nimalardan iborat?
-A) Mag‘iz, qobiq, po‘choq, moy changi, chaqilmagan urug‘
-B) Moy changi va chaqilmagan urug‘
-C) Chigit bo‘laklari, xashak, mineral moddalar
-D) Moy changi, chaqilmagan urug‘
-Answer: A
-
-Sanoatda moyli urug‘larni maydalashning qaysi usullari qo‘llaniladi?
-A) Ishqalanish, urish, kesish, siqish
-B) Ishqalanish, urish, ezish, un singari maydalash
-C) Kesish, siqish va elash
-D) Ishqalash va yupqalashtirish
-Answer: A
-
-Paxta chigitining asosiy tarkibi nimalardan iborat?
-A) 57–61% mag‘iz, 39–43% shulxa
-B) 75–78% mag‘iz, 22–25% shulxa
-C) 17–31% mag‘iz, 69–83% shulxa
-D) 27–41% mag‘iz, 20–33% shulxa
-Answer: A
-
-Sanoatda rakushkani ajratish qaysi usullari qo'llaniladi?
-A)Shakl, O'Icham, aerodinamik va elektrofizik> xususiyatlar, zichlik, ishqalanish koeffistentiga ko' ra ajratiladi
-B)Asosan rushanka shakli hisobga olinadi va ajratiladi hamda namligi juda yuqori bo'lganligi sababli cho`ktirib
-C)Texnologik xususiyatlariga qarab ajratish
-D)Sanoat elaklari va to'rlar yordamida
-Answer: A
-
-Moyli xom ashyolardan ohirigacha moy olish qaysi usullar bilan amalga oshiriladi?
-A) Presslash va ekstraksiyalash
-B) Forpress va ekstraktorlar yordamida
-C) Erituvchilar yordamida
-D) Faqat presslab
-Answer: A
-
-Kungaboqar, paxta chigiti va shularga o‘xshash xom ashyolardan dastlabki bosqichda, ya’ni pressda necha foiz moy olinadi?
-A) 70–85%
-B) 25–30%
-C) 35–45%
-D) 90–95%
-Answer: A
-
-Bir qism moyi olingan kunjarani moysizlantirish uchun qanday usullardan foydalaniladi?
-A) Ikkilamchi presslash yoki ekstraksiyalash
-B) Qovurib presslash hamda gidrotermik ishlov orqali
-C) Forpresslash va qizdirish
-D) Qayta-qayta presslash
-Answer: A
-
-Ikki marta presslash usulida moy olishda birinchi va ikkinchi bosqichda kunjaraning qoldiq moyliligi necha foizni tashkil qiladi?
-A) 1-bosqichda 12–18%, 2-bosqichdan keyin 4.5–6%
-B) 1-bosqichda 10–11%, 2-bosqichdan keyin 10.5–16%
-C) 1-bosqichda 17–19%, 2-bosqichdan keyin 4.5–5%
-D) 1-bosqichda 9–13%, 2-bosqichdan keyin 1.5–3%
-Answer: A
-
-Ohirigacha pressda moy olishda harorat va namlik qanday bo‘lishi kerak?
-A) Harorat 110–125°C bo‘lganda, namlik 4%
-B) Harorat 70–80°C bo‘lganda, namlik 3%
-C) Harorat 130–145°C bo‘lganda, namlik 9%
-D) Harorat 90–100°C bo‘lganda, namlik 3%
-Answer: A
-
-Chigit mag‘zini qovurishdan maqsad nima?
-A) Moyni maksimal ajratish va gossipolni passiv holatga o‘tkazish
-B) Xidsizlantirish va ozuqaviy qiymatini yaxshilash
-C) Gossipolni passiv holatga o‘tkazish
-D) Xidsizlantirib ozuqaviy qiymatini yaxshilash
-Answer: A
-
-Qovurish vaqtida qanday jarayonlar faollashadi?
-A) Namlik va harorat fermentlar tizimini faollashtiradi, oksidlanish kuchayadi
-B) Yanchilmadan yog‘ chiqishi faollashadi
-C) Fermentlar tizimi so‘ndiriladi
-D) Gidrolitik va oksidlanish jarayonlari to‘xtaydi
-Answer: A
-
-Fermentlar tizimi qanday sharoitlarda inaktivatsiyaga uchraydi?
-A) 80–85°C haroratda, 30–40 daqiqa davomida
-B) 40–45°C haroratda, 50–60 daqiqa davomida
-C) 60–65°C haroratda, 10–20 daqiqa davomida
-D) 100–120°C haroratda, 5–10 daqiqa davomida
-Answer: A
-
-Lipaza, fosfolipaza fermentlarining aktivligi susayganda nima sodir bo‘ladi?
-A) Gliserin va fosfatidlarning parchalanishi kuzatilmaydi
-B) Fosfoyog‘lar saqlanib qoladi
-C) Glitserindan tozalanadi
-D) Fosfatidlar cho‘kadi
-Answer: A
-
-O‘zgarmagan gossipol nima?
-A) Zaharli, rang beruvchi, qizdirilganda rangi o‘zgarib zich soapstok hosil qiladi
-B) Zaharsiz, rang beruvchi
-C) Qizg‘ish rang beruvchi
-D) Yog‘ rangini belgilovchi toksik modda
-Answer: A
-
-Yanchilmaga issiqlik ishlovi berishdan maqsad nima?
-A) Fizik va kimyoviy o‘zgarishlarni yuzaga keltirish
-B) Dezodoratsiya qilish
-C) Fermentlarni inaktivatsiya qilish va quritish
-D) Nativ holatini saqlab qolish
-Answer: A
-
-Bog‘langan gossipol qachon hosil bo‘ladi?
-A) 11–13% namlikda, 90–100°C haroratda
-B) 20–23% namlikda, 190–200°C haroratda
-C) 7–8% namlikda, 60–70°C haroratda
-D) 1–3% namlikda, 40–50°C haroratda
-Answer: A
-
-O‘zgarmagan gossipolga organik erituvchilar qanday ta’sir ko‘rsatadi?
-A) Gossipolni yaxshi eritadi
-B) Ta’sir qilmaydi
-C) Neytral bo‘lib qoladi
-D) Faqat qizdirilganda eriydi
-Answer: A
-
-Sheluxa tarkibida necha foiz yog‘ bo‘ladi?
-A) 0)51%
-B) 0)30%
-C) 0)70%
-D) 0)25%
-Answer: A
-
-Yanchilma qanday usullarda namlanadi?
-A) Issiq yoki iliq suv bilan, bug‘ bilan
-B) Sovuq va issiq suv bilan
-C) Bug‘ yordamida yoki past haroratli ishlov bilan
-D) Qizdirilgan bug‘ bilan
-Answer: A
-
-Qovurishning birinchi davrida talqon bug‘ bilan namlab isitilganda nima yuz beradi?
-A) Suv moyni siqib chiqaradi, aleyron donachalari yiriklashadi
-B) Moy chiqmaydi, aleyron maydalanadi
-C) Aleyron donachalari yiriklashadi
-D) Yog‘ donachalari yiriklashadi
-Answer: A
-
-Yanchilmani namlab isitishda qaysi jihozlar ishlatiladi?
-A) Shnekli inaktivatorlar yoki namlab-isituvchi shnekli qurilmalar
-B) Barabanli qurilmalar, distillyator, shnekli press, forpress va ekstraktorlar
-C) Ekstraktor va distillyator
-D) Isituvchi shnekli qurilmalar
-Answer: A
-
-Mag'iz sheluxadan qanday mashinada ajratiladi?
-A) Separator
-B) Guller
-C) Shelmashina
-D) Shnek
-Answer: A
-
-Presslash jarayonida siqilish ta’sirida moy olishning harakatlantiruvchi kuchi nima?
-A) Bosim
-B) Qarshilik kuchi
-C) Namlik
-D) Harorat
-Answer: A
-
-Pressda hosil qilinadigan bosim qanday boshqariladi va uning miqdori qancha?
-A) Pressdan chiquvchi kunjara miqdorini boshqaruvchi mexanizm orqali; maksimal bosim 25–30 MPa
-B) Maxsus qurilma yordamida; maksimal bosim 20–25 MPa
-C) Vintli mexanizm bilan; maksimal bosim 15–20 MPa
-D) O‘simlik moyi oqimini boshqaruvchi mexanizm orqali; maksimal bosim 45–50 MPa
-Answer: A
-
-Moyli xom ashyolardan ohirigacha moy olish qaysi usullar bilan amalga oshiriladi?
-A) Presslash va ekstraksiyalash
-B) Forpress va ekstraktorlar yordamida
-C) Erituvchilar yordamida
-D) Faqat presslab
-Answer: A
-
-Standart bo‘yicha pressdan chiqqan qora moyning ko‘rsatkichi qanday bo‘lishi kerak?
-A) Loyqaligi 0,3%, namligi 0,5% dan oshmasligi kerak
-B) Loyqaligi 0,1%, namligi 0,3% dan oshmasligi kerak
-C) Loyqaligi 1,1%, namligi 0,2% dan oshmasligi kerak
-D) Loyqaligi 0,2%, namligi 1,6% dan oshmasligi kerak
-Answer: A
-
-Mag'izni quruq qovurish usulini qo‘llash qaysi urug‘larda maqsadga muvofiq emas?
-A) Chigit
-B) Kungaboqar
-C) Raps
-D) Indov
-Answer: A
-
-Bir tonna yanchilmani qovurish uchun necha kg bug‘ sarflanadi?
-A) 25 kg
-B) 35 kg
-C) 18 kg
-D) 15 kg
-Answer: A
-
-Yuqori haroratda fosfatidlar uglevodlar bilan reaksiyaga kirishib nima hosil qiladi?
-A) Melanofosfatid — qora rangli birikmalar
-B) Monofosfat — tiniq rangli murakkab birikmalar
-C) Degidrofosfat birikmalari
-D) Oksikislotalar va mumlar
-Answer: A
-
-Yaxshi pishib yetilgan urug‘ tarkibidagi moyda erkin moy kislotalari miqdori necha foiz bo‘ladi?
-A) 0)3–1)0%
-B) 0)1–0)2%
-C) 3–4%
-D) 0)2–0)25%
-Answer: A
-
-O‘simlik moylari tarkibida qanday pigmentlar uchraydi?
-A) Karotin, ksantofil va xlorofill
-B) Qora, ko‘k va olov rangli
-C) Qizil va sariq rangli
-D) Binafsha, jigar rangli va antosianlar
-Answer: A
-
-Paxta moyi tarkibidagi zaharli pigment qanday nomlanadi?
-A) Gossipol moddasi
-B) Karotin hosilasi
-C) Xlorofil hosilasi
-D) Protopektin hosilasi
-Answer: A
-
-Moydagi qattiq zarrachalarni qanday ajratiladi?
-A) Sentrifuga va separatorlarda
-B) Oddiy to‘rlar bilan
-C) Elaklar va magnit tutqichlar yordamida
-D) Faqat separatorlar bilan
-Answer: A
-
-Ekstraksiyalash jarayonida ohirgi mahsulot nima?
-A) Moy va moysizlantirilgan shrot
-B) Yog‘li kunjara, sheluxa va yanchilma
-C) Sheluxa
-D) Rushanka
-Answer: A
-
-Suyuqliklarning molekulalararo o‘zaro ta’sir kuchini ifodalovchi ko‘rsatkich nima?
-A) Solishtirma sig‘im
-B) Qarshilik
-C) Solishtirma o‘tkazuvchanlik
-D) O‘tkazuvchanlik
-Answer: A
-
-Nima uchun moylar ko‘pgina organik erituvchilarda yaxshi eriydi?
-A) Dielektrik o‘tkazuvchanligi moylarnikiga yaqin bo‘lganligi uchun
-B) Erituvchilar engil birika olganligi uchun
-C) Vodorod bog‘lari hosil qilish qobiliyatiga ega bo‘lgani uchun
-D) Yog‘larning zichligi va solishtirma og‘irligi yuqori bo‘lgani uchun
-Answer: A
-
-Kungaboqar yanchilmasi necha darajagacha qizdiriladi?
-A) 85°C
-B) 100°C
-C) 65°C
-D) 55°C
-Answer: A
-
-Alifatik uglevodorodlarga nimalar kiradi?
-A)Benzin, geksan erituvchi, propan va butan
-B)Organik va noorganik moddalar bentonit va tuzlar
-C) Organik erituvchilar va ishqor
-D)Spirtlar
-Answer: A
-
-Nima uchun benzin bug'lari polda va burchaklarda to‘planadi?
-A) Xavodan 2,7 marotaba og‘ir
-B) Xavodan 1,5 marotaba og‘ir
-C) Xavodan 3,7 marotaba og‘ir
-D) Xavodan 0,3 marotaba og‘ir
+Oqlash jarayonining optimal davomiyligini qansay vaqt oralig’ida olib boriladi?
+A) 30-45 minut
+B) 20-30 minut
+C) 40-60 minut
+D) 15-20 minut
 ANSWER: A
 
-Erituvchilar eng muhim fizik va kimyoviy xususiyatlariga nimalar kiradi?
-A) Polyarligi, qovushqoqligi, qaynash harorati
-B) Polyarligi, zichligi, kislotaligi, yuqori eritish qobiliyati
-C) Past haroratda qaynashi
-D) Solishtirma massasi
+Ishqorsiz rafinatsiya qilish uchun salomasni kislota soni qanday bo’lishi kerak?
+A) 0,4-0,8 mg KOH dan yuqori emas
+B) 2-3 mg KOH
+C) 1 mg KOH dan yuqori emas
+D) 0,1-0,2 mg KOH dan yuqori emas
+ANSWER: C
+
+Katalizator yuzasida necha xil adsorbsiya yuz beradi?
+A) 3 xil
+B) 2 xil
+C) Adsorbsiya yuz bermaydi.
+D) 1 xil
+ANSWER: B
+
+Oziq-ovqat uchun ishlatilgan fosfatid konsentratidagi fosfatidlar miqdori qancha % ni tashkil qiladi?
+A) 45 %
+B) 55 %
+C) 40 %
+D) 60 %
+ANSWER: B
+
+O’simlik moylari tarkibidagi hamroh moddalar necha guruhga bo’lib o’rganiladi?
+A) 1 gruppaga
+B) 2 gruppaga
+C) 3 gruppaga
+D) Gruppaga bo`linmaydi
+ANSWER: B
+
+Katalizator aktiv markazlarining yuzasi umumiy katalizator yuzasining necha % tashkil qiladi?
+A) 2,5-3 %
+B) 0.1-0.2 %
+C) 1-2 %
+D) 0.5-1 %
+ANSWER: C
+
+Ni-Cu katalizatorini olish uchun, qanday nisbatda bo’lgan Ni va Cu sulfat eritmasi ishlatiladi?
+A) Ni:Cu=1:1
+B) Ni:Cu=3:1
+C) Ni:Cu=2:1
+D) Ni:Cu=4:1
+ANSWER: B
+
+Mayonez ishlab chiqarishda qanday emulgatorlar ishlatiladi?
+A) Soda, sut, qand, MD, MGD.
+B) Tuz, suv
+C) Quruq sut, tuxum kukuni.
+D) Quruq sut, qand.
+ANSWER: C
+
+Yog’larni gidrolizi necha usuldan iborat?
+A) 3
+B) 10
+C) 5
+D) 4
+ANSWER: C
+
+Glitserinni birinchi bo’lib nechanchi yilda kim tomonidan ajratib olingan?
+A) 1779 yilda birinchi bo’lib nemis olimi Sheyele qo’rg’oshin oksidi ishtirokida zaytun yog’ini sovinlash natijasida olgan.
+B) 1870 yilda birinchi bo’lib, fransuz olimi Shevrol paxta yog’ini 230°C dezodorasiya qilish yordamida gliserin ajratib olgan.
+C) 1920 yilda birinchi bo’lib ingliz olimi Peluz paxta yog’ini neytrallash yordamida ajratib olgan.
+D) 1850 yilda Goldovskiy birinchi bo’lib qo’shbog’larni o’zgartirib ajratib olishgan.
 ANSWER: A
 
-Pressdan chiqqan qora yog‘ tarkibida namlik necha foiz bo‘ladi?
-A) 0,5%
-B) 6,0%
-C) 0,4%
-D) 0,3%
+Toza gliserinni qaynash harorati qanday bo’ladi?
+A) 250 С
+B) 180 С
+C) 350 С
+D) 290 С
+ANSWER: D
+
+Suvni sirt tarangligini kamaytiradigan moddalar qanday nomlanadi?
+A) Sovunning suvdagi eritmasi.
+B) Katalizator deyiladi.
+C) Qovushqoqlikni oshiradigan moddalar deyiladi.
+D) Fazolar yuzasi deyiladi.
 ANSWER: A
 
-Yog‘ bilan erituvchining aralashib ketgan eritmasi qanday nomlanadi?
-A) Mistsella
-B) Shrot
-C) Mezga
-D) Rushanka
+Sovun yelimi bu nima?
+A) Konsentrlangan sovun eritmasi.
+B) Soapstok.
+C) Erkin yog’ kislotasi to’yintirilgan yog’ ya’ni salomas.
+D) Nordon sovun.
 ANSWER: A
 
-Bog‘langan gossipolning qanday xususiyati bor?
-A) Yog‘da, benzinda va etilli efirda erimaydi
-B) Yog‘da, benzinda va etilli efirda eriydi
-C) Benzinda va etilli efirda erimaydi va kompleks hosil qiladi
-D) Organik erituvchilarda erimaydi
+Yuqori va 1-navli gliserin olish uchun distillyasiyada gliserin qanday adsorbent ishlatiladi?
+A) Aktivlangan ishqor bilan.
+B) Aktivlangan qum bilan.
+C) Aktivlangan yog’och ko’miri bilan
+D) Aktivlangan granulometrik tuproq bilan.
+ANSWER: C
+
+Margarin emulsiyasi sovutilganda qanday jarayon sodir bo’ladi?
+A) Absorbsiya
+B) Xemasorbsiya
+C) Kristallanish
+D) Adsorbsiya
+ANSWER: C
+
+Mаyonеzning аsоsiy kоmpоnеnti nimadan iborat bo’ladi?
+A) Rаfinаtsiyalаngаn hidsizlаntirilgаn o’simlik mоyi
+B) Sаlоmаs
+C) Хidsizlаntirilgаn o’simlik mоyi va gidrogenlangan o’simlik mоyi
+D) Rаfinаtsiyalаngаn o’simlik mоyi
 ANSWER: A
 
-Jarayonni turli xil aralashma va gazlarni past qaynovchi komponentlar bilan boyitib qisman kondensatsiyalash qaysi jarayon?
-A) Deflegmatsiya
-B) Konditsiyalash
-C) Distillyatsiya
-D) Ekstraksiya
+Mаyonеzning turlаri qаysi qаtоrdа to’liq vа to’g’ri kеltirilgаn?
+A) Mаyonеzlаr zirаvоrli, mаzа bеruvchi vа dirildоq hоsil qiluvchi qo’shimchаlаr qo’shilgаn оshхоnа, pаrhеz vа bоlаlаr uchun turlаri
+B) Zirаvоr qo’shilgаn mаyonеzlаr («Bахоr» ukrоpli; «Gоrchitsаli»vа bоshqаlаr) o’zini tа’mi vа mаzаsi bo’yichа “Prоvаnsаl’” mаyonеzi.
+C) Zirаvоrli, mаzа bеruvchi vа dirildоq hоsil qiluvchi qo’shimchаlаr qo’shilgаn оshхоnа turlаri.
+D) Оshхоnа («Prоvаnsаl’», «Sutli», «Lyubitеl’skiy») mаyonеzlаri
 ANSWER: A
 
-Regeneratsiya deb qanday jarayonga aytiladi?
-A) Erituvchini qaytadan yig‘ib olish
-B) Erituvchini qayta ishlash
-C) Aralashmadan erituvchini ajratib olish
-D) Suv bug‘idan tozalash
+Аchchiq tа’mli mаyonеzlаr qаysi qаtоrdа keltirib o’tilgan?
+A) “Gоrchichniy”, “Prаzdnichny”, “Оgоnyok” vа bоshqаlаr
+B) Оshхоnа («Prоvаnsаl», «Sutli», «Lyubitеlskiy») mаyonеzlаri
+C) «Bахоr» ukrоpli; «Gоrchitsаli»vа bоshqаlаr
+D) “Аpеl’sinli”, “Аsаlli”
 ANSWER: A
 
-Kungaboqarning yuqori darajada moy to‘plovchi navlarida yog‘ miqdori necha foiz bo‘ladi?
-A) 70% gacha
-B) 60% gacha
-C) 65% gacha
-D) 80% gacha
+Glitsеrinni birinchi bo’lib qаysi оlim tomonidan aniqlangan?
+A) 1779 yildа nеmis оlimi SHееlе
+B) 1836 yili Pеluz
+C) 1910yili K.Linnеy
+D) 1823 yildа frаntsuz оlimi SHеvrоl
 ANSWER: A
 
-Jami ishlab chiqiladigan moyning necha foizi soyaga to‘g‘ri keladi?
-A) 54%
-B) 63%
-C) 31%
-D) 27%
+Glitsеrin dastlab qanday nоm bilan atalgan?
+A) Bоshidаn «Glitsеrin» dеb аtаlgаn.
+B) «SHееlеning shirin yog`i».
+C) «SHееlеning yog`i».
+D) “Mum”.
+ANSWER: B
+
+Gidrоlizlаnish nimа?
+A) Yog’ning kristаllаnishi
+B) Yog’ning pаrchаlаnishi
+C) Yog’ning gidrаtlаnishi
+D) Erkin yog kislоtаlаrning pаrchаlаnishi
+ANSWER: B
+
+Tindirish glitsеrinli suv vа yog’ kislоtаlаri qаysi ko`rsаtkichgа аsоsan amalga oshiriladi?
+A) Suv yog’ buzilishigа аsоslаngаn.
+B) Glitsеrinli suv ustigа yog’ kislоtаlаr аjrаlishigа аsоslаngаn.
+C) Хаrоrаtgа аsоslаngаn.
+D) Zichliklаrining fаrqigа аsоslаngаn.
+ANSWER: D
+
+Yog’ tаbiаti vа rаfinаtsiya usuligа ko’rа sоаpstоk tаrkibidа nеchа % yog’ bo’lаdi?
+A) 20-40 %
+B) 10-50 %
+C) 50-80 %
+D) 30-60 %
+ANSWER: D
+
+Glitsеrinli eritmаni kоntsеntrlаshdаn аvvаl, u аrаlаshmаlаrdаn tоzаlаnаdi. Bundаn mаqsаd nima?
+A) Stаndаrt tаlаblаrgа jаvоb bеrаdigаn tоzа glitsеrin оlish
+B) Аppаrаtni kоrrоziyadаn himоya qilishdir
+C) Jixozni kоrrоziyadаn himоya qilishdir
+D) Bug’lаtish jаrаyonini tехnоlоgik shаrtlаrini to’liq tа’minlаsh (isitish trubаlаridа qo’yqа hоsil bo’lishini kаmаytirish vаkuum аppаrаtlаrdа glitsеrinni ko’piklаnishini оldini оlish vа bоshqаlаr)
 ANSWER: A
 
-Yog‘lar necha haroratda qizdirilsa erkin yog‘ kislotalari hosil bo‘ladi?
-A) 250-300°C
-B) 150-200°C
-C) 350-370°C
-D) 200-250°C
+Yog’lаrni rеаktivsiz bаrchа jаvоblаr to’g’ri gidrоlizidаn оlingаn glitsеrinli suv murаkkаb gеtеrоgеn sistеmа bo’lib, .... hаmdа emulsiya ko’rinishdа bo’lаdi. Nuqtаlаr o’rnini to’ldiring.
+A) Ko’p qismi lipidlаr, аyniqsа yog’ kislоtаlаri
+B) Minеrаl tuzlаr vа bоshqаlаr mаvjud
+C) Оrgаnik vа minеrаl аrаlаshmаlаr bo’lаdi
+D) Tаrkibidа hаr хil tаbiаtli аrаlаshmаlаr, chin vа kоllоid eritmаlаr hоlidа
 ANSWER: A
 
-Viskozimetrda yog‘ning qaysi ko‘rsatgichi aniqlanadi?
-A) Qovushqoqligi
-B) Zichligi
-C) Sovunlanish soni
-D) Massasi
+Glitsеrinli suvni tоzаlаsh jаrаyonidа yog’lаrni rеаktivsiz pаrchаlаshdаn оlingаn glitsеrinli suv tаrkibidа, glitsеrin vа suvdаn tаshqаri, хilmа хil turdаgi оrgаnik vа minеrаl аrаlаshmаlаr hаm bo’lаdi. Bu аrаlаshmаlаr miqdоri qаndаy mоddаlаrgа bоg’liq?
+A) Gidrоlizlаnаyotgаn mоy sifаti vа аssortimеntigа bоg’liq
+B) Оrgаnik vа minеrаl аrаlаshmаlаr, minеrаl tuzlаrgа bоg’liq
+C) Kоllоid sistеmа bаrqаrоrligini buzishigа bоg’liq
+D) Bаrchа jаvоblаr to’g’ri
 ANSWER: A
 
-Yog‘ning zichligi qaysi asbobda o‘lchanadi?
-A) Piknometr, areometr
-B) Galvanometr, termometr
-C) Refraktometr
-D) Viskozimetr
+Glitsеrinli suvni tоzаlаsh usullаridа suvdаn аrаlаshmаlаrni аjrаtish uchun qanday аsоsiy tехnоlоgik jаrаyonlаrni tаlаb etаdi?
+A) kоllоid sistеmа bаrqаrоrligini buzish
+B) bаrchа jаvоblаr to’g’ri
+C) lipidlаrni, suvdа eriydigаn iоnоgеn vа nоiоnоgеn birikmаlаrini yo’qоtish
+D) lipidlаrni glitsеrinli suv bilаn hоsil qilgаn emul’siyani pаrchаlаsh
 ANSWER: A
 
-Yog‘larning kislota soni nimani bildiradi?
-A) 1 gr yog‘ tarkibidagi bog‘langan yog‘ kislotalarining mg KOH bilan ifodalangan miqdori
-B) 1 gr yog‘ tarkibidagi bog‘langan yog‘ kislotalarining mg H₂PO₄ bilan ifodalangan miqdori
-C) 1 gr yog‘ tarkibidagi to‘yinmagan yog‘ kislotalarining mg dagi miqdori
-D) 1 gr yog‘ tarkibidagi to‘yingan yog‘ kislotalarining mg dagi miqdori
+Tindirish glitsеrinli suv vа yog’ kislоtаlаrini qanday ko’rsatkichlari fаrqigа аsоslаngаn bo’ladi?
+A) Хаjmiy fаrqigа
+B) Mаssаsining fаrqigа
+C) Zichliklаrining fаrqigа
+D) Хаrоrаtlаriningining fаrqigа
+ANSWER: C
+
+Glitsеrinli suvni… nаtijаsidа suv-yog’ emul’siyasi buzilаdi, yog’ kislоtаlаri vа nеytrаl yog’ аjrаlаdi, so’ngrа tindirish оrqаli ulаr аjrаtib оlinаdi.
+A) Glitsеrinli suvni tindirish va fil’trlash
+B) Glitsеrinli suvni isitish
+C) Glitsеrinli suvni sоvutish
+D) Glitsеrinli suvni qаynаtish
+ANSWER: D
+
+Yog`lаrning kishi bоshigа bir kunlik o’rtаchа nоrmаsi qаnchа?
+A) 100-120 gr
+B) 40-50 gr
+C) 70-80 gr
+D) 80-100 gr
+ANSWER: D
+
+Yeryonоq mоyi tаrkibidа yog’ qаnday miqdorni tashkil etadi?
+A) 40-60%
+B) 30-35%
+C) 55-73%
+D) 35-45%
 ANSWER: A
 
-Distillyatsiya jarayoni necha bosqichda boradi?
-A) 3 bosqichda
-B) 2 bosqichda
-C) 4 bosqichda
-D) 1 bosqichda
+Оrgаnоlеptik ko’rsаtkichlаri bo’yichа qanday navdagi хоm glitsеrin tiniq, sirtidа ko’piksiz vа оch sаriqdаn to’q jigаrrаnggаchа bo’lishi lozim?
+A) I vа II nаv
+B) Bаrchа jаvоblаr to’g’ri
+C) III nаv
+D) V nаv
 ANSWER: A
 
-Ekstraktordan chiqayotgan shrot tarkibida necha foizgacha benzin bo‘ladi?
-A) 25-40%
-B) 15-20%
-C) 5-10%
-D) 35-50%
+Yog’larni gidrogenlashda katalizning mexanizmi qanday boradi?
+A) Vodorod va to’yinmagan modda etilen katalizator yuzasiga desorbsiyalanadi va aktivlangan xolga keladi. B. Aktivlashgan vodorod va to’yinmagan modda molekulalari bir-biriga juda yaqin joylashgan bo’lsa, ular o’zaro reakstiyaga kirishib, gidrogenlash jarayoni sodir bo’ladi.
+B) Vodorod va to’yinmagan modda etilen katalizator yuzasiga adsorsiyalanadi va aktivlangan xolga keladi. Aktivlashgan vodorod va to’yinmagan modda molekulalari bir-biriga juda yaqin joylashgan bo’lsa, ular o’zaro reakstiyaga kirishib, gidrogenlash jarayoni sodir bo’ladi.
+C) Aktivlashgan vodorod va to’yinmagan modda molekulalari katalizator yuzasiga desorbsiyalanadi va aktivlangan holga keladi.
+D) Aktivlashgan vodorod va to’yinmagan modda molekulalari bir-biriga juda yaqin joylashgan bo’lsa, ular o’zaro reaksiyaga kirishib, gidrogenlash jarayoni sodir bo’ladi
+ANSWER: B
+
+Gidrogenizasiya necha bosqichda amalga oshiriladi?
+A) 5 bosqichda
+B) 3 bosqichda
+C) 6 bosqichda
+D) 4 bosqichda
 ANSWER: A
 
-Ekstraktorda material oxirgi bosqichda nima bilan aralashtiriladi?
-A) Mitsella
-B) Toza erituvchi
-C) Shrot
-D) Yog‘
+Katalizator yuzasida qanday adsorbsiya yuz beradi?
+A) Kimyoviy, xemosorbstiya (aktivlash adsorbstiya)
+B) Fizikaviy, xemosorbstiya (aktivlashtirilgan adsorbstiya)
+C) Fizikaviy, kimyoviy
+D) Xemosorbstiya (aktivlashtirilgan adsorbstiya), fizikaviy, kimyoviy
+ANSWER: B
+
+Nikel asosli katalizatorlar aktivligi bo’yicha necha guruhga ajratiladi?
+A) 4ta
+B) 5ta
+C) 3ta
+D) 2ta
 ANSWER: A
 
-Kunjara tarkibida yog‘ miqdori necha foizni tashkil etadi?
-A) 4-9%
-B) 1-3%
-C) 4-12%
-D) 2-5%
+Yog’larni gidrogenlash qanday jarayon hisoblanadi?
+A) Yog’larni gidrogenlash – quyuq fazali gomogen va geterogen – katalitik jarayondir.
+B) Yog’larni gidrogenlash – suyuq fazali geterogen – katalitik jarayondir.
+C) Yog’larni gidrogenlash – suyuq fazali gomogen – katalitik jarayondir.
+D) Yog’larni gidrogenlash – suyuq fazali katalitik jarayondir.
+ANSWER: B
+
+Gidrogenlash qanday usullar yordamida amalga oshiriladi?
+A) Gidrogenlash davriy va uzluksiz usullar bilan olib boriladi.
+B) Gidrogenlash uzlukli va uzluksiz usullar bilan amalga oshiriladi.
+C) Gidrogenlash davriy usulda olib boriladi.
+D) Gidrogenlash faqatgina uzluksiz usulda olib boriladi.
 ANSWER: A
 
+Sanoatda ishlab chiqariladigan gidrogenlangan yog’lar qanday salomas turlariga bo’linadi?
+A) Sanoat, kulinar
+B) Ozuqaviy, kulinarniy
+C) Sanoat, texnik
+D) Ozuqaviy, texnik
+ANSWER: D
+
+Gidrogenlashda foydalaniladigan vodorodga to’g’ri ta’rif berilgan javobni aniqlang.
+A) Vodorod zaharli emas, rangsiz, eng engil gaz hisoblanadi. Atmosfera bosimida 00C haroratda vodorod zichligi 0,09 kg/m3 vodorodning havo bilan portlash chegarasi (hajmiy foizda) pastki chegarasi – 4%, yuqori chegarasi – 75% ni tashkil etadi.
+B) Vodorod zaharli rangsiz, eng engil gaz hisoblanadi. Atmosfera bosimida 00C haroratda vodorod  zichligi 0,09 kg/m3 vodorodning havo bilan portlash chegarasi (hajmiy foizda) pastki chegarasi – 4%, yuqori chegarasi – 85% ni tashkil etadi.
+C) Vodorod zaharli rangsiz, eng engil gaz hisoblanadi.
+D) Vodorod zaharli emas, rangsiz, og’ir gaz hisoblanadi. Atmosfera bosimida 20C haroratda vodorod zichligi 0,05 kg/m3 vodorodning havo bilan portlash chegarasi (hajmiy foizda) pastki chegarasi – 2% ni, yuqori chegarasi – 60% maksimalni tashkil etadi.
+ANSWER: A
+
+Gidrogenlashda foydalaniladigan vodorod sanoat miqyosida necha usulda ishlab chiqariladi?
+A) 3 usulda
+B) 4 usulda
+C) 1 usulda
+D) 2 usulda
+ANSWER: A
+
+Margarin mahsuloti tarkibiga qanday moddalar mavjud bo’ladi?
+A) Margarin – bu yirik zarrachali emulsiya bo’lib, uning tarkibiga: yog’lar, sut, vitaminlar, emulgator va boshqalar kiradi.
+B) Margarin – bu mayda zarrachali emulsiya mahsulidir va yog’lar, tuz, oziq ovqat qo’shimchalaridan tashkil topgan.
+C) Margarin – bu mayda zarrachali emulsiya bo’lib, uning tarkibiga: yog’lar, sut, tuz, shakar, vitaminlar, fosfatidlar, emulgator va boshqalar kiradi.
+D) Margarin – bu mayda zarrachali hosil bo’lib, uning tarkibiga: yog’lar, sut, tuz, shakar, vitaminlar, fosfatidlar, fosfolipidlar, stearin kislotasi emulgator va boshqalar kiradi.
+ANSWER: C
+
+Birinchi marta margarin ishlab chiqaruvchi zavod qachon va qayerda ishga tushirilgan?
+A) Birinchi margarin zavodlari MDHda 1860 yilda Podmoskva va Sankt-Peterburgda ishga tushirilgan
+B) Birinchi margarin zavodlari MDHda 1865 yilda Germaniyada ishga tushirilgan.
+C) Birinchi margarin zavodlari MDHda 1930 yilda Moskva va Sankt-Peterburgda ishga tushirilgan.
+D) Birinchi margarin zavodlari MDHda 1930 yilda Parij va Sankt-Peterburgda ishga tushirilgan.
+ANSWER: C
+
+Margarin uchun ishlatiladigan yog’larning erish harorati qanday bo’lishi talab etiladi?
+A) 22-26 C dan
+B) 36-40 C dan
+C) 31-34 C dan
+D) 29-31 C dan
+ANSWER: C
+
+Yog’larni gidrogenlashda foydalaniladigan katalizatorlar reaksiya tezligiga qanday ta’sir etadi?
+A) 107-1017 marta tezlashtiradi.
+B) 106-1010 marta tezlashtiradi.
+C) 106-1016 marta tezlashtiradi.
+D) 106-1014 marta tezlashtiradi.
+ANSWER: C
+
+Katalizatorning aktiv markazlari nima?
+A) Katalizator yuzasida turli aktivlikka ega bo’lgan adsorbstiya markazlari bor. Bunday adsorbstion markazlar katalizatorning aktiv markazlari deyiladi.
+B) Katalizator yuzasida turli aktivlikka ega bo’lgan adsorbstiya markazlari bor. Bunday sorbstion markazlar katalizatorning aktiv markazlari deyiladi.
+C) Katalizator sirtida bir xil aktivlikka ega bo’lgan adsorbstiya markazlari bor. Bunday adsorbstion markazlar katalizatorning passiv markazlari deyiladi.
+D) Katalizator yuzasining aktivlikka ega bo’lgan sorbstiya markazlari bor. Bunday adsorbstion markazlar katalizatorning aktiv markazlari deyiladi.
+ANSWER: A
+
+Nikel asosli katalizatorlar aktivligi bo’yicha necha guruhga ajratiladi?
+A) 4ta
+B) 5ta
+C) 3ta
+D) 2ta
+ANSWER: A
+
+Gidrogenlash qanday usullar yordamida amalga oshiriladi?
+A) Gidrogenlash davriy va uzluksiz usullar bilan olib boriladi.
+B) Gidrogenlash faqatgina uzluksiz usulda olib boriladi.
+C) Gidrogenlashda uzlukli va uzluksiz usullar bilan olib boriladi.
+D) Gidrogenlash davriy usulda olib boriladi.
+ANSWER: A
+
+Margarin  birinchi marta qachon va kim tomonidan ishlab chiqarishni boshlangan?
+A) Margarin sariyog’ga o’xshash yog’ sifatida 1869 yilda franstuz kimyogari Mej-Mure   tomonidan ishlab chiqarilgan.
+B) Margarin sariyog’ga o’xshash yog’ sifatida 1865 yilda franstuz kimyogari Dolton tomonidan ishlab chiqarilgan.
+C) Margarin sariyog’ga o’xshash yog’ sifatida 1892 yilda franstuz kimyogari Mej-Mure tomonidan ishlab chiqarilgan.
+D) Margarin sariyog’ga o’xshash yog’ sifatida 1886 yilda franstuz kimyogari Mej-Mure va Mej Smartlar tomonidan ishlab chiqarilgan.
+ANSWER: A
+
+Margarin mahsuloti tarkibiy jihatdan qanday moddalardan tashkil topgan?
+A) Margarin – bu mayda zarrachali emulsiya mahsulidir va yog’lar, tuz, oziq ovqat qo’shimchalaridan tashkil topgan.
+B) Margarin – bu mayda zarrachali emulsiya bo’lib, uning tarkibiga: yog’lar, sut, tuz, shakar, vitaminlar, fosfatidlar, emulgator va boshqalar kiradi.
+C) Margarin – bu mayda zarrachali hosil bo’lib, uning tarkibiga: yog’lar, sut, tuz, shakar, vitaminlar, fosfatidlar, fosfolipidlar, stearin kislotasi emulgator va boshqalar kiradi.
+D) Margarin – bu yirik zarrachali emulsiya bo’lib, uning tarkibiga: yog’lar, sut, vitaminlar, emulgator va boshqalar kiradi.
+ANSWER: B
+
+Margarin ishlab chiqarish uchun asosiy xomashyolar keltirilgan javobni toping?
+A) Yog’, sut, tuz, shakar
+B) Yog’, sut, shakar va boshqalar
+C) Barch javoblar to’g’ri
+D) Yog’ va sut hisoblanadi
+ANSWER: D
+
+Margarin ishlab chiqarish uchun foydalaniladigan yog’larning kislota soni qanday ko’rsatgichga ega bo’lishi kerak?
+A) Kislota soni 0,4mg KOH dan yuqori bo’lmasligi kerak
+B) Kislota soni 0,3mg KOH dan yuqori bo’lmasligi kerak
+C) Kislota soni 0,2mg KOH dan yuqori bo’lmasligi kerak
+D) Kislota soni 0,1mg KOH dan yuqori bo’lmasligi kerak
+ANSWER: B
+
+Sovun sifati nimaga bog’liq bo’ladi?
+A) Ishlatiladigan emulgator sifatiga
+B) Ishlatiladigan yog’lar sifatiga
+C) Ishlatiladigan ishqor sifatiga
+D) Barcha javoblar to’g’ri
+ANSWER: B
+
+Atir sovun uchun foydalaniladigan kokos yog’ining tarkibida qanday kislotalar mavjud bo’ladi?
+A) 54 % gacha laurin va 19 % gacha stearin kislotasi bor.
+B) 32 % gacha laurin va 20 % gacha miristin kislotasi bor.
+C) 51 % gacha olein va 19 % gacha miristin kislotasi bor.
+D) 52 % gacha laurin va 19 % gacha miristin kislotasi bor.
+ANSWER: D
+
+Uzluksiz dezodoratordagi qoldiq bosim necha mm.sim.ust. teng bo’ladi?
+A) 6mm.sim.ust
+B) 5mm.sim.ust.
+C) 1mm.sim.ust
+D) 2mm.sim.ust
+ANSWER: B
+
+Yog’larni kontaktli gidrolizi qanday xaroratda olib boriladi?
+A) 110 C da
+B) 20 C da
+C) 50 C da
+D) 100 C da
+ANSWER: D
+
+Sanoatda elektroliz jarayoni qanday uskuna yordamida olib boriladi?
+A) Izolyatorli elektrolizyorlarda
+B) FV tipidagi elektrolizyorlarda
+C) MP tipidagi elektrolizyorlarda
+D) KP tipik elektrolizyorlarda
+ANSWER: B
 
