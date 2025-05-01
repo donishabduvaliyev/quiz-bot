@@ -699,3 +699,699 @@ B) 1-3%
 C) 2-5%
 D) 4-9%
 Answer: D
+
+Subject: yogni-qayta-ishlash
+
+Jahon miqyosida miqdor jihatidan birinchi o’rinda turadigan o’simlik moyini tanlang?
+A) soya moyi
+B) paxta moyi
+C) zaytun moyi
+D) kungaboqar moyi
+Answer: A
+
+Paxta moyining yod soni nechaga teng bo’ladi?
+A) 100-110
+B) 100-120
+C) 95-100
+D) 70-80
+Answer: A
+
+C18H34O2 tarkibiga ega bo’lgan yog’ kislotasining nechta qo’sh bog’i mavjud bo’ladi?
+A) Bitta qo’shbog’
+B) Ikkita qo’shbog’
+C) To’rtta qo’shbog’
+D) Uchta qo’shbog’
+Answer: A
+
+Quyidagi to’yinmagan yog’ kislotalarining qaysi biri trans-olein izomeri tuzilishiga ega?
+A) CH3(CH2)10CH=CH(CH2)6COOH
+B) CH3(CH2)7CH=CH(CH2)6COOH
+C) CH3(CH2)9CH=CH(CH2)10COOH
+D) CH3(CH2)7CH=COOH(CH2)7CH
+Answer: D
+
+Trigliseridlardan qaysi yo’l bilan salomas olinadi?
+A) gidroliz
+B) gidrogenizatsiya
+C) alkogoliz
+D) sovunlanish reaksiyasi orqali
+Answer: B
+
+Mumsimon moddalar yog’ moddalarining qaysi sinfiga kiradi?
+A) Yuqori molekulali yog’ kislotalari
+B) Yuqori molekulali yog’ kislotalari va yuqori molekulali spirtning murakkab efiri
+C) Yuqori molekulali spirtlar
+D) Yuqori molekulali yog’ kislotalar va quyi molekulali spirtlarning murakkab efirlari
+Answer: B
+
+Trigliseridlarni qaysi yo’l bilan suyuq holatdan quyuq holatga o’tkazish mumkin?
+A) gidroliz
+B) asedoliz
+C) gidrogenizasiya
+D) alkogoliz
+Answer: C
+
+Gidrogenlashda yog’ kislotalarining tarkibini o’zgarishi qaysi javobda to’g’ri ko’rsatilgan?
+A) L-Le-P-C
+B) Ol-L-C
+C) Ol-L-Le-C
+D) Le-L-Ol-C
+Answer: D
+
+Sanoatda gidrogenlash necha oC temperaturada olib boriladi?
+A) 180-220 C
+B) 220-240 C
+C) 170-190 C
+D) 160-180 C
+Answer: A
+
+Distillyasion kubda yog’ kislotalari necha 0C gacha qizdiriladi?
+A) 250-280 C
+B) 150-160 C
+C) 230-240 C
+D) 200-210 C
+Answer: C
+
+Filtrlash tezligini oshirish uchun nima qilinadi?
+A) Bosim oshirib, qovushqoqlikni kamaytirish kerak.
+B) Bosim oshirib, siqilish kamaytiradi.
+C) Bosim oshiriladi.
+D) Bosim kamaytirilib, qovushqoqlik oshiriladi va bilvosita ta`sir ko`rsatadi.
+Answer: A
+
+Paxta moyi tarkibidagi zaharli moddani nomi qaysi javobda to’g’ri ko’rsatilgan?
+A) Gossipol
+B) Tokoferol
+C) Karotin
+D) Sterin
+Answer: A
+
+Sanoatda gidrogenlash necha oC temperaturada olib boriladi?
+A) 160-180 C
+B) 220-240 C
+C) 170-190 C
+D) 180-220 C
+Answer: D
+
+Distillyasion kubda yog’ kislotalari necha oC gacha qizdiriladi?
+A) 150-160 C
+B) 230-240 C
+C) 250-280 C
+D) 200-210 C
+Answer: B
+
+Sovun o’zi nima?
+A) Yuqori molekulali yog’
+B) Naften kislo-talarining tuzlari
+C) Yuqori molekulali kislota va uch atomli spirt o`zoro birikishida xosil bo`lgan birikmalar
+D) Yuqori molekulali yog’ va naften kislotalarining tuzlari
+Answer: D
+
+Yog’lardan yog’ kislotalari qaysi usul bilan olinadi?
+A) Katalizator yo’li bilan olinadi
+B) Elektroliz yo’li bilan olinib, olingan yog’ kislotalari distilyasiya qilinadi
+C) Elektroliz yo’li bi-lan olinadi
+D) Gidroliz yo’li bilan olinib, olingan yog’ kislotalari distilyatsiya qilinadi
+Answer: D
+
+Gidroliz jarayonini ohirgi mahsulotlari qaysi javobda to’g’ri ko’rsatilgan?
+A) Gliserin, sovun
+B) Gliserin, yog’ kislota
+C) Gliserin, suv
+D) Gliserin, soapstok, salomas
+Answer: B
+
+Elektrolit ta’sirida sovunning kaogulyasiyasi qanday nomlanadi?
+A) Sovun deyiladi.
+B) Degidratasiya deyiladi
+C) Tuzlab ajratish deyiladi
+D) Ishqorlab ajratish deyiladi.
+Answer: C
+
+Bakteriyalarni to’la yo’qotish uchun qaysi usul qo’llaniladi?
+A) Qisqa pasterizatsiya
+B) Sterilizatsiyalash
+C) Uzoq pasterizatsiya
+D) Pasterizatsiyalash
+Answer: B
+
+Margarin ishlab chiqarish uchun ishlatiladigan sutning kislota soni va sutdagi quruq qoldiq miqdori qaysi javobda to’g’ri berilgan?
+A) 24 T, 8%
+B) 23 T, 10%
+C) 25 T, 6%
+D) 18 T, 10%
+Answer: A
+
+Moylarni gidroliz qilish deganda nima tushiniladi?
+A) Moyning tarkibidagi gossipolni suv bilan parchalash jarayoni va suvni tozalash tushiniladi.
+B) Gliseridlarni suv bilan reaksiyaga kiritib gliserin va yog’ kislotalariga parchalash.
+C) Moy tarkibidagi hamroh moddalarni yo’qotish.
+D) Moyni kuchli bosimli suv bilan yuvish jarayoni tushiniladi.
+Answer: B
+
+Moylarni to’liq rafinatsiya qilish ketma-ketligini ko’rsating.
+A) Gidratlash, ishqorli rafinatsiya, oqlash, dezodorasiya.
+B) Gidratlash, oqlash, filtrlash.
+C) Ishqorli rafinatsiya, filtrlash,  oqlash va dezodoratsiya.
+D) Gidratasiya, ishqorli rafinatsiya, filtrlash, oqlash.
+Answer: A
+
+Fizik-kimyoviy jarayonlarga qaysi rafinatsiya usullari kiradi?
+A) Neytrallash, tindirish, yuvish quritish
+B) Tindirish, sentrafu-galash, filtrlash
+C) Gidratasiya, sovutish, neytrallash, yuvish, quritish
+D) Oqlash, dezodora-siyalash, distil-lyasiyali rafinatsiya
+Answer: C
+
+Oziq-ovqat uchun ishlatiladigan yog’ning kislota soni necha mg KOH dan oshmasligi kerak?
+A) 0,2-0,3 mg KOH
+B) 0,5-0,8 mg KOH
+C) 0,05-0,08 mg KOH
+D) 0,1-0,2 mg KOH
+Answer: A
+
+Reaktor-turbulizatorning vazifasi to’g’ri ko’rsatilgan javobni aniqlang.
+A) Moyni suv bilan yuvish va uni tozalash
+B) Moydan soapstokni ajratish
+C) Moyni parchalash
+D) Moyni ishqor bilan aralashtirish
+Answer: D
+
+Yog’larni gidrogenlash qanday uskunalariga foydalaniladi?
+A) Avtoklav, salomas uchun bak
+B) Elektrolizyor, tindirgich
+C) Filtrpress
+D) Neytralizator,dezodorator,tindirgich
+Answer: A
+
+Gidrogenlash jarayonida gazlift qanday vazifani bajaradi?
+A) Moyni vodorod bilan to’yinganligini ko’rsatadi
+B) H2 bilan ta’minlash va avtoklavdan vakuum yordamida ortiqcha H2 yig`ib olish
+C) Salomasni bir avtoklavdan ikkinchisiga o’tishi uchun xizmat qiladi
+D) Meshalka o’rnida ishlatiladi
+Answer: C
+
+Gidrogenlash jarayonida asosan qanday katalizatorlar qo’llaniladi?
+A) Rux-titan
+B) Mis-nikel
+C) Rux-mis
+D) Rux-palladiy
+Answer: B
+
+Vodorod ishlab chiqarishni 3 xil usuli mavjud. Shu usullar ko’rsatilgan javobni aniqlang.
+A) Suyuqlik va gazlarni elektroliz qilish usuli suv-bug’ usuli desorbsiya qilish usuli
+B) Temir-suv bug’i usuli desorbsiya qilish usuli suyuqlik va uning gazlarni elektroliz qilish usuli
+C) Tabiyi gazlarni konversiya qilish usuli temir-suv bug’i usuli suvni elektroliz qilish usuli
+D) Tabiyi gazlarni konversiya qilish usuli suv-bug’ usuli suvni elektroliz qilish usuli
+Answer: C
+
+Hozirgi vaqtda eng toza vodorod qanday usul bilan olinadi?
+A) Temir-suv bug’i usuli bilan
+B) Suv-bug’ usul bilan
+C) Suvni elektroliz qilish usuli bilan
+D) Tabiyi gazlarni konversiya qilish usuli bilan
+Answer: C
+
+Gazgolderlar nima uchun xizmat qiladi?
+A) Gazlarni siqib uning hajmini kamaytirish uchun xizmat qiladi
+B) Gazlarni ishlab chi-qarish uchun xizmat qiladi
+C) Gazlarni chiqarish va uning chiqishini bir xilda bo’lishi uchun xizmat qiladi
+D) Gazlarni saqlash va uning sifatini bir xilda ushlush uchun xizmat qiladi
+Answer: D
+
+Qurigan katalizatorning namligi necha % bo’ladi?
+A) 2*3
+B) 6*7
+C) 0,2*0,3
+D) 10
+Answer: B
+
+Yog’ kislotalari nima uchun distillyatsiya qilinadi?
+A) Tarkibidagi xidni yo’qotish uchun.
+B) Sovunlanmaydigan oksikislotalardan va boshqa aralashmalardan tozalash uchun.
+C) Ta’mini yaxshilab, tarkibidagi to’yinmagan kislotalarni vadarod bilan to’yintirish uchun.
+D) Har xil aralashmalarni cho’ktirish uchun.
+Answer: B
+
+Distillyasion kubning tuzulishi to’gri ko’rsatilgan javobni aniqlang.
+A) Kubsimon idish bo’lib, izolyatsiyalanmagan, qopqog’i yo’q, tagi sferik.
+B) Silindrik idish bo’lib, izolyasiyalangan.
+C) Silindrsimon uskuna bo’lib, sferik qopqoq va tekis tagdan, qismi pastki 9 ta sektordan iborat.
+D) Silindrik idish, elliptik qopqoq va pastki qismi 3 ta simmetrik joylashgan tashqi kameradan iborat
+Answer: C
+
+O’simlik moyi ishlab chiqarishda hosil bo’ladigan ohirgi chiqindi nima deb ataladi?
+A) Salomas
+B) Mitsella
+C) Soapstok
+D) Gudron
+Answer: D
+
+Vakuum quritish uskunasida nima uchun vakuum hosil qilinadi?
+A) Quritish haroratini pasaytirish uchun.
+B) Moy tez parchalanish uchun.
+C) Moyni rangi pasayishi va xidini kamaytirish uchun.
+D) Kislota sonini oshirish uchun.
+Answer: A
+
+Uzluksiz distillyasiyada vakuum nechi bosqichda hosil qilinadi?
+A) 1 bosqichli bug’ ejektorli vakuum nasosi yordamida hosil qilinadi.
+B) 3 bosqichli bug’ ejektorli vakuum nasosi yordamida hosil qilinadi.
+C) 4 bosqichli bug’ ejektorli vakuum nasosi yordamida hosil qilinadi.
+D) 2 bosqichli bug’ ejektorli vakuum nasosi yordamida hosil qilinadi.
+Answer: B
+
+Yog’ kislotalarini distilyatsiyasi jarayonida distillyasion kubga qancha % miqdorda o’tkir bug’ berib turiladi?
+A) 4*5%
+B) 3*4%
+C) 7*9%
+D) 6*7%
+Answer: D
+
+Stearin kislotasini normal atm. bosimidagi qaynash harorati necha oC tashkil qiladi?
+A) 384 C
+B) 370 C
+C) 270 C
+D) 320 C
+Answer: B
+
+Sovun tarkibida uglerod atom soni nechadan kam bo’lsa yog’ kislotalarining tuzlari yuvish qobiliyatiga ega emas?
+A) 10 dan kam bo’lsa
+B) 12 dan kam bo’lsa
+C) 4 dan kam bo’lsa
+D) 8 dan kam bo’lsa
+Answer: A
+
+Sovun qaysi erituvchilarda erimaydi?
+A) Suv, benzin, aseton.
+B) Aseton, benzin, kislota.
+C) Spirt, suv, aseton, dietilefir.
+D) Dietilefir, aseton, benzin.
+Answer: D
+
+Paxta moyini antronil kislotasi bilan qayta ishlash uchun moydagi nativ gossipolning miqdori qancha bo’lishi kerak?
+A) 0,5%dan yuqori
+B) 0,1-0,8%
+C) 0,8%dan yuqori
+D) 0,2-0,5%
+Answer: A
+
+Oqlash jarayonining optimal davomiyligini qansay vaqt oralig’ida olib boriladi?
+A) 30-45 minut
+B) 20-30 minut
+C) 40-60 minut
+D) 15-20 minut
+Answer: A
+
+Ishqorsiz rafinatsiya qilish uchun salomasni kislota soni qanday bo’lishi kerak?
+A) 0,4-0,8 mg KOH dan yuqori emas
+B) 2-3 mg KOH
+C) 1 mg KOH dan yuqori emas
+D) 0,1-0,2 mg KOH dan yuqori emas
+Answer: C
+
+Katalizator yuzasida necha xil adsorbsiya yuz beradi?
+A) 3 xil
+B) 2 xil
+C) Adsorbsiya yuz bermaydi.
+D) 1 xil
+Answer: B
+
+Oziq-ovqat uchun ishlatilgan fosfatid konsentratidagi fosfatidlar miqdori qancha % ni tashkil qiladi?
+A) 45 %
+B) 55 %
+C) 40 %
+D) 60 %
+Answer: B
+
+O’simlik moylari tarkibidagi hamroh moddalar necha guruhga bo’lib o’rganiladi?
+A) 1 gruppaga
+B) 2 gruppaga
+C) 3 gruppaga
+D) Gruppaga bo`linmaydi
+Answer: B
+
+Katalizator aktiv markazlarining yuzasi umumiy katalizator yuzasining necha % tashkil qiladi?
+A) 2,5-3 %
+B) 0.1-0.2 %
+C) 1-2 %
+D) 0.5-1 %
+Answer: C
+
+Ni-Cu katalizatorini olish uchun, qanday nisbatda bo’lgan Ni va Cu sulfat eritmasi ishlatiladi?
+A) Ni:Cu=1:1
+B) Ni:Cu=3:1
+C) Ni:Cu=2:1
+D) Ni:Cu=4:1
+Answer: B
+
+Mayonez ishlab chiqarishda qanday emulgatorlar ishlatiladi?
+A) Soda, sut, qand, MD, MGD.
+B) Tuz, suv
+C) Quruq sut, tuxum kukuni.
+D) Quruq sut, qand.
+Answer: C
+
+Yog’larni gidrolizi necha usuldan iborat?
+A) 3
+B) 10
+C) 5
+D) 4
+Answer: C
+
+Glitserinni birinchi bo’lib nechanchi yilda kim tomonidan ajratib olingan?
+A) 1779 yilda birinchi bo’lib nemis olimi Sheyele qo’rg’oshin oksidi ishtirokida zaytun yog’ini sovinlash natijasida olgan.
+B) 1870 yilda birinchi bo’lib, fransuz olimi Shevrol paxta yog’ini 230°C dezodorasiya qilish yordamida gliserin ajratib olgan.
+C) 1920 yilda birinchi bo’lib ingliz olimi Peluz paxta yog’ini neytrallash yordamida ajratib olgan.
+D) 1850 yilda Goldovskiy birinchi bo’lib qo’shbog’larni o’zgartirib ajratib olishgan.
+Answer: A
+
+Toza gliserinni qaynash harorati qanday bo’ladi?
+A) 250 С
+B) 180 С
+C) 350 С
+D) 290 С
+Answer: D
+
+Suvni sirt tarangligini kamaytiradigan moddalar qanday nomlanadi?
+A) Sovunning suvdagi eritmasi.
+B) Katalizator deyiladi.
+C) Qovushqoqlikni oshiradigan moddalar deyiladi.
+D) Fazolar yuzasi deyiladi.
+Answer: A
+
+Sovun yelimi bu nima?
+A) Konsentrlangan sovun eritmasi.
+B) Soapstok.
+C) Erkin yog’ kislotasi to’yintirilgan yog’ ya’ni salomas.
+D) Nordon sovun.
+Answer: A
+
+Yuqori va 1-navli gliserin olish uchun distillyasiyada gliserin qanday adsorbent ishlatiladi?
+A) Aktivlangan ishqor bilan.
+B) Aktivlangan qum bilan.
+C) Aktivlangan yog’och ko’miri bilan
+D) Aktivlangan granulometrik tuproq bilan.
+Answer: C
+
+Margarin emulsiyasi sovutilganda qanday jarayon sodir bo’ladi?
+A) Absorbsiya
+B) Xemasorbsiya
+C) Kristallanish
+D) Adsorbsiya
+Answer: C
+
+Mаyonеzning аsоsiy kоmpоnеnti nimadan iborat bo’ladi?
+A) Rаfinаtsiyalаngаn hidsizlаntirilgаn o’simlik mоyi
+B) Sаlоmаs
+C) Хidsizlаntirilgаn o’simlik mоyi va gidrogenlangan o’simlik mоyi
+D) Rаfinаtsiyalаngаn o’simlik mоyi
+Answer: A
+
+Mаyonеzning turlаri qаysi qаtоrdа to’liq vа to’g’ri kеltirilgаn?
+A) Mаyonеzlаr zirаvоrli, mаzа bеruvchi vа dirildоq hоsil qiluvchi qo’shimchаlаr qo’shilgаn оshхоnа, pаrhеz vа bоlаlаr uchun turlаri
+B) Zirаvоr qo’shilgаn mаyonеzlаr («Bахоr» ukrоpli; «Gоrchitsаli»vа bоshqаlаr) o’zini tа’mi vа mаzаsi bo’yichа “Prоvаnsаl’” mаyonеzi.
+C) Zirаvоrli, mаzа bеruvchi vа dirildоq hоsil qiluvchi qo’shimchаlаr qo’shilgаn оshхоnа turlаri.
+D) Оshхоnа («Prоvаnsаl’», «Sutli», «Lyubitеl’skiy») mаyonеzlаri
+Answer: A
+
+Аchchiq tа’mli mаyonеzlаr qаysi qаtоrdа keltirib o’tilgan?
+A) “Gоrchichniy”, “Prаzdnichny”, “Оgоnyok” vа bоshqаlаr
+B) Оshхоnа («Prоvаnsаl», «Sutli», «Lyubitеlskiy») mаyonеzlаri
+C) «Bахоr» ukrоpli; «Gоrchitsаli»vа bоshqаlаr
+D) “Аpеl’sinli”, “Аsаlli”
+Answer: A
+
+Glitsеrinni birinchi bo’lib qаysi оlim tomonidan aniqlangan?
+A) 1779 yildа nеmis оlimi SHееlе
+B) 1836 yili Pеluz
+C) 1910yili K.Linnеy
+D) 1823 yildа frаntsuz оlimi SHеvrоl
+Answer: A
+
+Glitsеrin dastlab qanday nоm bilan atalgan?
+A) Bоshidаn «Glitsеrin» dеb аtаlgаn.
+B) «SHееlеning shirin yog`i».
+C) «SHееlеning yog`i».
+D) “Mum”.
+Answer: B
+
+Gidrоlizlаnish nimа?
+A) Yog’ning kristаllаnishi
+B) Yog’ning pаrchаlаnishi
+C) Yog’ning gidrаtlаnishi
+D) Erkin yog kislоtаlаrning pаrchаlаnishi
+Answer: B
+
+Tindirish glitsеrinli suv vа yog’ kislоtаlаri qаysi ko`rsаtkichgа аsоsan amalga oshiriladi?
+A) Suv yog’ buzilishigа аsоslаngаn.
+B) Glitsеrinli suv ustigа yog’ kislоtаlаr аjrаlishigа аsоslаngаn.
+C) Хаrоrаtgа аsоslаngаn.
+D) Zichliklаrining fаrqigа аsоslаngаn.
+Answer: D
+
+Yog’ tаbiаti vа rаfinаtsiya usuligа ko’rа sоаpstоk tаrkibidа nеchа % yog’ bo’lаdi?
+A) 20-40 %
+B) 10-50 %
+C) 50-80 %
+D) 30-60 %
+Answer: D
+
+Glitsеrinli eritmаni kоntsеntrlаshdаn аvvаl, u аrаlаshmаlаrdаn tоzаlаnаdi. Bundаn mаqsаd nima?
+A) Stаndаrt tаlаblаrgа jаvоb bеrаdigаn tоzа glitsеrin оlish
+B) Аppаrаtni kоrrоziyadаn himоya qilishdir
+C) Jixozni kоrrоziyadаn himоya qilishdir
+D) Bug’lаtish jаrаyonini tехnоlоgik shаrtlаrini to’liq tа’minlаsh (isitish trubаlаridа qo’yqа hоsil bo’lishini kаmаytirish vаkuum аppаrаtlаrdа glitsеrinni ko’piklаnishini оldini оlish vа bоshqаlаr)
+Answer: A
+
+Yog’lаrni rеаktivsiz bаrchа jаvоblаr to’g’ri gidrоlizidаn оlingаn glitsеrinli suv murаkkаb gеtеrоgеn sistеmа bo’lib, .... hаmdа emulsiya ko’rinishdа bo’lаdi. Nuqtаlаr o’rnini to’ldiring.
+A) Ko’p qismi lipidlаr, аyniqsа yog’ kislоtаlаri
+B) Minеrаl tuzlаr vа bоshqаlаr mаvjud
+C) Оrgаnik vа minеrаl аrаlаshmаlаr bo’lаdi
+D) Tаrkibidа hаr хil tаbiаtli аrаlаshmаlаr, chin vа kоllоid eritmаlаr hоlidа
+Answer: A
+
+Glitsеrinli suvni tоzаlаsh jаrаyonidа yog’lаrni rеаktivsiz pаrchаlаshdаn оlingаn glitsеrinli suv tаrkibidа, glitsеrin vа suvdаn tаshqаri, хilmа хil turdаgi оrgаnik vа minеrаl аrаlаshmаlаr hаm bo’lаdi. Bu аrаlаshmаlаr miqdоri qаndаy mоddаlаrgа bоg’liq?
+A) Gidrоlizlаnаyotgаn mоy sifаti vа аssortimеntigа bоg’liq
+B) Оrgаnik vа minеrаl аrаlаshmаlаr, minеrаl tuzlаrgа bоg’liq
+C) Kоllоid sistеmа bаrqаrоrligini buzishigа bоg’liq
+D) Bаrchа jаvоblаr to’g’ri
+Answer: A
+
+Glitsеrinli suvni tоzаlаsh usullаridа suvdаn аrаlаshmаlаrni аjrаtish uchun qanday аsоsiy tехnоlоgik jаrаyonlаrni tаlаb etаdi?
+A) kоllоid sistеmа bаrqаrоrligini buzish
+B) bаrchа jаvоblаr to’g’ri
+C) lipidlаrni, suvdа eriydigаn iоnоgеn vа nоiоnоgеn birikmаlаrini yo’qоtish
+D) lipidlаrni glitsеrinli suv bilаn hоsil qilgаn emul’siyani pаrchаlаsh
+Answer: A
+
+Tindirish glitsеrinli suv vа yog’ kislоtаlаrini qanday ko’rsatkichlari fаrqigа аsоslаngаn bo’ladi?
+A) Хаjmiy fаrqigа
+B) Mаssаsining fаrqigа
+C) Zichliklаrining fаrqigа
+D) Хаrоrаtlаriningining fаrqigа
+Answer: C
+
+Glitsеrinli suvni… nаtijаsidа suv-yog’ emul’siyasi buzilаdi, yog’ kislоtаlаri vа nеytrаl yog’ аjrаlаdi, so’ngrа tindirish оrqаli ulаr аjrаtib оlinаdi.
+A) Glitsеrinli suvni tindirish va fil’trlash
+B) Glitsеrinli suvni isitish
+C) Glitsеrinli suvni sоvutish
+D) Glitsеrinli suvni qаynаtish
+Answer: D
+
+Yog`lаrning kishi bоshigа bir kunlik o’rtаchа nоrmаsi qаnchа?
+A) 100-120 gr
+B) 40-50 gr
+C) 70-80 gr
+D) 80-100 gr
+Answer: D
+
+Yeryonоq mоyi tаrkibidа yog’ qаnday miqdorni tashkil etadi?
+A) 40-60%
+B) 30-35%
+C) 55-73%
+D) 35-45%
+Answer: A
+
+Оrgаnоlеptik ko’rsаtkichlаri bo’yichа qanday navdagi хоm glitsеrin tiniq, sirtidа ko’piksiz vа оch sаriqdаn to’q jigаrrаnggаchа bo’lishi lozim?
+A) I vа II nаv
+B) Bаrchа jаvоblаr to’g’ri
+C) III nаv
+D) V nаv
+Answer: A
+
+Yog’larni gidrogenlashda katalizning mexanizmi qanday boradi?
+A) Vodorod va to’yinmagan modda etilen katalizator yuzasiga desorbsiyalanadi va aktivlangan xolga keladi. B. Aktivlashgan vodorod va to’yinmagan modda molekulalari bir-biriga juda yaqin joylashgan bo’lsa, ular o’zaro reakstiyaga kirishib, gidrogenlash jarayoni sodir bo’ladi.
+B) Vodorod va to’yinmagan modda etilen katalizator yuzasiga adsorsiyalanadi va aktivlangan xolga keladi. Aktivlashgan vodorod va to’yinmagan modda molekulalari bir-biriga juda yaqin joylashgan bo’lsa, ular o’zaro reakstiyaga kirishib, gidrogenlash jarayoni sodir bo’ladi.
+C) Aktivlashgan vodorod va to’yinmagan modda molekulalari katalizator yuzasiga desorbsiyalanadi va aktivlangan holga keladi.
+D) Aktivlashgan vodorod va to’yinmagan modda molekulalari bir-biriga juda yaqin joylashgan bo’lsa, ular o’zaro reaksiyaga kirishib, gidrogenlash jarayoni sodir bo’ladi
+Answer: B
+
+Gidrogenizasiya necha bosqichda amalga oshiriladi?
+A) 5 bosqichda
+B) 3 bosqichda
+C) 6 bosqichda
+D) 4 bosqichda
+Answer: A
+
+Katalizator yuzasida qanday adsorbsiya yuz beradi?
+A) Kimyoviy, xemosorbstiya (aktivlash adsorbstiya)
+B) Fizikaviy, xemosorbstiya (aktivlashtirilgan adsorbstiya)
+C) Fizikaviy, kimyoviy
+D) Xemosorbstiya (aktivlashtirilgan adsorbstiya), fizikaviy, kimyoviy
+Answer: B
+
+Nikel asosli katalizatorlar aktivligi bo’yicha necha guruhga ajratiladi?
+A) 4ta
+B) 5ta
+C) 3ta
+D) 2ta
+Answer: A
+
+Yog’larni gidrogenlash qanday jarayon hisoblanadi?
+A) Yog’larni gidrogenlash – quyuq fazali gomogen va geterogen – katalitik jarayondir.
+B) Yog’larni gidrogenlash – suyuq fazali geterogen – katalitik jarayondir.
+C) Yog’larni gidrogenlash – suyuq fazali gomogen – katalitik jarayondir.
+D) Yog’larni gidrogenlash – suyuq fazali katalitik jarayondir.
+Answer: B
+
+Gidrogenlash qanday usullar yordamida amalga oshiriladi?
+A) Gidrogenlash davriy va uzluksiz usullar bilan olib boriladi.
+B) Gidrogenlash uzlukli va uzluksiz usullar bilan amalga oshiriladi.
+C) Gidrogenlash davriy usulda olib boriladi.
+D) Gidrogenlash faqatgina uzluksiz usulda olib boriladi.
+Answer: A
+
+Sanoatda ishlab chiqariladigan gidrogenlangan yog’lar qanday salomas turlariga bo’linadi?
+A) Sanoat, kulinar
+B) Ozuqaviy, kulinarniy
+C) Sanoat, texnik
+D) Ozuqaviy, texnik
+Answer: D
+
+Gidrogenlashda foydalaniladigan vodorodga to’g’ri ta’rif berilgan javobni aniqlang.
+A) Vodorod zaharli emas, rangsiz, eng engil gaz hisoblanadi. Atmosfera bosimida 00C haroratda vodorod zichligi 0,09 kg/m3 vodorodning havo bilan portlash chegarasi (hajmiy foizda) pastki chegarasi – 4%, yuqori chegarasi – 75% ni tashkil etadi.
+B) Vodorod zaharli rangsiz, eng engil gaz hisoblanadi. Atmosfera bosimida 00C haroratda vodorod  zichligi 0,09 kg/m3 vodorodning havo bilan portlash chegarasi (hajmiy foizda) pastki chegarasi – 4%, yuqori chegarasi – 85% ni tashkil etadi.
+C) Vodorod zaharli rangsiz, eng engil gaz hisoblanadi.
+D) Vodorod zaharli emas, rangsiz, og’ir gaz hisoblanadi. Atmosfera bosimida 20C haroratda vodorod zichligi 0,05 kg/m3 vodorodning havo bilan portlash chegarasi (hajmiy foizda) pastki chegarasi – 2% ni, yuqori chegarasi – 60% maksimalni tashkil etadi.
+Answer: A
+
+Gidrogenlashda foydalaniladigan vodorod sanoat miqyosida necha usulda ishlab chiqariladi?
+A) 3 usulda
+B) 4 usulda
+C) 1 usulda
+D) 2 usulda
+Answer: A
+
+Margarin mahsuloti tarkibiga qanday moddalar mavjud bo’ladi?
+A) Margarin – bu yirik zarrachali emulsiya bo’lib, uning tarkibiga: yog’lar, sut, vitaminlar, emulgator va boshqalar kiradi.
+B) Margarin – bu mayda zarrachali emulsiya mahsulidir va yog’lar, tuz, oziq ovqat qo’shimchalaridan tashkil topgan.
+C) Margarin – bu mayda zarrachali emulsiya bo’lib, uning tarkibiga: yog’lar, sut, tuz, shakar, vitaminlar, fosfatidlar, emulgator va boshqalar kiradi.
+D) Margarin – bu mayda zarrachali hosil bo’lib, uning tarkibiga: yog’lar, sut, tuz, shakar, vitaminlar, fosfatidlar, fosfolipidlar, stearin kislotasi emulgator va boshqalar kiradi.
+Answer: C
+
+Birinchi marta margarin ishlab chiqaruvchi zavod qachon va qayerda ishga tushirilgan?
+A) Birinchi margarin zavodlari MDHda 1860 yilda Podmoskva va Sankt-Peterburgda ishga tushirilgan
+B) Birinchi margarin zavodlari MDHda 1865 yilda Germaniyada ishga tushirilgan.
+C) Birinchi margarin zavodlari MDHda 1930 yilda Moskva va Sankt-Peterburgda ishga tushirilgan.
+D) Birinchi margarin zavodlari MDHda 1930 yilda Parij va Sankt-Peterburgda ishga tushirilgan.
+Answer: C
+
+Margarin uchun ishlatiladigan yog’larning erish harorati qanday bo’lishi talab etiladi?
+A) 22-26 C dan
+B) 36-40 C dan
+C) 31-34 C dan
+D) 29-31 C dan
+Answer: C
+
+Yog’larni gidrogenlashda foydalaniladigan katalizatorlar reaksiya tezligiga qanday ta’sir etadi?
+A) 107-1017 marta tezlashtiradi.
+B) 106-1010 marta tezlashtiradi.
+C) 106-1016 marta tezlashtiradi.
+D) 106-1014 marta tezlashtiradi.
+Answer: C
+
+Katalizatorning aktiv markazlari nima?
+A) Katalizator yuzasida turli aktivlikka ega bo’lgan adsorbstiya markazlari bor. Bunday adsorbstion markazlar katalizatorning aktiv markazlari deyiladi.
+B) Katalizator yuzasida turli aktivlikka ega bo’lgan adsorbstiya markazlari bor. Bunday sorbstion markazlar katalizatorning aktiv markazlari deyiladi.
+C) Katalizator sirtida bir xil aktivlikka ega bo’lgan adsorbstiya markazlari bor. Bunday adsorbstion markazlar katalizatorning passiv markazlari deyiladi.
+D) Katalizator yuzasining aktivlikka ega bo’lgan sorbstiya markazlari bor. Bunday adsorbstion markazlar katalizatorning aktiv markazlari deyiladi.
+Answer: A
+
+Nikel asosli katalizatorlar aktivligi bo’yicha necha guruhga ajratiladi?
+A) 4ta
+B) 5ta
+C) 3ta
+D) 2ta
+Answer: A
+
+Gidrogenlash qanday usullar yordamida amalga oshiriladi?
+A) Gidrogenlash davriy va uzluksiz usullar bilan olib boriladi.
+B) Gidrogenlash faqatgina uzluksiz usulda olib boriladi.
+C) Gidrogenlashda uzlukli va uzluksiz usullar bilan olib boriladi.
+D) Gidrogenlash davriy usulda olib boriladi.
+Answer: A
+
+Margarin  birinchi marta qachon va kim tomonidan ishlab chiqarishni boshlangan?
+A) Margarin sariyog’ga o’xshash yog’ sifatida 1869 yilda franstuz kimyogari Mej-Mure   tomonidan ishlab chiqarilgan.
+B) Margarin sariyog’ga o’xshash yog’ sifatida 1865 yilda franstuz kimyogari Dolton tomonidan ishlab chiqarilgan.
+C) Margarin sariyog’ga o’xshash yog’ sifatida 1892 yilda franstuz kimyogari Mej-Mure tomonidan ishlab chiqarilgan.
+D) Margarin sariyog’ga o’xshash yog’ sifatida 1886 yilda franstuz kimyogari Mej-Mure va Mej Smartlar tomonidan ishlab chiqarilgan.
+Answer: A
+
+Margarin mahsuloti tarkibiy jihatdan qanday moddalardan tashkil topgan?
+A) Margarin – bu mayda zarrachali emulsiya mahsulidir va yog’lar, tuz, oziq ovqat qo’shimchalaridan tashkil topgan.
+B) Margarin – bu mayda zarrachali emulsiya bo’lib, uning tarkibiga: yog’lar, sut, tuz, shakar, vitaminlar, fosfatidlar, emulgator va boshqalar kiradi.
+C) Margarin – bu mayda zarrachali hosil bo’lib, uning tarkibiga: yog’lar, sut, tuz, shakar, vitaminlar, fosfatidlar, fosfolipidlar, stearin kislotasi emulgator va boshqalar kiradi.
+D) Margarin – bu yirik zarrachali emulsiya bo’lib, uning tarkibiga: yog’lar, sut, vitaminlar, emulgator va boshqalar kiradi.
+Answer: B
+
+Margarin ishlab chiqarish uchun asosiy xomashyolar keltirilgan javobni toping?
+A) Yog’, sut, tuz, shakar
+B) Yog’, sut, shakar va boshqalar
+C) Barch javoblar to’g’ri
+D) Yog’ va sut hisoblanadi
+Answer: D
+
+Margarin ishlab chiqarish uchun foydalaniladigan yog’larning kislota soni qanday ko’rsatgichga ega bo’lishi kerak?
+A) Kislota soni 0,4mg KOH dan yuqori bo’lmasligi kerak
+B) Kislota soni 0,3mg KOH dan yuqori bo’lmasligi kerak
+C) Kislota soni 0,2mg KOH dan yuqori bo’lmasligi kerak
+D) Kislota soni 0,1mg KOH dan yuqori bo’lmasligi kerak
+Answer: B
+
+Sovun sifati nimaga bog’liq bo’ladi?
+A) Ishlatiladigan emulgator sifatiga
+B) Ishlatiladigan yog’lar sifatiga
+C) Ishlatiladigan ishqor sifatiga
+D) Barcha javoblar to’g’ri
+Answer: B
+
+Atir sovun uchun foydalaniladigan kokos yog’ining tarkibida qanday kislotalar mavjud bo’ladi?
+A) 54 % gacha laurin va 19 % gacha stearin kislotasi bor.
+B) 32 % gacha laurin va 20 % gacha miristin kislotasi bor.
+C) 51 % gacha olein va 19 % gacha miristin kislotasi bor.
+D) 52 % gacha laurin va 19 % gacha miristin kislotasi bor.
+Answer: D
+
+Uzluksiz dezodoratordagi qoldiq bosim necha mm.sim.ust. teng bo’ladi?
+A) 6mm.sim.ust
+B) 5mm.sim.ust.
+C) 1mm.sim.ust
+D) 2mm.sim.ust
+Answer: B
+
+Yog’larni kontaktli gidrolizi qanday xaroratda olib boriladi?
+A) 110 C da
+B) 20 C da
+C) 50 C da
+D) 100 C da
+Answer: D
+
+Sanoatda elektroliz jarayoni qanday uskuna yordamida olib boriladi?
+A) Izolyatorli elektrolizyorlarda
+B) FV tipidagi elektrolizyorlarda
+C) MP tipidagi elektrolizyorlarda
+D) KP tipik elektrolizyorlarda
+Answer: B
+
