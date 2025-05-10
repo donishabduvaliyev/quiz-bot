@@ -297,7 +297,8 @@ async def add_subscriber_command(update: Update, context: ContextTypes.DEFAULT_T
             expiry_message = f"va {new_expiry_date.strftime('%Y-%m-%d %H:%M')} da tugaydi." if new_expiry_date else "muddatsiz."
             await update.message.reply_text(f"Foydalanuvchi {target_chat_id} uchun obuna yangilandi {expiry_message}")
         else:
-            subscriber_data = {"chat_id": target_chat_id, "subscribed_at": now}
+            target_username = update.effective_user.username if update.effective_user else None
+            subscriber_data = {"chat_id": target_chat_id, "subscribed_at": now, "username": target_username }
             if new_expiry_date:
                 subscriber_data["subscription_expires_at"] = new_expiry_date
             
