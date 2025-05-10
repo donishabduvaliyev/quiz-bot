@@ -245,10 +245,10 @@ async def payment_command(update: Update, context: ContextTypes.DEFAULT_TYPE) ->
     # !!! REPLACE with your actual payment details and admin contact !!!
     payment_instructions = (
         "Obuna bo'lish uchun quyidagi amallarni bajaring:\n\n"
-        "💳 To'lov miqdori: [KERAKLI SUMMA] so'm\n"
-        "🏢 To'lov usuli: [PAYME / CLICK / KARTA RAQAMI]\n\n"
+        "💳 To'lov miqdori: [20000] so'm\n"
+        "🏢 To'lov usuli: [PAYME / CLICK / 9860040114871250]\n\n"
         "To'lovni amalga oshirgandan so'ng, to'lov chekining rasmini (screenshot) va Telegram User ID'ingizni "
-        f"(`{chat_id}`) quyidagi manzilga yuboring: @YourAdminUsername\n\n" # !!! REPLACE @YourAdminUsername !!!
+        f"(`{chat_id}`) quyidagi manzilga yuboring: +998330004136\n\n" # !!! REPLACE @YourAdminUsername !!!
         "Tasdiqlangandan so'ng, sizga botdan foydalanish huquqi beriladi."
     )
     await update.message.reply_text(payment_instructions)
