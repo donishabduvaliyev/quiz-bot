@@ -164,7 +164,7 @@ def load_questions(file_path):
 
 # === Helper Function for Start Keyboard ===
 def get_start_keyboard(context: ContextTypes.DEFAULT_TYPE) -> InlineKeyboardMarkup | None:
-    known_subjects = ["osimlik-moyi" , "yogni-qayta-ishlash"] # These should match keys from tests.txt
+    known_subjects = ["osimlik-moyi" , "yogni-qayta-ishlash" , "oziq-ovqat-texnologiyasi"] # These should match keys from tests.txt
     keyboard = []
     loaded_subjects = context.bot_data.get('questions', {})
 
@@ -175,7 +175,7 @@ def get_start_keyboard(context: ContextTypes.DEFAULT_TYPE) -> InlineKeyboardMark
             logger.warning(f"Subject '{subj}' hardcoded but not loaded or has no questions. Skipping button.")
 
     if any(loaded_subjects.values()):
-        keyboard.append([InlineKeyboardButton(text="Random savollar", callback_data="random")])
+        keyboard.append([InlineKeyboardButton(text="Random 50 savol", callback_data="random")])
 
     return InlineKeyboardMarkup(keyboard) if keyboard else None
 
@@ -224,7 +224,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
             return ConversationHandler.END # End if no subjects loaded
         
         await update.message.reply_text(
-            f"Assalomu alaykum, {user.first_name}!\nQuiz botimizga xush kelibsiz.\n"
+            f"Salom, {user.first_name}!\nQuiz botimizga xush kelibsiz.\n"
             "Fan tanlang yoki aralash savollardan boshlang:", 
             reply_markup=reply_markup
         )
@@ -232,9 +232,9 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     else:
         logger.info(f"User {user.id} is not subscribed. Sending payment info.")
         await update.message.reply_text(
-            f"Assalomu alaykum, {user.first_name}! 👋\n"
+            f"Salom, {user.first_name}! 👋\n"
             "Bu botdagi quizlardan to'liq foydalanish uchun obuna bo'lishingiz kerak.\n\n"
-            "Obuna bo'lish uchun /payment buyrug'ini bering yoki admin bilan bog'laning." 
+            "Obuna bo'lish uchun /payment buyrug'ini bering yoki admin bilan bog'laning. +998330004136" 
             # Consider adding admin username here e.g. @YourAdminUsername
         )
         return ConversationHandler.END # End conversation if not paid
