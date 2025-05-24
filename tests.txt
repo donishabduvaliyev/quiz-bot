@@ -2096,3 +2096,698 @@ B) Glyukoza va fruktozani qayta ishlab olinadi
 C) Kraxmal va kand mahsulotlarini sanoat yo’li bilan qayta ishlab olinadi
 D) Oqsillarni qayta ishlash orqali
 Answer: B
+
+Subject: ATJ
+
+Birlik hajmdagi suyuqlik massasiga nima deyiladi?
+A) Solishtirma hajm
+B) Zichlik
+C) Kinematik qovushqoqlik
+D) Solishtirma og’irlik
+Answer: B
+
+Jism birlik massasiga to’g’ri kelgan hajmga yoki zichlikka teskari bo’lgan kattalik nomini toping.
+A) Solishtirma hajm
+B) Solishtirma og’irlik
+C) Zichlik
+D) Nisbiy zichlik
+Answer: A
+
+Modda zichligining suv zichligiga nisbati nima deyiladi?
+A) Massaviy zichlik
+B) Nisbiy zichlik
+C) Solishtirma og’irlik
+D) Absolyut zichlik
+Answer: B
+
+Suyuqlik qovushqoqligining uning zichligi nisbatiga nima deyiladi?
+A) Absolyut qovushqoqlik
+B) Solishtirma qovushqoqlik
+C) Kinematik qovushqoqlik
+D) Dinamik qovushqoqlik
+Answer: C
+
+Suyuqlikning oqim harakatiga qarshilik qilish xususiyati nima deb nomlanadi?
+A) Solishtirma qovushqoqlik
+B) Kinematik qovushqoqlik
+C) Yuzaki taranglik
+D) Dinamik qovushqoqlik
+Answer: D
+
+Zichlikning SI Xalqaro o’lchov sistemasiga mos o’lchov birliklarini aniqlab bering.
+A) kg/m³
+B) Pa·s
+C) g/sm³
+D) N/m³
+Answer: A
+
+Hodisalar o’xshash bo’lishi uchun qanday sharoitlar yetarli va zarur degan savolga qaysi teorema javob beradi?
+A) Kirpichev va Guxmanning o’xshashlik 3-teoremasi
+B) Nyutonning o’xshashlik 1-teoremasi
+C) Bekingem, Federmen va Afanaseva-Erenfestlarning o’xshashlik 2-teoremasi
+D) Bernulli teoremasi
+Answer: A
+
+Dinamik qovushqoqlikka mos formulalarni aniqlang.
+A) μ/ρ
+B) ρ⋅g⋅h
+C) Re=(w⋅d⋅ρ)/μ
+D) τ/(dw/dn)
+Answer: D
+
+Kinematik qovushqoqlikka mos formulalarni aniqlang.
+A) Re=(w⋅d⋅ρ)/μ
+B) ρ⋅g⋅h
+C) μ/ρ
+D) τ/(dw/dn)
+Answer: C
+
+O’xshash bo’lgan kattaliklar nisbati o’zgarmas bo’lsa, bunday hodisalar nima deb nomlanadi?
+A) O’xshashlik hodisalari
+B) Izoxorik hodisalar
+C) Izobarik hodisalar
+D) Izotermik hodisalar
+Answer: A
+
+Vaqt birligi ichida ko’ndalang kesim orqali oqib o’tadigan suyuqlik miqdoriga nima deyiladi?
+A) Suyuqlik bosimi
+B) Suyuqlik energiyasi
+C) Suyuqlik sarfi
+D) Suyuqlik tezligi
+Answer: C
+
+Tajriba natijalarini qanday qayta ishlash kerak, degan savolga qaysi teorema javob beradi?
+A) Bernulli teoremasi
+B) Nyutonning o’xshashlik 1-teoremasi
+C) Kirpichev va Guxmanning o’xshashlik 3-teoremasi
+D) Bekingem, Federmen va Afanaseva-Erenfestlarning o’xshashlik 2-teoremasi
+Answer: D
+
+Tajriba paytida qanday kattaliklarni o’lchash kerak, degan savolga qaysi teorema javob beradi?
+A) Kirpichev va Guxmanning o’xshashlik 3-teoremasi
+B) Bernulli teoremasi
+C) Bekingem, Federmen va Afanaseva-Erenfestlarning o’xshashlik 2-teoremasi
+D) Nyutonning o’xshashlik 1-teoremasi
+Answer: D
+
+Ma’lum bir me’yorda siqiladigan va qovushqoqlik xususiyatiga ega bo’lgan suyuqlikka qanday suyuqlik deyiladi?
+A) Haqiqiy suyuqlik
+B) Ideal suyuqlik
+C) Nyuoton suyuqligi
+D) Statsionar suyuqlik
+Answer: A
+
+Absolyut siqilmaydigan va ichki qarshilikka ega bo’lmagan suyuqlikka qanday suyuqlik deyiladi?
+A) Ideal suyuqlik
+B) Nyuoton suyuqligi
+C) Haqiqiy suyuqlik
+D) Statsionar suyuqlik
+Answer: A
+
+Gidrostatikaning asosiy tenglamasiga mos tenglamalarni aniqlang.
+A) P/(ρ⋅g)+Z=const
+B) P_1=P_2
+C) P_1−P_2=ρ⋅g⋅(h_2−h_1)
+D) P_1=P_0+ρ⋅g⋅h
+Answer: D
+
+Gaz va 0,3-55 mkm li suyuqlik zarrachalaridan tarkib topgan sistemalar nima deb nomlanadi?
+A) Emulsiya
+B) Chang zarrachalari
+C) Tuman zarrachalari
+D) Ko’pik
+Answer: C
+
+Ekvivalent diametr -d_e ni qanday aniqlanadi?
+A) 4F/P
+B) V / S
+C) pi d^2 / 4
+D) d = 2r
+Answer: A
+
+Suyuqlikning massaviy sarfi qaysi formula bilan topiladi?
+A) W⋅F
+B) W/F
+C) ρ⋅V
+D) W⋅F⋅ρ
+Answer: D
+
+Oqim uzluksizlik tenglamasiga mos tenglamalarni aniqlang.
+A) Q=W⋅F
+B) G=W⋅F⋅ρ
+C) w1*F1*p1=W2*F2*P2=W3*F3*P3
+D) P_1/(ρ⋅g)+W_1^2/(2g)+Z_1=const
+Answer: C
+
+Suyuklik va 0.4-100 mkm o’lchamli boshqa zarrachalardan tarkib topgan sistemalar nima deb nomlanadi?
+A) Tuman
+B) Suspenziya
+C) Emulsiya
+D) Aerozol
+Answer: C
+
+Quyidagi kattaliklar  P/(ρ⋅g) qanday sig’im (napor) va energiyani bildiradi?
+A) Statik energiyani (bosim sig'imini)
+B) Geometrik sig'imni
+C) Ishqalanish yo'qotishini
+D) Dinamik energiyani
+Answer: A
+
+Quyidagi kattaliklar W^2/(2g) qanday sig’im (napor) va energiyani bildiradi?
+A) Ishqalanish yo'qotishini
+B) Geometrik sig'imni
+C) Dinamik energiyani (tezlik sig'imini)
+D) Statik energiyani
+Answer: C
+
+Gaz va 3-70 mkm o’lchamli qattiq zarrachalardan tarkib topgan sistemalar nima deb nomlanadi?
+A) Chang zarrachalari
+B) Tuman
+C) Ko’pik
+D) Emulsiya
+Answer: A
+
+Quyidagi kattaliklar Z qanday sig’im (napor) va energiyani bildiradi?
+A) Geometrik sig'imni
+B) Statik energiyani
+C) Dinamik energiyani
+D) Ishqalanish yo'qotishini
+Answer: A
+
+Real suyuqlik uchun Bernulli tenglamasiga mos tenglamalarni aniqlang.
+A) P_1/(ρ * g) + W_1^2/(2g) + Z_1 = \text{const}
+B) P_1 = P_0 + ρ * g * h
+C) W_1 * F_1 = W_2 * F_2
+D) Z_1+P_1/p*g+W_1/2g=Z2+P2/p*g+W2/2g+hn
+Answer: D
+
+Jalyuzili kamerada gazsimon turli jinsli sistema qaysi kuch ta’sirida ajratiladi?
+A) Elektr maydoni ta’sirida
+B) Filtrlash ta’sirida
+C) Og’irlik kuchi ta’sirida
+D) Inersion kuchlar ta’sirida
+Answer: D
+
+Suyuqlik sarfi va tezligini o`lchovchi asbob nomini belgilang.
+A) Venturimetr
+B) Termometr
+C) Manometr
+D) Pito-Prandtl naychasi
+Answer: D
+
+Modifikatsiyalashgan Reynolds kriteriyasiga qaysi formula mos keladi?
+A) w*d/h*m*u
+B) n*d2*p/µ
+C) w*L/u
+D) w^2/(g*L)
+Answer: B
+
+Agar suyuqlik zarrachalari oqim tezligi va ρ, t, P kattaliklar miqdori vaqt o’tishi bilan o’zgarmasa, bu suyuqlikning oqim harakati qanday oqim deb ataladi?
+A) Turg’un oqim (statsionar)
+B) Laminar oqim
+C) Turbulent oqim
+D) Turg’un bo'lmagan oqim
+Answer: A
+
+Laminar rejim harakatida o’rtacha tezlikka mos formulalarni aniqlang.
+A) 0.3wmax
+B) 0.5wmax
+C) 0.8wmax
+D) wmax/2
+Answer: B
+
+Suyuqlik zarrachalari betartib harakat qilib, zarrachalar aralash, xaotik harakat qilsa, u holda harakat nima deb nomlanadi?
+A) U holda harakat statsionar
+B) U holda harakat turbulent
+C) U holda harakat laminar
+D) U holda harakat ideal
+Answer: B
+
+Turbulent rejimda suyuqlikning o’rtacha tezligi qanday topiladi?
+A) (0,8-0,9)*wmax
+B) 0,5*wmax
+C) 0,2*wmax/2
+D) 2*wmax
+Answer: A
+
+Ishqalanish uchun yo`qotilgan bosim qanday aniqlanadi?
+A) P_1 - P_2
+B) Z + P/(ro*g) + W^2/(2g)
+C) ro*g* h
+D) λ*1/d*w2*p/2
+Answer: D
+
+Yengli filtrda gazsimon turli jinsli sistemalar qanday ajratiladi?
+A) Gravitatsiya kuchi yordamida
+B) Inersion kuchlar ta’sirida
+C) G’ovakli to’siq yordamida
+D) Elektr maydoni yordamida
+Answer: C
+
+Suyuqlikning hajmiy sarfi qaysi formula bilan aniqlanadi?
+A) W / F
+B) W*F*ro
+C) ro* V
+D) W* F
+Answer: D
+
+Elektrofiltrda gazsimon turli jinsli sistema qaysi kuch yordamida ajratiladi?
+A) Inersion kuchlar ta’sirida
+B) Elektr maydoni yordamida
+C) Og’irlik kuchi yordamida
+D) Mexanik kuch yordamida
+Answer: B
+
+Gazlarni siqish natijasida uning hajmi qanday o`zgaradi?
+A) Hajmi kamayadi
+B) Temperaturasi oshadi
+C) Hajmi o’zgarmaydi
+D) Hajmi oshadi
+Answer: A
+
+Foydali quvvat qaysi formuladan aniqlanadi?
+A) N_o = H* Q
+B) m*g*h
+C) P* V
+D) ρ*g*h*Q/ƞn
+Answer: D
+
+Nasosning ichki g`ildiragi aylanishi natijasida, markazdan qochma kuch yordamida suyuqlikning bosimini oshiradigan nasoslar qanday nomlanadi?
+A) Parrakli nasoslar (Markazdan qochma nasoslar)
+B) Shnekov nasoslar
+C) Porshenli nasoslar
+D) Tishli nasoslar
+Answer: A
+
+Nasosning to`liq sigimi (napori) qaysi formuladan aniqlanadi?
+A) H = (P_2 - P_1) / (ρ * g)
+B) H2+P2-P1/ρ*g+hy
+C) H = W^2 / (2g)
+D) H = Z
+Answer: B
+
+Turli jinsli gazlarni suyuqlik bilan yuvib tozalashga nimalar kiradi?
+A) Filtrlash, cho'ktirish, sentrifugalash
+B) Gazlarni suyuqlik yoki boshqa suyuqliklar bilan yuvish, bug’larni suv bilan yuvish, qattiq jismlarni suyuqlik yoki boshqa suyuqliklar bilan yuvish
+C) Bug'latish, quritish, rektifikatsiya
+D) Maydalash, aralashtirish, saralash
+Answer: B
+
+Bosimi atmosfera bosimidan past bo’lgan gazlarni so’rish uchun qanday mashinalar ishlatiladi?
+A) Gazoduvka
+B) Vakuum nasos
+C) Kompressor
+D) Ventilyator
+Answer: B
+
+Gazlarni siqish va uzatish uchun mo’ljallangan mashinalar nima deb ataladi?
+A) Ventilyatorlar
+B) Nasoslar
+C) Turbinalar
+D) Kompressorlar
+Answer: D
+
+P_2/P_1 < 1,1 bo’lganda, ko’p miqdordagi gazlarni uzatish uchun qanday mashinalar ishlatiladi?
+A) Vakuum nasoslar
+B) Kompressorlar
+C) Ventilyatorlar
+D) Gazoduvkalar
+Answer: C
+
+Siqilgan gaz bosimi P_2 ning siqilmagan gaz bosimi P_1 ga nisbati nima deb ataladi?
+A) F.I.K.
+B) Kengayish darajasi
+C) Siqish darajasi
+D) Bosim farqi
+Answer: C
+
+Cho’ktiruvchi elektrod qaysi manbaga ulanadi?
+A) Musbat manbaga
+B) Manfiy manbaga
+C) O'zgaruvchan tok manbaga
+D) Topraklama
+Answer: A
+
+Elektrofiltr qaysi tokda ishlaydi?
+A) Impulsli tokda
+B) Induksion tokda
+C) O'zgaruvchan tokda
+D) O’zgarmas tokda
+Answer: D
+
+P_2/P_1 nisbat 1,1÷3 oraliqda bo`lsa, bunday gazlarni uzatish uchun qanday mashinalar ishlatiladi?
+A) Vakuum nasoslar
+B) Gazoduvkalar
+C) Kompressorlar
+D) Ventilyatorlar
+Answer: B
+
+P_2/P_1 > 3 bo’lganda, yuqori bosim hosil qilish uchun qanday mashinalar ishlatiladi?
+A) Gazoduvkalar
+B) Vakuum nasoslar
+C) Yuqori bosim kompressorlari
+D) Ventilyatorlar
+Answer: C
+
+Issiqlik tarqalishining prinsipial turlari keltirilgan javobni aniqlang?
+A) Konveksiya, issiqlik o‘tkazuvchanlik, issiqlikni nurlanishi
+B) Diffuziya, absorbsiya, desorbsiya
+C) Bug'lanish, quritish, kondensatsiya
+D) Erish, qotish, sublimatsiya
+Answer: A
+
+Yengli filtrning gidravlik qarshiligi?
+A) 10000-20000 Pa
+B) 50-100 Pa
+C) 500-2500 Pa
+D) 100-300 Pa
+Answer: C
+
+Mexanika qonunlariga bo’ysunadigan suyuqlik oqimlarining harakati bilan bog’liq gaz, bug’ va suyuqlik uzatish, aralashmalarni ajratish jarayonlari, chunonchi cho’ktirish, filtrlash, sentrifugalash kabi jarayonlar quyida keltirilgan qaysi asosiy jarayonlarga to’g’ri keladi?
+A) Gidromexanik jarayonlar
+B) Mexanik jarayonlar
+C) Issiqlik jarayonlari
+D) Massa almashinish jarayonlari
+Answer: A
+
+Agar, cho’ktirgich ish unumdorligi ma’lum bo’lsa, cho’ktirish yuzasi qaysi formuladan topiladi.
+A) F = A * B
+B) F = m * g
+C) F = V / W
+D) F = G / (ρ * W)
+Answer: D
+
+Tindirish va cho’ktirish uchun mo’ljallangan qurilmalar ishlash printsipiga ko’ra qanday turlarga bo’linadi?
+A) Filtrlar, absorberlar, desorberlar
+B) Sentrifuga, gravitatsion cho’ktirgich, gidrosiklon va separator
+C) Bug'latgichlar, quritgichlar, rektifikatsion kolonnalar
+D) Maydalagichlar, aralashtirgichlar, elagichlar
+Answer: B
+
+Turli jinsli sistemalarni g’ovak filtr to’siqlar yordamida fazalarga ajratish jarayoniga nima deyiladi?
+A) Filtrlash jarayoni
+B) Sentrifugalash jarayoni
+C) Sedementatsiya jarayoni
+D) Cho'ktirish jarayoni
+Answer: A
+
+Filtrlash jarayoni nimalar ta’sirida amalga oshiriladi?
+A) Harorat farqi ta’sirida
+B) Elektr maydoni ta’sirida
+C) Bosimlar farqi ta’sirida
+D) Konsentratsiyalar farqi ta’sirida
+Answer: C
+
+Cho’ktirish qanday kuch yordamida amalga oshiriladi?
+A) Markazdan qochma kuch yordamida
+B) Bosim farqi yordamida
+C) Elektr maydoni yordamida
+D) Og’irlik kuchi yordamida
+Answer: D
+
+Filtrlash jarayonida ajratib olingan toza mahsulot nima deyiladi?
+A) Filtrat
+B) Kondensat
+C) Cho’kindi
+D) Kek
+Answer: A
+
+Sentrifugalash qanday kuch yordamida amalga oshiriladi?
+A) Og’irlik kuchi yordamida
+B) Bosim farqi yordamida
+C) Elektr maydoni yordamida
+D) Markazdan qochma kuch yordamida
+Answer: D
+
+Siklon diametri qaysi formuladan topiladi?
+A) D = H / 2
+B) D = \sqrt{(4V) / (π * W_f)}
+C) D = (2 * R)
+D) D = d * RE/ (W * ρ)
+Answer: B
+
+Suyuqlik hajmiy sarfini qatlam ko’ndalang kesimi yuzasiga nisbati nima deb ataladi?
+A) Turbulent tezlik
+B) Kriitik tezlik
+C) Haqiqiy tezlik
+D) Mavhum tezlik (sarf tezligi)
+Answer: D
+
+Qatlam og’irligi va gidravlik qarshilik kuchlari teng bo’lganda, qaysi hodisa ro`y beradi?
+A) Filtrlash hodisasi
+B) Absorbsiya hodisasi
+C) Cho'ktirish hodisasi
+D) Mavhum qaynash hodisasi
+Answer: D
+
+Gaz faza va mayda qattiq zarrachalardan tashkil topgan sistemalar nima deb ataladi?
+A) Emulsiya
+B) Tuman
+C) Ko’pik
+D) Chang
+Answer: D
+
+O`z tarkibida gaz pufakchalari tutgan suyuq sistemalar nima ataladi?
+A) Suspenziya
+B) Emulsiya
+C) Aerozol
+D) Ko’pik
+Answer: D
+
+Bug`latish qurilmasining asosiy konstruktiv qismlarini ko`rsating.
+A) Qizdirish kamerasi, separator
+B) Kompressor, ventilyator
+C) Filtr, nasos
+D) Rektifikatsion kolonna, dephlegmator
+Answer: A
+
+Filtrlovchi qurilmalar qanday rejimda ishlaydi?
+A) Faqat uzluksiz rejimda
+B) Davriy, uzluksiz rejimda
+C) Faqat davriy rejimda
+D) Faqat yuqori bosimda
+Answer: B
+
+Agar gazlarni siqish paytida hamma issiqlik ajratib olinsa gaz va jarayonning harorati o’zgarmas bo’lsa, bu qanday jarayon bo’ladi?
+A) Izotermik jarayon
+B) Izoxorik jarayon
+C) Adiyabatik jarayon
+D) Izobarik jarayon
+Answer: A
+
+Issiqlik o’tkazish jarayonida harakatga keltiruvchi kuch qaysi formuladan boshlanadi?
+A) Bosimlar farqi
+B) Haroratlar farqi
+C) Konsentratsiyalar farqi
+D) Hajmlar farqi
+Answer: B
+
+Qaysi moddalar issiqlikni yaxshi o’tkazadi?
+A) Suyuqliklar
+B) Gazlar
+C) Organik moddalar
+D) Metall moddalar
+Answer: D
+
+Issiqlik almashinish jarayonida harakatga keltiruvchi kuch nima?
+A) Haroratlar farqi
+B) Bosimlar farqi
+C) Tezliklar farqi
+D) Konsentratsiyalar farqi
+Answer: A
+
+Qattiq moddalarda issiqlikning asosiy o’tishi qaysi usul bilan amalga oshiriladi?
+A) Nurlanish
+B) Konveksiya
+C) Issiqlik o’tkazuvchanlik
+D) Barcha usullar bilan
+Answer: C
+
+Tekis devor qalinligi bo’yicha harorat tarqalishi qaysi qonunga bo’ysunadi?
+A) Kvadratik qonunga
+B) To’g’ri chiziqli qonunga
+C) Logarifmik qonunga
+D) Eksponensial qonunga
+Answer: B
+
+Nurlangan issiqlik jism yuzasidan to’la qaytsa jism qanday nomlanadi?
+A) Absolyut shaffof jism
+B) Absolyut oq jism
+C) Absolyut qora jism
+D) Kulrang jism
+Answer: B
+
+Nurlangan issiqlik jism orqali to’la o`tib ketsa jism qanday nomlanadi?
+A) Absolyut oq jism
+B) Absolyut shaffof jism
+C) Kulrang jism
+D) Absolyut qora jism
+Answer: B
+
+Nurlangan issiqlik jismga to’la yutilsa jism qanday nomlanadi?
+A) Absolyut shaffof jism
+B) Absolyut oq jism
+C) Kulrang jism
+D) Absolyut qora jism
+Answer: D
+
+Issiqlik energiyasining elektromagnit to’lqin yordamida tarqalishi nima deb ataladi?
+A) Issiqlikning nurlanishi
+B) Issiqlik o’tishi
+C) Konveksiya
+D) Issiqlik o’tkazuvchanlik
+Answer: A
+
+Qattiq jismlarda issiqlik tarqalishining asosiy turi nima?
+A) Konveksiya
+B) Barcha usullar
+C) Issiqlik o’tkazuvchanlik
+D) Nurlanish
+Answer: C
+
+Issiqlik o’tkazishning asosiy tenglamasidan qaysi kattalik hisoblab topiladi?
+A) Issiqlik almashinish yuzasi
+B) Issiqlik miqdori
+C) Haroratlar farqi
+D) Issiqlik o'tkazuvchanlik koeffitsienti
+Answer: A
+
+Fazalar qoidasiga binoan, ikki fazali va uch komponentli sistemaning erkinlik darajasi qanday bo’ladi?
+A) 3
+B) 1
+C) 0
+D) 2
+Answer: A
+
+Eng keng tarqalgan va samarali issiqlik eltkich nima?
+A) Vakuum
+B) Gazlar
+C) Organik suyuqliklar
+D) Qattiq jismlar
+Answer: C
+
+Kolonnali absorberlarni turli xil shakldagi nasadkalar bilan to‘ldirishdan asosiy maqsad nima?
+A) Gaz va suyuqlikning ajralishini tezlashtirish
+B) Gaz va suyuqlik o‘rtasidagi to‘qnashuv yuzasini orttirish
+C) Bosimni oshirish
+D) Kolonna balandligini kamaytirish
+Answer: B
+
+Harorati yuqori bo’lgan muhitdan harorati past bo’lgan muhitga vaqt birligi ichida ajratuvchi devorning 1 m² yuzasidan muhitlar haroratlari farqi 1°C bo’lganda o’tkazilgan issiqlik miqdori nima deb ataladi?
+A) Nurlanish koeffitsienti
+B) Issiqlik o’tkazish koeffitsienti
+C) Konveksiya koeffitsienti
+D) Issiqlik o’tkazuvchanlik koeffitsienti
+Answer: B
+
+Berilgan tenglamalarning qaysi biri issiqlik o’tish tenglamasi deyiladi?(bu yerda \Delta T - haroratlar farqi, tur - umumlashgan ko'rsatkich bo'lishi mumkin)
+A) Q = \alpha * F * \Delta T
+B) Q = \lambda * A * \Delta T / \delta
+C) Q=K*F*τ*tur
+D) Q = \epsilon * \sigma * F * T^4
+Answer: C
+
+Issiqlik almashinish qurilmalarida muhitlarni qaysi yo`nalishi afzalroq?
+A) To’g’ri yo’nalish
+B) Vertikal yo’nalish
+C) Qarama-qarshi yo’nalish
+D) Aralash yo’nalish
+Answer: C
+
+Bug`latish jarayonida boshqa maqsadlar uchun ajratilgan ikkilamchi bug’ nima deb nomlanadi?
+A) To’yingan bug’
+B) Birlamchi bug’
+C) Ikkilamchi bug’, ekstra bug’
+D) Quruq bug’
+Answer: C
+
+Qaynayotgan eritmani bug’latish paytida hosil bo’layotgan bug’ nima deb ataladi?
+A) Quruq bug’
+B) Ikkilamchi bug’
+C) Birlamchi bug’
+D) To’yingan bug’
+Answer: B
+
+Bug’latish jarayonining moddiy balansini aniqlaydigan tenglama qaysi ko’rinishga ega?
+A) F + C = K + 2
+B) Gb=Gox+W (boshlang'ich mahsulot = oxirgi mahsulot + bug'langan suv)
+C) Z_1 + P_1/(ρ * g) + W_1^2/(2g) = const
+D) Q = K * F * \Delta T
+Answer: B
+
+Massa almashinish jarayonida harakatga keltiruvchi kuch nima?
+A) Bosimlar farqi
+B) Konsentratsiyalar farqi
+C) Haroratlar farqi
+D) Tezliklar farqi
+Answer: B
+
+Eritma yoki qattiq jismlar tarkibidan bir yoki bir necha komponentni maxsus suyuqlik yordamida ajratib olish jarayoni nima deb ataladi?
+A) Desorbsiya
+B) Ekstraktsiyalash
+C) Adsorbsiya
+D) Absorbsiya
+Answer: B
+
+Fazalar qoidasi to`g`ri yozilgan formulani toping.
+A) F * C = K * 2
+B) F - C = K + 2
+C) F + C = K + 2
+D) F + K = C + 2
+Answer: C
+
+Rektifikatsiya kolonnasining quyi qismi uchun ish chizigi tenglamasini aniqlang.
+A) Y = (R+f)/(R+1) * x + (1-f)/(R+1) * x_W
+B) Y = m * x + b
+C) Y = x
+D) Y = (R/(R+1)) * x + x_D / (R+1)
+Answer: A
+
+Nam material muzlatilgan holdan yuqori vakuum ostida namsizlantirilsa, bunday quritish turi nima deb nomlanadi?
+A) Konvektiv quritish
+B) Sublimatsion quritish
+C) Kontakt quritish
+D) Radiatsion quritish
+Answer: B
+
+I-x diagrammasi nima uchun xizmat qiladi?
+A) Harorat va bosim orasidagi bog'liqlikni aniqlash
+B) I-x diagrammasi nam havoning holatini aniqlash
+C) Suyuqlikning entalpiyasini aniqlash
+D) Massa almashinish tezligini hisoblash
+Answer: B
+
+Kaloriferda havoni isitish qanday sharoitda o’tadi?
+A) I = const
+B) t = const
+C) x = const (mutlaq namlik o'zgarmas)
+D) P = const
+Answer: C
+
+2-0,075 mm o’lchamli zarrachalar olish uchun qaysi maydalash usuli qo’llaniladi?
+A) Mayin yanchish
+B) O'rta maydalash
+C) O'ta mayin maydalash
+D) Qo'pol maydalash
+Answer: A
+
+Jismni maydalash uchun sarf bo`layotgan ish jism hajmiga (yoki massasiga) proportsional degan gipoteza kimniki?
+A) Kirpichev gipotezasi
+B) Rittinger gipotezasi
+C) Bond gipotezasi
+D) Mayer gipotezasi
+Answer: B
+
+Maydalanish darajasi qaysi formula yordamida hisoblanadi?
+A) i = D * d
+B) i = D/d
+C) i = D - d
+D) i = D + d
+Answer: B
+
+Qayta ishlanayotgan qattiq material yuzasini qaysi usulda oshirish mumkin?
+A) Qotirish usulida
+B) Bug'latish usulida
+C) Maydalash usulida
+D) Eritish usulida
+Answer: C
